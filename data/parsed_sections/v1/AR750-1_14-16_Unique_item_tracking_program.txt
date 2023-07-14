@@ -1,0 +1,19 @@
+
+14–16.  Unique item tracking program  
+a.  The objective of the UIT Program is to maintain visibility of each uniquely identified a sset for the pri-
+mary purpose of inventory control and/or engineering analysis. Security, accountability, safety, mainte-
+nance, OR, warranty applicability, and other areas that may benefit from the tracking process will be sub-
+sets of the inventory control o r engineering analysis functions. UIT by serial number of selected items and 
+installed components is required by Defense Logistics Manual 4000.25  –  2 Volume 2, DoDI 4140.07, and 
+AR 710  –  3. 
+b.  UIT reporting requirements for Army -controlled small arms,  security risk I nonnuclear missiles and 
+rockets, CCIs, and radiological testing and tracking assets are set forth in AR 710  –  3. Additional assets for 
+which serial number tracking via UIT is deemed necessary will be approved by the DCS, G  –  4 (Mainte-
+nance Directorate).  
+c.  All assets within the supply system subject to UIT will be tagged with a UII that specifically identifies 
+individual assets being controlled or managed. A UII can be the item’s serial number, and the vehicle 
+identification number,  if no other UIT asset has the same identifier within the NSN or NIIN. Installed com-
+ponents, as specified in AR 710  –  3, also require UII assignment.  
+d.  All UIT programs will include provisions for data entry and tracking using AIT. In that regard,  
+MATDEVs will ensure that new procurements of serial -number -tracked assets include provisions for AIT-
+readable serial number markings to be applied during manufacture.  

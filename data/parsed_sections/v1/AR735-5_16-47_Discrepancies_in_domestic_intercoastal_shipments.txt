@@ -1,0 +1,19 @@
+
+16–47. Discrepancies in domestic intercoastal shipments
+Domestic intercoastal shipments ordinarily move from point of origin to final destination through two or more
+intermediate transfer points. Transfer points for military cargo exist at MTMC terminals or offices at coastal citiesunder the jurisdiction of the cognizant MTMC terminal or out port. Separate BLs issued at point of origin and at eachtransfer point covered by each element of a given routing. MSC routes the ocean part of the movement.
+a. Upon receipt of shipment at a transfer point, make a package check with the BL. Make a record of missing or
+damaged packages by serial numbers or other identifying marks. Open packages received in damaged condition andverify the contents if reason exists to believe that a part of the contents is missing or damaged.
+(1) Immediate consignees will report description and weight of missing or damaged packages and cost data for any
+repackaging by DD Form 361 to the final destination consignee. DD Form 361 will reference the serial numbers ofboth inbound and outbound BL numbers.
+(2) In each case, the intermediate consignee will cross-reference BL numbers on the inbound and outbound BL.
+Further, show discrepancies noted on the inbound movement on the face of the outbound BL.
+b. On the basis of a final check of the inbound shipment and the information furnished according to paragraph
+16–48 a, the consignee receiving TO at the final destination will complete a DD Form 361 that covers all consequential
+and unadjusted transportation discrepancies that have been reported for which carrier liability cannot be ruled out (seepara 16–7).
+(1) The receiving TO or the appointing and approving authority will not need to decide which carrier of a number of
+connecting carriers to hold financially liable for a discrepancy noted on a BL covering a segment of the completemovement. Determine carrier liability on a basis of each separate BL.
+(2) Include concealed damage impossible to allocate to the movement covered by any one of the several BLs in DD
+Form 200; however, regard such damage as an item jointly chargeable to the several BLs subject to such allocation asdecided upon by the officer taking action on the financial liability investigation of property loss.
+c. Discrepancies due to movement in the ocean part of a domestic intercoastal shipment results in the preparation of
+a claim file by the MSC. The ultimate consignee will send within 15 days after receipt of shipment, but not later than60 days after cargo discharge a DD Form 361 to the military ocean terminal having jurisdiction over military cargo atthe POD for processing and submission to MSC for adjudication.

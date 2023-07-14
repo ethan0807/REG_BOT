@@ -1,0 +1,56 @@
+
+4–10.  Controlled exchange  
+a.  Controlled exchange is the removal of serviceable components from unserviceable, economically 
+reparable end items for immediate reuse in restoring a like item or weapon system to an FMC condition. 
+The unserviceable component must be used to replace the se rviceable component or retained with the 
+end item that provided the serviceable component.  
+b.  Controlled exchange is authorized only when — 
+(1)  Required components are not available from the source of supply ( SOS) within the issue priority 
+designator ind icated on the maintenance request.  
+(2)  A valid requisition is submitted to replace the unserviceable item.  
+(3)  The maintenance effort required to restore all the unserviceable reparable materiel involved to a 
+mission capable condition is within the MAC authorization and the capability of the unit performing the 
+controlled exchange.  
+(4)  The end item or weapon system from which the serviceable component is removed is classified not 
+mission capable ( NMC) supply.  
+(5)  Aircraft from which a serviceable comp onent is removed must be classified as one of the following: 
+NMC supply, NMC maintenance, or partial mission capable ( PMC).  
+(6)  Aircraft maintenance manual instructions require that a known serviceable component be temporar-
+ily used while troubleshootin g. Such components may be temporarily exchanged from an FMC or PMC 
+aircraft.  
+(7)  The end item or weapon system will not be degraded to an uneconomically reparable condition.  
+(8)  The end item or weapon system from which the serviceable component was rem oved is protected 
+from further degradation.  
+(9)  The unserviceable component is tagged and installed on, or retained with, the end item or weapon 
+system from which the serviceable like item was removed. In addition, the removal of the component 
+must be rec orded on DA Form 5990  –  E, DA Form 2407, DA Form 5988  –  E, DA Form 2404, or DA Form 
+2408  –  13  –  3 for the end item or weapon system. This is to retain the identity and integrity of the reparable 
+end item or weapon system.  
+(10)  The organization performing the controlled exchange takes prompt action to restore the unser-
+viceable materiel to an FMC condition.  
+ 
+c.  When the controlled exchange satisfies a requirement already in the Army supply system, that requi-
+sition will be either canc eled or used to restore the unserviceable end item or weapon system to FMC.  
+d.  As a result of a controlled substitution action, record the part source code G in GCSS –Army to indi-
+cate the component was taken from another like end item when closing the wo rk order on the end item 
+being returned to FMC status (see GCSS –Army End User Manual Plus).  
+e.  Controlled exchange by using units is authorized only when — 
+(1)  All the unserviceable reparable materiel involved is owned or under control of the organizati on per-
+forming the controlled exchange.  
+(2)  It is the only means reasonably available to eliminate an adverse effect on the OR of the unit, or-
+ganization, or activity performing the controlled exchange.  
+(3)  Approved by the commander of the organization performing the controlled exchange.  
+f.  Controlled exchange by field and sustainment levels of maintenance will be authorized onl y when — 
+(1)  It is the only means of providing an FMC end item or weapon system to a supported unit within the 
+time frame indicated by the issue priority designator on the maintenance request.  
+(2)  It is for other than aviation equipment, approved by the first O  –  5 commander of the owning equip-
+ment or sustainment maintenance commander. Approval process for aviation equipment will be in accord-
+ance with AR 95  –  4. 
+g.  During mobilization or combat, ACOM, ASCC, and DRU  commanders may modify the controlled ex-
+change conditions as deemed necessary.  
+h.  Controlled exchange is not authorized when the investigating officer has not formally released mate-
+riel involved in an accident.  
+i.  Controlled exchange is not authorized on  RCF assets.  
+j.  Control exchange documents and a controlled exchange log will be maintained in accordance with 
+AR 25  –  400  –  2. Documentation will be filed in accordance with the record retention schedule available at 
+https://www.arims.army.mil . 

@@ -1,0 +1,29 @@
+
+6–3.  Functional responsibilities, program objectives, and maintenance support concept  
+a.  The functional responsibilities of the Army aviation maintenance activities are to — 
+(1)  Provide safe, reliable, and FMC aircraft to the user.  
+(2)  Sustain materiel in an operational status and/or restore equipment to an FMC condition.  
+(3)  Enhance or upgrade aircraft functional usefulness through MWO, materiel change, and product im-
+provement.  
+b.  The program objective of Army aviation maintenance  is to provide robust modular maintenance and 
+logistics support to aviation weapon systems end item users. This includes, but is not limited to, repair of 
+airframes, engines, aircraft subsystems, avionics, communications, navigation, aircraft survivability  equip-
+ment, aerial weapon systems, fire control and/or fire direction items, and other airborne mission equip-
+ment packages necessary to support the total aviation weapon system life cycle support.  
+c.  The maintenance support concept to accomplish these obj ectives, will transition from its current 
+three levels of aviation maintenance to the Army maintenance system consisting of field and sustainment 
+maintenance levels. The Aviation Logistics Transformation Plan will restructure aviation maintenance or-
+ganizat ions from the current three levels of maintenance, which employs redundant echelons of pass -
+back aviation maintenance, to tailored, robust, and mobile aviation maintenance units. This modular 
+maintenance concept allocates personnel, tools, and equipment re sources where they are most effective. 
+This change will result in a robust aviation maintenance operation. The goal is to eliminate redundancy 
+where possible while retaining core capabilities. These long -term efforts will culminate in significant reduc-
+tions to the aviation logistics tail.  
+d.  Designation and utilization of the former aviation unit maintenance ( AVUM) and/or aviation interme-
+diate maintenance ( AVIM) is no longer applicable under the Army maintenance system. Commands will 
+not use AVUM and AVIM designations in maintenance determination and execution. Any published refer-
+ence to either term will be disregarded, and the required level of maintenance will be considered field 
+maintenance. Specific tasks will be accomplished based on MTOE SKOTs assigned to the command and 
+ 
+qualified personnel available to perform the required tasks. The combat aviation brigade commander has 
+the authority to locate and assign all FLM capabilities in support of the combat aviation brigade’s mission.  

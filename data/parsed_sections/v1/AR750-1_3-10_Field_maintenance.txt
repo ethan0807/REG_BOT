@@ -1,0 +1,75 @@
+
+3–10.  Field maintenance  
+a.  The fundamental element of field maintenance is the requirement for PMCS. See DA Pam 750  –  1 for 
+the characteristics of field maintenance.  
+b.  Operator and/or crew maintenance is the foundation of Army maintenance and requires continuous 
+emphasis from all commanders and leaders. Operator and crew proficiency are critical to readiness and 
+must be made a priority by leaders at all levels.  
+(1)  Comm anders must establish a command climate that ensures assigned equipment is maintained to 
+the maintenance standard defined in paragraph 3  –  3 and DA Pam 750  –  1 and are responsible for provid-
+ing resources, assigning r esponsibility, and training Soldiers to achieve this standard.  
+(2)  Operator and/or crew performing PMCS from the applicable TM  –  10 series is the cornerstone of the 
+Army maintenance system. NCOs are responsible for ensuring operator and crew proficienc y in the use 
+and care of their assigned equipment. Commanders must provide and protect adequate time for NCOs to 
+train and achieve required levels of proficiency.  
+(a)  Deficiencies detected during the before operations portion of the PMCS which render the equip-
+ment NMC per the Technical Manual or violate a safety directive must be corrected before the mission.  
+(b)  Deficiencies detected during the mission affecting FMC must be corrected during the mission.  
+c.  Recovery vehicle policy.  
+(1)  Wheeled and tracked recovery vehicles will be operated by properly trained and certified recovery 
+personnel.  
+(2)  At a minimum, there must be at least one wheel recovery ASI H8 cert ified recovery operations indi-
+vidual in the vehicle while performing recovery missions for wheeled recovery vehicles, and at least two 
+track certified ASI H9 track recovery specialists for tracked recovery operations.  
+(3)  A wheel ASI H8 recovery special ist or a track ASI H9 recovery specialist cannot be substituted to 
+perform recovery operations with equipment they have not been properly trained on and certified for by 
+the U.S. Army Ordnance School.  
+d.  Authority to perform communications security ( COM SEC) repair cannot be delegated. Request for 
+waivers will be submitted through command channels to Director, U.S. Army Communications Security 
+Logistics Activity (AMEL  –  LCA) 2133 Cushing Street, Suite 3600, Fort Huachuca, AZ 85613  –  7041 for ap-
+proval.  
+e.  USAR specific requirements — 
+(1)  USAR maintenance activities were established to perform FLM, which is beyond the USAR com-
+mander's capability to perform during scheduled training assemblies. Geographical support boundaries 
+are assigned by the USARC. The maintenance activities are designated for ground support equipment 
+(GSE), watercraft, or ground and watercraft.  
+(2)  Equipment concentration sites ( ECSs) have a maintenance branch with a mission to support units 
+in the surrounding geographical area a nd a storage branch for that equipment beyond the capability of 
+the owning unit commander to store, maintain, or use at the home station. Preference for storage location 
+should be at the unit’s mobilization or AT site to minimize transportation costs and time delays during mo-
+bilization.  
+(3)  Area maintenance support activities ( AMSAs) and ECS, with an assigned maintenance support 
+mission for small arms, are authorized to perform field maintenance. This support c an be performed at the 
+unit’s home station using maintenance contact teams or at the AMSA and/or ECS when the small arms 
+are evacuated to these facilities by the owning unit. MTOE maintenance personnel may perform duties of 
+TDA maintenance activities t o reduce backlog, maintain skills, and update MOS training.  
+(4)  USAR TDA maintenance activities are authorized to perform FLM contingent upon availability of 
+required resources and skilled personnel. An alternate field maintenance activity within the geographic 
+ 
+support area may be used. When used, an installation support activity or contract may be required. Items 
+requiring field maintenance may be evacuated to the most cost -effective location for repair or replace-
+ment.  
+f.  ARNG  specific requirements — 
+(1)  FMS in the ARNG will provide field maintenance that is beyond the capabilities of owning units. 
+Owning units will perform field maintenance, including scheduled services, within the capability of the unit 
+during IDT and AT periods. Unit commanders will advise supporting FMS forepersons of field mainte-
+nance requirements that are beyond their unit’s capability. FMSs will perform the following maintenance 
+functions for surface equipment — 
+(a)  Maintain liaison with supported u nit commanders.  
+(b)  Schedule maintenance services, when feasible, to coincide with quarterly and semiannual services.  
+(c)  Service all equipment issued under warranty as specified in the manufacturer's service manual or 
+materiel fielding plan.  
+(d)  Mainta in authorized repair parts and supplies, for the unit, when the Class IX is located at the FMS.  
+(e)  Furnish contact teams to perform field maintenance and inspection when this is more economical 
+than scheduling equipment into the shop.  
+(f)  Augment maint enance that is beyond the capability of units using training sites.  
+(g)  Provide administrative and operational control support for assigned unit assets, including readiness 
+reporting to parent organizations.  
+(h)  Handle equipment evacuation in accordance with DA Pam 750  –  1. 
+(2)  The ARNG CSMS will perform field and (repair and return) sustainment maintenance on all Federal 
+surface equipment. The CSMS is under the control and supervision of the surface maintena nce manager 
+and provides field and sustainment maintenance to:  
+(a)  Equipment pre -positioned at a co -located MATES and/or UTES.  
+(b)  Augment support to non -collocated MATES.  
+(c)  Supported FMSs.  
+(d)  Any DoD agency when authorized by CNGB.  

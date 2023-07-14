@@ -1,0 +1,27 @@
+
+13–3. Mandatory initiation of a financial liability investigation of property loss
+a. Initiate and process a financial liability investigation of property loss to account for lost, damaged, or destroyed
+Government property when one or more of the situations listed below exist. Table 12-1 and table 12-2 display thesedata in chart form, segregated for damaged property and lost or destroyed property. Process the DD Form 200 inaccordance with the version of this regulation in effect at the time the loss, damage, destroy, or theft (LDDT) occurred.A DD Form 200 will be processed when—
+(1) Negligence or willful misconduct is suspected as the cause, and the individual does not admit liability and
+refuses to make voluntary reimbursement to the Government for the full value of the loss less depreciation.
+(2) The property lost, damaged, or destroyed involves a change of accountable officer’s inventory and the outgoing
+accountable officer made no voluntary reimbursement for the full amount of the loss to the Government.
+(3) The value of the admitted loss or damage exceeds the individual’s monthly basic pay (military) or 1/12th of the
+annual salary of a civilian employee.
+(4) The value of the damages or shortages in occupied Government quarters (real property and furnishings com-
+bined) or Government furnishings in non-Government quarters exceeds the individual’s monthly basic pay.
+(5) The total handling loss of a specific bulk petroleum product exceeds the allowable loss for that product, and the
+dollar value of the total loss exceeds $1,000 (see AR 710–2).
+(6) Any controlled item is identified by a CIIC 1-6, 8, 9, N, P, Q, R, night vision devices and navigation systems
+(for example, Global Positioning System), investigate controlled inventory items lost or destroyed per AR 15–6.However, do not use the AR 15–6 investigation as authority to adjust property records or to assess financial liability.Process a DD Form 200 to accomplish either of these actions. There is no requirement to perform an additionalinvestigation or assign a liability officer following an AR 15–6 investigation unless additional information is needed(see para 13–25). The loss of COMSEC, CHVP, or CCI also requires an incident report per TB 380–41. Whenpossible, coordinate the submission of the loss report with the COMSEC custodian.
+(7) Serial number changes for sensitive items will require the processing of a DD Form 200 and an AR 15–6
+investigation if changes involve more than two characters.
+(8) The loss or destruction involves public funds or other negotiable instruments and the individual does not
+voluntarily reimburse the Army for the loss.
+(9) The loss involves public funds or other negotiable instruments and the value is $750 or greater.(10) Required by higher authority or other DA regulatory guidance.(11) Directed by an DA Form 444 approving authority.(12) The loss or damage involves a GSA vehicle or a vehicle that was rented due to non-availability at the TMP and
+the administrative actions under paragraph 12–1 c have not been taken.
+(13) The loss is a recoverable item with a recoverability code of “D,” “F,” “H,” or “L.”(14) The loss resulted from a fire, theft, or natural disaster.(15) The total dollar value of Government owned vehicle damage loss exceeds $1,000.(16) Soldier refuses to sign DD Form 362.(17) Losses due to combat where equipment is determined captured, abandoned or a physical loss (no residue).
+b. Paragraph 13–25 discusses the relationship between an investigation using the procedures in AR 15–6 and a DD
+Form 200 using the procedures in this regulation. AR 190–11 contains mandatory requirements for initiating an AR15–6 investigation for missiles and rockets, arms (including parts), ammunition, and explosives.
+c. Do not use a AR 15–6 investigation or a DD Form 200 for ammunition at the stock record level unless the
+quantity lost or destroyed equals or exceeds those listed in AR 190–11. If the quantity lost or destroyed does notwarrant an AR 15–6 investigation, prepare the adjustment document using inventory adjustment report proceduresunder the provisions of paragraph 14–34.

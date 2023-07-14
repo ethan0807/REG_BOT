@@ -1,0 +1,21 @@
+
+13–22. Decision by the approving authority without further investigation
+This action, a “short financial liability investigation of property loss,” provides the approving authority the option of
+shortening the financial liability investigation of property loss process when the facts and circumstances permit. Whenan appointing authority has not been designated by the approving authority, block 13c is left blank.
+a. Relief from responsibility. When the approving authority determines from the information contained in DD Form
+200, blocks 9 and 10, and attached exhibits, there is no evidence of negligence, they may provide relief from
+responsibility by—
+(1) Enter “X” in box adjacent to approved in block 13a.(2) Completing blocks 14b through 14h, placing a statement in block 14b to relieve all concerned of property
+accountability and responsibility: “I have reviewed the information contained in blocks 9 and 10. No further investiga-tion is required. I do not suspect negligence, or willful misconduct. I relieve all concerned from financial liability forthe property listed in blocks 4 through 6.”
+b. Assessment of financial liability. When the approving authority can establish from the information contained on
+DD Form 200, blocks 9, 10, and 12 and attached exhibits that negligence or willful misconduct was the proximatecause of the loss or damage, financial liability may be assessed by—
+(1) Ensuring that all actions normally performed by the financial liability investigation officer are performed, such
+as determination of fair market value or depreciation (see para 13–32).
+(2) Preparing a memorandum to the respondent stating intent to assess financial liability without further investiga-
+tion. The memorandum will include the facts, on which the proposed charge of financial liability is based, computationof the actual loss, and the amount of financial liability to be charged. The memorandum will include an explanation ofthe respondent’s rights as described in paragraphs 13–34 and 13–35. A complete copy of the DD Form 200 with copiesof all the exhibits will be attached to the memorandum as an enclosure. Instruct the respondent to complete blocks 16athrough 16h before returning the DD Form 200 to the approving authority.
+(3) On receipt of a rebuttal statement, if one is received, the approving authority will consider the financial liability
+investigation together with any new evidence provided, or allegations of error presented by the respondent. Theapproval authority will make appropriate comments and attach the rebuttal statement and remarks to the DD Form 200as exhibits.
+(4) On receipt and review of the rebuttal statement, or upon expiration of the time allowed the respondent to submit
+a rebuttal statement, forwarding to the installation legal advisor for a legal opinion per paragraph 13–38, the DD Form200 with all exhibits and a copy of the memorandum to the respondent containing the facts on which proposedassessment of financial liability is based.
+(5) On receipt of the legal opinion, final approval to hold respondent financially liable is accomplished by
+completing blocks 14a through 14h, inserting a statement in block 14b to assess financial liability against an individual.Use a statement similar to the following: “Approved to hold (insert name, grade, and SSN) financially liable in theamount of (enter amount). (Insert name and grade), monthly basic pay at the time of the loss was (enter amount).”Respondents must be notified of the approved charges of financial liability and be provided the opportunity to exercisetheir rights as listed in paragraph 13–42.

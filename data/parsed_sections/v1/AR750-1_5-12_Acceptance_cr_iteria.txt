@@ -1,0 +1,12 @@
+
+5–12.  Acceptance cr iteria  
+A QA and reliability management program will be established and maintained by each Army depot for its 
+depot maintenance activities. Output that fails to meet standards will be scrapped, reworked, repaired, or 
+otherwise disposed of, as appropriate. U.S. Army depots will — 
+a.  Ensure quality requirements are developed and documented early in the life cycle of the weapon 
+system.  
+b.  Establish cost -effective QA procedures that assure product quality and reliability in maintenance 
+shops.  
+c.  Provide a ca pability for independent and objective assessment of the quality and reliability of depot 
+maintenance output.  
+d.  Ensure that only depot maintenance output that meets quality and reliability standards is distributed.  

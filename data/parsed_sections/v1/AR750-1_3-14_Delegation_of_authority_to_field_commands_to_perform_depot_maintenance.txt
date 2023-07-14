@@ -1,0 +1,76 @@
+
+3–14.  Delegation of authority to field commands to perform depot maintenance  
+a.  General.   Depot maintenance tasks will not be performed by ACOMs, ARNG, USAR, ASCCs, and 
+DRUs  unless the authority to do so has been officially delegated by the Commander, AMC. This authority 
+is meant to support near -term readiness when the supply posture for a given item is in a weak position. 
+These tasks are marked with the MRC D or L in the a pplicable TM MAC. Depot maintenance work in the 
+Army will be tightly controlled to ensure component quality, safety of equipment operation, and to comply 
+with U.S. law. There are two methods of delegations to perform depot maintenance: SRA and OTR.  
+b.  Special repair authority (Project Code 065).   SRA (Project Code 065) is an authorization by AMC to 
+provide a maintenance organization with authority to perform maintenance to the national standard on an 
+item of equipment for a period not to exceed 1 yea r. The following policy applies to SRA:  
+(1)  Work performed under an SRA will be directly funded with customer operation and maintenance 
+(O&M) appropriation funds.  
+(2)  SRA approval will be based on the overall stock position of an asset. SRAs will no t be approved 
+when like serviceable assets are available and/or where assets exist to meet readiness and/or mission 
+needs within required timelines. Army policy is not to repair more than national requirements.  
+(3)  Only maintenance organizations that have  the technical skills, tools, test equipment, necessary fa-
+cilities, QA (inspection), and testing capability to perform DLRs will be approved. These qualifications 
+must be confirmed by the appropriate LCMC in accordance with their published internal oper ating proce-
+dures and the NMP Business Process Manual ( BPM).  
+(4)  SRAs will not be approved for items that are on the NMP current and subsequent FY workload 
+plan.  
+(5)  An SRA will not be required for those SORs  that have been technically certified to perform DLRs in 
+accordance with the applicable national standard in support of the NMP (Army working capital fund 
+(AWCF)).  
+(6)  SRA renewals are allowed when a requirement still exists for the basic SRA approve d workload for 
+1 year. If required, the initiator will begin the renewal process 90 days before the expiration of the original 
+SRA.  
+(7)  The NMP solution in LMP will be used to apply for SRA authorizations. Instructions for accessing 
+and using this sol ution are contained in the NMP BPM. The NMP solution in LMP provides an automated 
+process to manage the creation, workflow, reporting, review, and approval process for SRA’s.  
+ 
+(8)  Commander, AMC may delegate approval or disapproval authority to the LCMCs. This delegation 
+of authority is addressed in AMC’s NMP BPM.  
+(9)  The total processing time for each SRA request will not exceed 60 calendar -days. If the repair of an 
+item involves a CSI, then the LCMC processing time will be extended to 60 day s, and the total processing 
+time will be extended to 120 days.  
+(10)  If a requesting organization does not agree with the LCMCs disapproval of an SRA request, they 
+may request the SRA disapproval be reviewed by DCS, G  –  4 by using the rebuttal process as defined in 
+the NMP BPM.  
+c.  One-time repair (Project Code 064).   OTR (Project Code 064) is an authorization by AMC to provide 
+a maintenance organization with a one -time authorization to perform maintenance to the nati onal mainte-
+nance standard on an item of equipment when it is in the Army’s operational and/or readiness interest or 
+critical to mission accomplishment. The following policy applies to OTRs:  
+(1)  Work performed under an OTR will be directly funded with cu stomer O&M appropriation funds.  
+(2)  OTR approval will be based on the overall stock position of an asset. OTRs will not be approved 
+when like serviceable assets are available and/or where assets exist to meet readiness and/or mission 
+needs within requi red timelines. Army policy is not to repair more than national requirements.  
+(3)  The approval authority for an OTR is the respective AMC LCMC. Each LCMC will approve and/or 
+disapprove OTRs in accordance with their published internal operation procedu res. 
+(4)  OTRs will not be approved for items that are on the NMP current fiscal year ( CFY) workload pro-
+gram unless a critical mission readiness need cannot be satisfied by the supply system within the re-
+quired timeline.  
+(5)  Only maintenance organizati ons that have the technical skills, tools, test equipment, necessary fa-
+cilities QA (inspection), and testing capability to perform DLRs will be approved. These qualifications must 
+be confirmed by LCMC in accordance with their internal operating procedur es. 
+d.  Organizational functions.  
+(1)  AMC LCMC will be responsible to monitor/validate maintenance operations performed under the 
+SRA and/or OTR  to assure the quality, safety, and technical standards are met. LCMCs will, upon review, 
+determine if the number of repairs under a specific SRA warrants that item to be added to the NMP work-
+load. LCMCs will also determine if the frequency of an OTR warrants issuance of an SRA.  
+(2)  The maintenance activity doing repairs under SRA and/or OTR authorization is responsible to 
+maintain work order data specifics; see DA Pam 750  –  1. 
+e.  Special repair authority and/or one -time repair reporting requirem ents.  
+(1)  AMC (National Maintenance Division) will develop quarterly reports to the DCS, G  –  4 (Sustainment 
+Maintenance Division) using the data elements (report control symbol ( RCS) exempt: AR 25  –  98). 
+(2)  ACOMs, ASCCs, DRUs, and/or ARNG having  activities performing work under an SRA or OTR will 
+develop a monthly report to the respective LCMC in spreadsheet format using the below data elements 
+(RCS exempt: AR 25  –  98). Monthly reports will be in accordance with DA Pam 750  –  1. 
+f.  Monthly Reporting.   LCMCs will review each monthly report for accuracy and completeness, and 
+then provide a consolidated report no later than the 15th of each month to Commander, AMC, 4400 Mar-
+tin Road, Redstone Arsenal, AL 35898  –  5035 ( RCS exempt: AR 25  –  98). 
+g.  Rules.   The Commander, AMC will establish the internal business rules and/or procedures neces-
+sary to implement the SRA and/or OTR process within AMC.  
+h.  Quarterly Reporting.   The ACOM, ASCC, DRU, or other command performing work under  an SRA 
+and/or OTR will submit a quarterly report in accordance with DA Pam 750  –  1. 

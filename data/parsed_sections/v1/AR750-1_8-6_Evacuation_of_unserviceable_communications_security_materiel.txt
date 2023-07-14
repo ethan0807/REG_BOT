@@ -1,0 +1,17 @@
+
+8–6.  Evacuation of unserviceable communications security materiel  
+a.  COMSEC equipment will be evacuated to a capable repair activity only after a qualified CE equip-
+ment operator and/or maintainer certified for that equipmen t determines that evacuation is required in ac-
+cordance with AR 25  –  12. 
+b.  Unserviceable classified COMSEC  materiel will be evacuated through the Communications Security 
+Materiel Control System ( CMCS) by COMSEC accounts to the Commander, Tobyhanna Army Depot 
+(COMSEC) account 5B1099, 11 Hap Arnold Blvd., Building 73, Tobyhanna, PA 18466  –  5110. Unservicea-
+ble unclassified COMSEC materiel, including CCIs, will be evacuated through supply channels to the 
+Commander, Tobyhanna Army Depot (Department of Defense Activity Address Code ( DoDAAC)) 
+W81U11, 11 Hap Arnold Blvd., Building 73, Tobyhanna, PA 18466  –  5110.  
+c.  Components, assemblies, and parts that have manufacturing defects will be removed from the ma-
+teriel at the authorized maintenance level. The removal will be reported on SF 368 as a Category II qual-
+ity deficiency report ( QDR) under DA Pam 750  –  8. Whe n practical, exhibits (defective components, parts, 
+or assemblies), QDRs will be submitted through Product Data Reporting and Evaluation Program at 
+https://www.pdrep.csd.dis a.mil/ . Those parts not forwarded will be tagged with DA Form 2402 (Mainte-
+nance Tag) and held for further disposition instructions.  

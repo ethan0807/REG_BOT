@@ -1,0 +1,21 @@
+
+5–3. Inactivating a stock record account
+When an SRA is to be inactivated, all property still recorded on the account will be transferred to another property
+account. To establish closing balances and to ensure accounting continuity, the following will be done:
+a. Establish the transfer date.
+b. Terminate all actions that result in inbound materiel.
+c. Conduct a reconciliation to clear all materiel receipts due-ins.
+d. Conduct a physical inventory of the account and reconcile with the stock records. (Appropriate adjustments must
+be provided to the FAO for general ledger update.)
+e. Number, serially (beginning with 1) all stock record cards or automated system equivalent in the account being
+closed.
+f. Post all transactions dated on or before the transfer date to the stock record cards or automated system equivalent.
+g. Rule off all cards below the last entry.
+h. Prepare a transfer of accountability statement similar to the statement shown in figure 5–3 in two copies. Show
+the account being closed as consignor and the gaining account as consignee. When stock record cards or the automatedequivalent is retained with property held in place as mobilization reserve, a notation to that effect will be included onthe transfer statement.
+i. Process the transfer statement as follows:
+(1) The consignee and the commander will sign both copies.(2) One copy will be filed as the final voucher to the closed account.(3) One copy will be filed as a debit voucher to consignee account.
+Figure 5–1. Format for the transfer of property accountability statement by the losing stock record officer
+Figure 5–2. Format for the transfer of property accountability statement by the gaining stock record officer
+Figure 5–3. Format for the gaining accountable officer’s transfer of property accountability statement for inactivating a stock
+record account

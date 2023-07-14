@@ -1,0 +1,35 @@
+
+12–2.  Medical maintenance policies  
+a.  TSG, command surgeons, RMCs and/or MSCs will task the medical materiel maintenance functions 
+to medical activities to support the Army Medical  Department ( AMEDD) mission. TOE commanders will 
+report the status of selected medical items of equipment in accordance with AR 220  –  1 and AR 700  –  138. 
+b.  AMEDD  has transitioned to the Army maintenance system consisting of field and sustainment (two 
+level) maintenance.  
+c.  Medical maintenance support missions will be accomplished with applicable standards pertaining to 
+the maintenance of medical MD including, but  not limited to:  
+(1)  Documenting maintenance of radiation emitting equipment in accordance with 21 CFR, TB MED 
+750  –  2, and TB MED 521.  
+(2)  Maintaining a safe environment of care for the patient and staff in accordance with 29 CFR.  
+(3)  Performing el ectrical safety in accordance with the National Fire Protection Association (NFPA) 99.  
+(4)  Ensuring preventive life safety measures are considered as outlined in NFPA 101(R).  
+(5)  Managing MD program according to TB MED 750  –  2, FM 4  –  02 and TM 3  –  34.46. 
+d.  AMC through the U.S. Army Medical Logistics Command ( AMLC ) must approve the use of field and 
+sustainment contract maintenance for materiel fielded under MTOE.  
+e.  ILS plans will be adhered to throughout the life cycle of medical materiel to ensure adequate logis-
+tics support (see AR 700  –  127 for additional in formation on ILS).  
+f.  Medical materiel acquisition policies and procedures will be followed in accordance with AR 40  –  60 to 
+minimize logistics support requirements. Nonstandard equipment procurement will include MSPs, justifi-
+cations for contract maint enance, or ISSAs.  
+g.  Each medical device will be tested for serviceability, current leakage, and ground resistance. Tests 
+will be performed prior to initial use, upon completion of electrical repairs and at least annually or more 
+frequently if recommende d by the manufacturer. Proper testing will ensure equipment operates within 
+manufacturer -specified limits and guidelines and with paragraph 12 –1c. 
+h.  The specific maintenance policies that apply to the ARNG are as follows:  
+(1)  State maintenance officers must coordinate medical maintenance support.  
+(2)  Medical maintenance requirements beyond unit capabilities may be supported from the following 
+resources:  
+(a)  Other ARNG  medical maintenance resources in the State.  
+(b)  Defense Health Agency organizations with area support responsibilities.  
+(c)  U.S. Army Medical Materiel Agency ( USAMMA) Medical Maintenance Operations Divisions 
+(MMOD).  
+(3)  The Supply Bulletin 8  –  75  –  S10 provides additional ARNG -specific MD guidance.  

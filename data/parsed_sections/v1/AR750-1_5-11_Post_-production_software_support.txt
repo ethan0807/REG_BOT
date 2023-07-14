@@ -1,0 +1,16 @@
+
+5–11.  Post -production software support  
+a.  Life cycle software support embraces all software -related activities for a weapon system embedded 
+operational softwa re. Post -production software support ( PPSS) is a subset of life cycle software support 
+that begins with completion of the weapon system software increment production in accordance with 
+DoDI 5000.02.  
+b.  Planning and programming for PPSS begins prior to Milestone A of the weapon system. PPSS sus-
+tainment programing and execution begins during the first FY after the software increment production of 
+the weapon system is completed.  
+c.  The MATDEV is responsible for all software support and PPBE activities  until the weapon system 
+software increment production is complete. The transition to sustainment begins at the full rate production 
+decision and is complete no later than IOC plus 3 years in accordance with DoDD 5000.01.  
+d.  When it is appropriate to tr ansition software support PPBE system responsibility from the MATDEV 
+to the Life Cycle Software Engineering Center ( LCSEC ) prior to the end of the weapon system software 
+increment production (to include block upgrades), the MATDEV, in coordination with the LCSEC, will ob-
+tain DCS, G  –  4 and ASA (ALT) approval and document the approved transition date.  

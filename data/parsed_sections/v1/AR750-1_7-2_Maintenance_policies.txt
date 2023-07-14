@@ -1,0 +1,73 @@
+
+7–2.  Maintenance policies  
+a.  The PD Army watercraft systems ( AWS), Program Executive Office Combat Support and Combat 
+Service Support, ( PEO CS& CSS) is the life cycle manager for Army watercraft. The PD AWS, in partner-
+ship with U.S. Tank -automotive and Armaments Comm and ( TACOM) LCMC, is responsible for all facets 
+of life cycle management, to include sustainment maintenance and logistics support management pro-
+cesses of watercraft throughout its life cycle.  
+b.  Field maintenance is comprised of crew and maintainer lev el maintenance.  
+(1)  Crew -level maintenance is characterized by on -system maintenance performed by watercraft oper-
+ators and engineers.  
+(2)  Maintainer -level maintenance is characterized by on/off -system maintenance performed by water-
+craft engineers.  
+(3)  In some cases, maintainer -level maintenance actions are performed, in accordance with the appli-
+cable MAC, by a maintenance contractor using best commercial practices.  
+ 
+(4)  The makeup of a vessel crew is such that, it includes equipment ope rators as well as equipment 
+operator/maintainers. For this reason, vessel crews will be treated in the same regard as a ground -based 
+maintenance support team.  
+c.  All regulations, policies, apportionments, and allocations that apply to a maintenance suppor t team 
+apply to a vessel crew. For instance, a vessel is authorized a shop stock and bench stock the same as a 
+maintenance support team.  
+d.  Sustainment maintenance is comprised of below sustainment and sustainment -level maintenance.  
+(1)  Below depot -level maintenance does not require dry -dock or shipyard facilities but in most cases 
+does require tools and/or support equipment and/or personnel resources exceeding the authorizations of 
+FLM activities. Below depot -maintenance is routinely performed pier side  by contracted maintenance sup-
+port or occasionally through the installation maintenance activity using best commercial practices accord-
+ing to the language of a specific service(s) contract tailored to those repairs.  
+(2)  Sustainment -level maintenance actio ns are of an intensive nature and are typically performed by 
+contractors, requiring dry -dock and/or shipyard facilities using best commercial practices according to the 
+language of a specific service(s) contract tailored to those repairs.  
+(3)  On-condition, cyclic -maintenance is a sustainment -level service. This service is required to meet 
+numerous, vessel specific, federal statutory and regulatory requirements.  
+e.  TACOM, through the Watercraft Inspection Branch ( WIB), will provide the follow ing maintenance 
+support and services for the performance of maintenance and/or repair actions on Army watercraft:  
+(1)  Service, overhaul, and/or repair of end items should be outlined in the MAC. The MAC will cross-
+walk the maintenance task to the part, s pecial tools, and test equipment to diagnose and/or repair to in-
+clude times of task completion. When the MAC does not include service, overhaul, repair and/or trouble-
+shooting references, PD AWS or commercial manufacturers TM will provide referencing gu idance.  
+(2)  Maintenance actions within watercraft legacy MACs identified in column F of the MAC are a shared 
+responsibility between field and sustainment levels of maintenance. Availability of manpower, tools, and 
+support equipment at the field level wi ll be the primary factor in determining at which level the repair will 
+be performed. Maintenance actions within watercraft legacy MACs identified in column H of the MAC are 
+the responsibility of sustainment maintenance. When the MAC does not identify th e maintenance level for 
+a maintenance function of a component assembly it will be performed by sustainment -level maintenance. 
+Maintenance activity level subjectivity will be clarified by TACOM Watercraft Group.  
+(3)  All sustainment maintenance performed b y WIB or contractors will be performed utilizing approved 
+TELS in accordance with this regulation.  
+f.  Perform a marine survey and/or TI by a WIB marine inspector or surveyor. The inspection will deter-
+mine the statement of work required at the field an d sustainment levels to return a watercraft to a service-
+able condition ( TM  –  10 series and TM  –  20 series standard).  
+g.  Sustainment maintenance is contracted through the WIB utilizing the LIS work order process. Sus-
+tainment maintenance will be accompl ished on a case by case basis according to the language of a spe-
+cific service(s) contract tailored to the required repairs, specified by WIB, as follows:  
+(1)  When repairs dictate that a watercraft be d ry-docked to accomplish the necessary maintenance 
+tasks, the WIB will provide a dry -dock report.  
+(2)  When operational conditions dictate, TACOM LCMC may authorize lower -level maintenance activi-
+ties to perform repairs beyond their authorized level of re pair action. The QA and TELS work order data 
+responsibility remains as designated in the MAC and/or commercial manufacturer's TMs.  
+h.  Emergency repairs are immediate maintenance actions required to return the watercraft to a sea-
+worthy, safe, and opera ble condition.  
+(1)  The vessel master is authorized to perform emergency repairs at any level of maintenance when 
+engaged in sailing operations (underway and/or deployed away from home port) when faults or deficien-
+cies occur which are outside their authori zed level of repair. This decision will be based upon the availa-
+bility of resources at sea, the skill of the crew, and the impact of repairs to seaworthiness and operability.  
+(2)  Sustainment emergency repairs made at the field -level must be inspected by w ork order to the ap-
+propriate maintenance activity as designated by the MAC for determination of the proper repair. This in-
+spection will be requested as communications are available with that activity. Vessel configuration control 
+will be maintained. Any d eviations to the original configuration will be reported through the departure from 
+specifications process in accordance with DA Pam 750  –  8 and returned to its original configuration upon 
+return to home port.  
+ 
+(3)  In cases where commands await dispositio n instructions, watercraft will be maintained in accord-
+ance with guidance provided by the PD AWS.  

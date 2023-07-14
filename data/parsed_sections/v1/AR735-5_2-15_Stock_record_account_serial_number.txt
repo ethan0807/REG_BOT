@@ -1,0 +1,10 @@
+
+2–15. Stock record account serial number
+a. The DODAAC is the SRA serial number. Logistics Support Activity assigns DODAACs (see AR 725–50).
+b. The commander appointing an accountable officer will request the assignment of a DODAAC through channels
+when—
+(1) A new account is established.(2) A DODAAC has not been assigned to the present account.(3) A present DODAAC needs revision.c. The DODAAC represents the SRA; they do not represent the officer who maintains the account.
+d. A unique DODAAC will be assigned to accounts established to maintain records of Government property
+provided to contractors according to the DFARS.
+e. Requests to establish or cancel SRA serial numbers for Army libraries will be sent through command channels to
+HQDA. For law libraries, see AR 27–1; for medical libraries, see AR 40–3; for all other libraries, see AR 735–17.

@@ -1,0 +1,25 @@
+
+13–23. Recommendation by the appointing authority without further investigation
+This action provides the appointing authority, when designated, the option to recommend shorting the financial liability
+investigation process when the facts and circumstances permit. The short financial liability investigation does notrelieve the appointing and/or approving authority from performing those actions normally conducted by the investiga-tion officer if liability is assessed, such as determination of fair market value or depreciation (see para 13–32).
+a. Relief from responsibility. When the appointing authority determines from the information on DD Form 200,
+blocks 9, 10, and 12, and attached exhibits that no evidence of negligence or willful misconduct exists, they mayrecommend to the approving authority relief from responsibility by completing blocks 13b through 13h, placing astatement in block 13b recommending all persons be relieved of financial liability.
+b. Assessment of financial liability. When the appointing authority can establish from the information contained in
+blocks 9 and 10, DD Form 200, and the attached exhibits, that negligence or willful misconduct was the proximatecause of the LDDT of Government property, the appointing authority must—
+(1) Prepare a memorandum to the respondent stating their intent to recommend charges of financial liability without
+further investigation. The memorandum will include the facts on which the recommended charges of financial liabilityare based, computation of the actual loss, and the amount of financial liability being recommended. The memorandumwill include an explanation of the respondent’s rights as described in paragraph 13–34 and paragraph 13–35. Acomplete copy of the DD Form 200, to include copies of all the exhibits, will be attached to the memorandum as anenclosure. Instruct the respondent to complete blocks 16a through 16h before returning the DD Form 200 to theappointing authority.
+(2) On receipt of a rebuttal statement, if one is received, consider the DD Form 200 together with any new evidence
+provided, or allegations of error presented by the respondent, and make appropriate comments and attach the rebuttalstatement and remarks to the DD Form 200 as exhibits.
+(3) On receipt and review of a rebuttal statement, or upon expiration of the time allowed the respondent to submit a
+rebuttal statement—
+(a) Enter a statement in block 13b stating further investigation is not required. Enter the words “See block 15a for
+appointing authority’s recommendation.”
+(b) Complete block 13c through block 13h.
+(c) In block 15a, enter a recommendation regarding the charge of financial liability, and the amount of financial
+liability being recommended. Enter a statement explaining the facts on which the appointing authority’s recommenda-tion is based. Enter the name, grade, and SSN of those individual(s) being recommended for charges of financialliability.
+(d) Complete blocks 15b, block 15c, and block 15d showing the amount of the loss, the respondent’s monthly basic
+pay, and the recommended amount of financial liability. When more than one individual is being recommended forcharges of financial liability, use an added page that contains the elements of information that are unique to theindividuals being recommended for charges of financial liability. Enter “see added page” in block 15c and block 15d.Leave block 15e through block 15k blank.
+(e) Ensure block 16a through block 16h are completed by the respondent. In the event respondent refuses to
+complete these blocks, enter a statement, “Respondent refused to sign,” in block 16g and place the date refusal wasmade in block 16h. Forward the completed DD Form 200, with all exhibits, to the approving authority for final action,per paragraph 13–37. Electronic or digital signature may be used if DD Form 200 is electronically produced.
+Section V
+Appointment of the Financial Liability Officer or AR 15–6 Investigating Officer

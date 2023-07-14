@@ -1,0 +1,77 @@
+
+5–4.  Reporting depot -level workload distribution and execution  
+a.  Not more than 50 percent of the funds made available in an FY to a military department or defense 
+agency for depot -level maintenance and repair workload may be used to contract for the performance by 
+non-Federa l Government personnel, per the National Defense Authorization Act for Fiscal Year 1998 
+(NDAA FY 98). Any such funds that are not used for such a contract will be used for the performance of 
+depot -level maintenance and repair workload by employees of the DoD. The percentage limitation in-
+cludes depot maintenance ICS, CLS, and similar contracts as required by the National Defense Authori-
+zation Act for Fiscal Year 1998 (NDAA FY 98).  
+b.  All Army ACOMs, ASCCs, and DRUs will report the funding executed to accomplish depot -level 
+tasks designated or coded as D or L, regardl ess of source of funds or the location where the maintenance 
+is performed. Two types of reports will be submitted to capture this data:  
+(1)  Annual report.   Per 10 USC 2466(d)(1), DoD is required to develop a report to Congress 90 days 
+after submitting the President’s Budget to Congress each FY for each of the Armed Forces (other than 
+the Coast Guard) and each Defense Agency. The report must show the percentage of funds that were 
+obligated or planned for obligation during the prior FY, CFY, and budget year for the performance of de-
+pot maintenance and repair workload by the public and private sectors. The DCS, G  –  4 (Sustainment 
+Maintenance Division) will prepare and issue a data cal l with supplemental instructions for the completion 
+of the annual 50/50 report no later than 15 December.  
+(2)  Quarterly report.   ACOMs and other reporting activities are required to submit a DMWD quarterly 
+report to the DCS, G  –  4 (DALO  –  MPS) on or ab out the first working day of May, August, and November. 
+Similar to the annual report, the AMC DMWD quarterly report will be a compilation of LCMC reports with 
+each LCMC report prepared at the LCMC level and representing the consolidated data between t he AMC 
+LCMCs and the program executive offices they primarily support, as well as all NMP, SRA, and/or OTR 
+workloads. The Joint program executive office for chemical biological defense, the program executive of-
+fice for Enterprise Information Systems, and the program executive office for Army Simulation, Training 
+and Instrumentation will report directly to DCS, G  –  4. 
+c.  Amounts obligated for the performance of depot -level maintenance and repair workload by non -Fed-
+eral Government personnel at a CITE under any contract will not count for purpose of applying the per-
+centage limitations to 10 USC 2466(a) if the personnel are  provided by private industry or other entities 
+outside the DoD pursuant to a public and/or private partnership.  
+d.  Depot maintenance carryover is that portion of the maintenance program that is not completed dur-
+ing the year of obligation and, therefore,  carried into the subsequent FY for completion.  
+e.  Carryover is inherent in any production or manufacturing process and is required to provide produc-
+tion stability and continuity during the transition between FYs. The industrial base facilities will com muni-
+cate with their customers early to verify the statement of work and ensure that they have the required ca-
+pability and capacity, to include skillsets, equipment, and parts, to meet delivery schedules and avoid ex-
+cessive carryover. All unplanned orders r eceived by AMC’s OIB enterprise will undergo a detailed analy-
+sis before accepting the work to improve the management of work carried over from the CFY to the next 
+FY. AMC will execute a structured approval process for all unplanned work, including par ameters defining 
+delegation authority.  
+ 
+f.  AMC will establish internal controls to ensure LCMCs and OIB activities comply with guidance in 
+DoD Financial Management Regulation ( FMR) 7000  –  14, Volume 11A, Chapter 3 , to avoid excessive car-
+ryover. This guidance includes:  
+(1)  Orders accepted should be specific, definite, and certain as to the work and terms of the order.  
+(2)  Certification that the funds cited on the order are properly chargeable for the purposes cited in the 
+order.  
+(3)  Project orders must serve as a bona fide need in the FY for which the project order is issued and 
+determined that the order is not reasonably severable between FYs. Multiple year appropriations may be 
+obligated for requi rements that constitute bona fide needs of the multiple -year period of availability for the 
+appropriation.  
+(4)  Work must be expected to begin within a reasonable time after acceptance (usually within 90 days) 
+and completed within the normal production per iod for specific work orders. If the funded order cites an 
+appropriation that expired for obligation on September 30th and the work does not begin, or is not ex-
+pected to begin before January 1 of the following calendar year, then the project order funds mu st be re-
+turned to the customer. If the performing activity commander documents that the delay is unavoidable 
+and could not have been foreseen at the time of project order acceptance, and that documentation is re-
+tained for audit review, then the project ord er can be retained and executed.  
+(5)  Project orders must not be issued for the primary or secondary purpose of continuing the availabil-
+ity of appropriations.  
+g.  AMC will direct the LCMCs and the OIB activities to establish processes and procedures, to  include 
+specific managerial approval processes, for analyzing and accepting new orders. These processes and 
+procedures should increase the probability of successful execution with the goals of improving production 
+efficiency and reducing carryover. At a m inimum, the processes and procedures must meet the following 
+criteria:  
+(1)  Skilled labor is available, to include adequate labor hours available with the required skills, to exe-
+cute the overhaul of the programs.  
+(2)  Parts, to include sufficient stock, ar e on hand or on order to complete the program schedule on 
+time given the required depot overhaul factor and scrap rates.  
+(3)  Tools and equipment are on hand or on order, to include all required special tools, fixtures, jig, and 
+stands.  
+(4)  Documented int ernal processes, to include approved technical data and capacity, are available to 
+complete the work.  
+(5)  Requirements are understood, to include the required depot production, impact of backorders, av-
+erage monthly demand, potential surge requirements, an d alternate SOR.  
+(6)  Funding is available to adequately support the production.  

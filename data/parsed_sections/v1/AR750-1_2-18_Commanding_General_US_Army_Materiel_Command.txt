@@ -1,0 +1,260 @@
+
+2–18.  Commanding General, U.S. Army Materiel Command  
+The CG, AMC as the installation and national maintenance manager ( NMM) for the Army, will — 
+a.  With regard to planning, programming, and budgeting:  
+(1)  Develop Army sustainment -level maintenance concepts and support systems, with participation by 
+the DCS, G  –  4 (Maintenance Directorate), CAPDEVs, and MATDEVs.  
+(2)  Manage the sustainment maintenance system, including forward repair activities ( FRAs).  
+ 
+(3)  Provide timely and accurate cost, readiness, and maintenance data for base commercial equip-
+ment.  
+(4)  Host an annual synchronization meeting with all ACOMs, ASCCs, and DCS, G  –  4 for QMTO MDEP 
+POM requirements.  
+(5)  Program and budget DA-approved  SDC projects.  
+(6)  Provide GO or senior executive senior members to the Army OIBCB to serve as the chief operating 
+officer and one additional board member.  
+(7)  Co-chair the OIBEC with DCS, G  –  4 (Chief, Sustainment Maintenance D ivision) (see chap 5 ). 
+(8)  Review and verify LCMC, ACOM, ASCC, and DRU nominations for fielded equipment and calcu-
+late the total RCF requirement using the formula in DA Pam 750  –  1 and submit requirem ents to the DCS, 
+G  –  4 (Sustainment Maintenance Division) to begin the staffing process for the AAO.  
+(9)  Submit sustainment - and FLM funding requirements in accordance with the Sustaining Program 
+Evaluation Group ( PEG) POM programming guidance.  
+b.  With regard to programs:  
+(1)  Establish, operate, and manage the Logistics Assistance Program ( LAP) in accordance with AR 
+700  –  4. 
+(2)  Ensure that spares and repair parts are available in sufficient quantities to support materiel 
+throughout its life cycle.  
+(3)  Manage the Army Warranty Program (see AR 700  –  139).  
+(4)  Manage the Army Chemical Agent Resistant Coating ( CARC) and/or camouflage painting pattern 
+(CPP) programs.  
+(5)  Establish internal business rules and/or procedures necessary to implem ent the SRA and/or one -
+time repair ( OTR) processes within AMC and supporting activities. Life Cycle Management Commands 
+(LCMC) may program and authorize Materiel Support Command –Korea ( MSC  –  K) and Theater Logistics 
+Support Center –Europe ( TLSC  –  E) to perform sustainment -level repairs of major end items after validat-
+ing capability and repair requirement to augment readiness enabling forward sustainment -level repair pro-
+grams.  
+(6)  Manage the depot repair and return program (see para 5  –  10). 
+(7)  As the Army leading organization for the National Tire Retread Program, establish a worldwide pro-
+gram for management of aircraft and vehicle tires.  
+(8)  Manage the DoD inter-Service, interdepartmental and interagency maintenance support programs 
+within the Army.  
+(9)  Manage and execute the NMP.  
+(10)  Serve as the Army lead for the MWO program in accordance with AR 750  –  10. 
+(11)  Manage and maintain Army pre -position ed stocks ( APS).  
+c.  With regard to data collection and warehousing:  
+(1)  Support DCS, G  –  4 requirements for logistical data elements necessary to meet DCS, G  –  3/5/7 
+maintenance force structure requirements determination.  
+(2)  Responsible for program operations and execution of equipment reset operations.  
+(3)  Serve, through ASC, as the Army’s lead materiel integrator.  
+d.  With regard to the AOAP:  
+(1)  Manage the operation and execution of the AOAP, by –– 
+(a)  Designating the ASC as the Army PM for the AOAP.  
+(b)  Implementing this regulation and AR 700  –  132. 
+(c)  Incorporating quality assurance ( QA) provisions and technician qualification required by the AOAP 
+performance work statements ( PWSs) used in solicitation documents  for contract operation of AOAP la-
+boratories. Contracting officers reviewing vendor proposals for AOAP laboratory operation will obtain PM 
+AOAP technical review and approval prior to acceptance of the proposal.  
+(2)  Ensure AMC LCMCs — 
+(a)  Recommend s ystems for inclusion in the AOAP and sampling intervals for these systems. The 
+PEO and/or PM for the specific weapon systems will approve and submit the recommendations to the PM 
+AOAP.  
+(b)  Submit recommendations any time during the year. At the begin ning of each calendar year, the PM 
+AOAP will facilitate a formal review process.  
+(c)  Configure systems to use oil -sampling valves or coordinate with PEOs and/or PMs for retrofit dur-
+ing depot -scheduled timeframes, where feasible.  
+ 
+(d)  Coordinate with PEOs and/or PMs to ensure embedding of inline and/or online diagnostics capabili-
+ties in future systems as technology allows.  
+(e)  Provide information to AMC LCMCs and MATDEVs  on changes to laboratory capabilities and com-
+ponent metal wear criteria.  
+(f)  Establish AOAP certification criteria for both contract and organic laboratories, as described in AR 
+700  –  132 and TM 38  –  301  –  1. 
+(g)  Conduct unannounced annual QA labora tory assistance and assessment review visits to review 
+laboratory operations and performance and validate AOAP laboratory certification compliance.  
+(h)  Serve as the functional manager for the Joint Oil Analysis Standard Inter -Service System, the 
+OASIS Da ta System. The PM AOAP serves as the Army point of contact with the Navy for inter -Service 
+standardization of Oil Analysis Standard Inter -Service System laboratory software.  
+(i)  Approve equipment oil sampling intervals through coordination with LCMCs, PEOs and/or PMs, and 
+the ACOMs, ASCCs, and DRUs.  
+(j)  Ensure procedures prescribed in TM 38  –  301  –  1 regarding certification of test instruments, laborato-
+ries, and personnel are consistent with requirements for AOAP laboratories.  
+(k)  Plan, program, budget, procure, and deploy mobile AOAP laboratories in support of operations for 
+the Regular Army.  
+(l)  Serve as technical advisor for the development, fabrication, and operation of AOAP mobile labora-
+tory facilities.  
+(m)  Designate AOAP labo ratory regional support areas and facilitate laboratory establishment and clo-
+sures in coordination with appropriate ACOMs, ASCCs, and DRUs.  
+(n)  Serve as the technical advisor for reviewing, recommending, and planning the establishment or clo-
+sure of AOAP laboratories.  
+(o)  Serve as technical advisor and facilitator for noncontract AOAP laboratory personnel training and 
+for contractors, at the contractor’s expense.  
+(p)  Host an annual in -process review with the DCS, G  –  4, ACOMs, ASCCs, and DRUs, AMC LCMCs, 
+PEOs, and/or PMs to review program operations, requirements, and coordinating program out -year plan-
+ning objectives. This includes a review of systems and/or components enrolled, sampling intervals, and 
+wear -metal criteria.  
+(q)  Develop and pu blish, no later than 45 days following the end of the FY, an annual executive sum-
+mary outlining program operations, benefits, and costs.  
+(3)  Serve as proponent for technical bulletin (TB) 43  –  0211 and as Army coordinating authority for 
+AOAP  procedures and material contained in all Army and Joint Service regulations, TBs, pamphlets, and 
+field manuals ( FMs).  
+e.  Manage TMDE functions as the Army lead organization. Manage and execute all responsibilities for 
+coordinating requirements for TMD E procurement, worldwide calibration, and repair of general and se-
+lected special -purpose TMDE (see AR 750  –  43). 
+f.  With regard to requirements development:  
+(1)  Manage and staff requirements for the MAC.  
+(2)  Develop and provide depot maintenance OP  –  29 results to the DCS, G  –  4. 
+(3)  Conduct sustainment maintenance requirements reviews with LCMCs.  
+(4)  Perform initial provisioning in accordance with AR 700  –  18. 
+g.  With regard to supporting major subordinate commands ( MSCs):  
+(1)  Provide mainte nance support to field -level units, as necessary.  
+(2)  Evaluate and resolve technical and maintenance problems that units provide in deficiency reports.  
+(3)  Manage and update SKOT component listings.  
+(4)  Establish theater foundation Army field support brigade or logistics task force for coordination of 
+AMC maintenance support provided to the theater.  
+(5)  In coordination with HQ, FORSCOM, maintain LBE and HST.  
+(6)  Manage program operations and execution for LBE sustainment.  
+(7)  Manage pr ogram operations and execution for HST sustainment.  
+h.  With regard to sustainment maintenance:  
+(1)  Ensure LCMCs and the depots comply with Section 2464, Title 10, United States Code (10 USC 
+2464) and current core policy.  
+(2)  Maintain RCF assets in a ccordance with this regulation.  
+ 
+(3)  In coordination with ACOMs, ASCCs, and DRUs, develop specific RCF sustainment and FLM crite-
+ria for RCF induction.  
+(4)  Maintain accountability of RCF assets in LMP and document float transactions in GCSS –Army.  
+(5)  Establish a written agreement with supporting field maintenance activities to maintain RCF assets 
+according to the Army maintenance standard written in paragraph 3  –  3 and DA Pam 750  –  1. 
+(6)  Ensure depots and supporting field maintenance activities maintain RCF assets according to the 
+maintenance standard in paragraph 3  –  3 of this regulation and DA Pam 750  –  1.  
+(7)  Account for RCF on the APSR.  
+(8)  Report RCF maintenance readiness in a separate report —monthly —in accordance with AR 
+700  –  138. 
+(9)  Program funding requirements for the sustainment of RCF assets.  
+(10)  Overall responsibility for consolidating and submitting the DMWD requirements, 50/50 rule, report 
+to DCS, G  –  4 (Sustainment Maintenance Division).  
+(11)  Assign sustainment subject matter experts to support MATDEVs in development of depot support 
+analys is and strategies.  
+(12)  Ensure compliance with NMP business procedures when scheduling and executing sustainment 
+maintenance operations.  
+i.  With regard to Installation Maintenance Support:  
+(1)  Provide BASOPS  and tactical sustainment maintenance; CPC; condition classification of materiel; 
+installation MWO and warranty programs; TMDE calibration and repair support; and NMPs at the installa-
+tion and/or garrison LRC/ AFSBn.  
+(2)  Provide timely and accurate co st, readiness, and maintenance data for base commercial equip-
+ment.  
+(3)  Oversee installation LRC/ AFSBn and the performance of the LRC/ AFSBn Maintenance Division in 
+its role as a provider of sustainment and evacuated FLM support to LBE, equipment rese t, HST, NMP, 
+and other equipment and components. Supervise maintenance operations at all levels within the com-
+mand.  
+(4)  Provide timely and accurate cost, readiness, and maintenance data to management systems.  
+(5)  Acquire and maintain a self-sufficient capability and capacity for field and selected sustainment 
+maintenance provider support of combat, combat support, and CSS elements.  
+(6)  Program funds to sustain equipment readiness and prioritize any unfinanced requirements.  
+(7)  Comply with materiel maintenance standards and maintenance related logistical performance and 
+readiness standards.  
+(8)  Establish a warranty control office and/or officer to implement the Army Warranty Program in ac-
+cordance with AR 700  –  139. 
+(9)  Comply with al l local, regional, and national regulations governing the inspection and maintenance 
+requirements for prevention of pollution. For more information, see AR 200  –  1. 
+(10)  Provide air traffic control materiel support.  
+(11)  Establish effective CPC program s for assigned equipment in accordance with AR 750  –  59. 
+(12)  Determine if reimbursement for fabrication services of field or sustainment maintenance activities 
+is authorized.  
+(13)  Carry out quality programs under the provisions of AR 70  –  1 for assign ed maintenance and cali-
+bration operations.  
+(14)  Designate point of contacts for the SRA, MWO, AOAP, UIT, and maintenance float programs.  
+(15)  Ensure that the LRC/ AFSBn provides maintenance support to the USAR  when required, as estab-
+lished by AR 5  –  9. 
+(16)  Ensure that all assigned personnel, including those assigned supply and maintenance automated 
+systems data entry responsibilities, receive formal technical training appropriate for their duty assign-
+ments.  
+(17)  Ensure that assigned maintenance and supply personnel are used in the MTDA positions for 
+which they have been requisitioned and trained, including those positions identified with ASIs.  
+(18)  Provide field maintenance as required for USAR units and  maintenance activities located in the 
+installation support area; in -house and contractor maintenance will be provided in accordance with this 
+regulation.  
+(19)  Provide logistical support to ARNG and USAR units during AT, as required.  
+ 
+(20)  Maintain an effective liaison program to the supported USAR maintenance activities, including 
+ground, air, watercraft, rail, and water and petroleum within the logistical area of responsibility.  
+(21)  Provide for backup equipment recovery support from commercial sour ces through the efforts of 
+the supporting installation. Costs will be provided through Operation and Maintenance, Army ( OMA) Re-
+serve Program elements.  
+(22)  Appoint a float coordinator.  
+(23)  Ensure winterization of equipment destined for geographic regio ns where temperatures from neg-
+ative 25 degrees Fahrenheit to negative 60 degrees Fahrenheit are likely, to operate in an inclement 
+weather environment.  
+(24)  Ensure compliance with primary integrated product support policies and procedures and provide 
+matrix support to the assigned PM. 
+(25)  Ensure coordination of Army Logistics Product Data program standards, policies, and power logis-
+tics software.  
+(26)  Develop industrial base and/or depot requirements, registry process control, and management of 
+the non -recurring engineering technical data.  
+(27)  Ensure IUID is implemented in industrial and distribution processes.  
+(28)  Ensure that management structures and database facilities fully support the safety surveillance 
+requirements.  
+(29)  Manage the Logistics Civil Augmentation Program and maintain its support contract. The contract 
+is written for peacetime planning and contingency operations.  
+(30)  Develop and provide the Army standard level of repair analysis ( LORA) model, the computerized 
+optimization model for predicting and analyzing support structures.  
+(31)  In coordination with ASA (ALT), serve as the Army lead to repair and reset NS  –  E, including ar-
+ranging for commercial maintenance contract support. Assume responsibili ty for all sustainment funding 
+(capture all costs associated with maintaining NS  –  E in serviceable condition) for NS  –  E held in storage.  
+(32)  Provide ACOMs, ASCCs, and/or DRUs access to the Material Enterprise NS  –  E Database for 
+viewing NS  –  E general maintenance guidance and other relevant NS  –  E information.  
+(33)  Manage and update the Material Enterprise NS  –  E Database in coordination with the DCS, G  –  4. 
+(34)  Publish procedures that provide users with specific guidance regarding the repa ir/reset of tactical 
+NS  –  E at posts, camps, stations, and forward stationed locations.  
+(35)  Coordinate with rapid equipping force, Joint Improvised Explosive Device Defeat Office, Robotic 
+Systems Joint Project Office, Army Asymmetric Warfare Group ( AAWG), ASA (ALT), and original equip-
+ment manufacturers ( OEMs) to develop and implement maintenance and sustainment plans, as applica-
+ble. 
+(36)  Receive, store, and account for NS  –  E LBE as required to support deployed unit requirements. 
+Maintenance and /or repair of NS  –  E in other than the APC category will not be performed by AMC unless 
+the unit reimburses AMC.  
+(37)  Maintain tactical NS  –  E approved by the Army Requirements and Resourcing Board as part of 
+PDTE and provide long -term storage for t actical NS  –  E as approved by HQDA.  
+(38)  Establish turn -in procedures for NS  –  E stored at the depot and dispose of unserviceable NS  –  E 
+through the local Defense Logistics Agency –Disposition Services ( DLA  –  DS). 
+(39)  Submit budget request to the DCS, G  –  4 (DALO  –  RIR) for tactical NS  –  E sustainment, reset, and 
+storage costs, including care of supplies in storage.  
+(40)  Develop a sustainment maintenance reset plan, in coordination with the provider/procuring activity 
+(for example, rapid equipping force and AAWG, for NS  –  E, whether in storage or used for training.  
+(41)  Conduct maintenance operations in accordance with environmental protection programs and poli-
+cies. 
+(42)  Evaluate all available methods of support for LRC/ AFSBn before requesting expansion of existing 
+maintenance provider capabilities beyond current structure. Workload cross leveling inherent in the 
+IMCOM structure, MOUs, or MOAs with  other ACOMs, ISSAs, or contracts will be considered prior to ex-
+pansion.  
+j.  With regard to the CBM/ PPMx program:  
+(1)  Manage the daily operations and execution of the CBM/ PPMx program.  
+(2)  Coordinate with ASA (ALT) to develop and procure PPMx arc hitecture, including associated hard-
+ware and software for use Army -wide.  
+ 
+(3)  Coordinate with ASA (ALT), TRADOC, and FORSCOM  to develop diagnostic tools and interface for 
+units to use at the brigade, battalion, and company/troop/battery levels.  
+(4)  Coordinate with ASA (ALT) to develop, procure and provide Armywide PPMx data storage capacity 
+and capability.  
+(5)  Provide analy tical tools that provide fleet -level information on the health of CBM/ PPMx supported 
+equipment.  
+(6)  Review CBM/ PPMx data, identify trends, and develop programs to address trends and provide 
+feedback to units.  
+(7)  Develop, maintain, and update the bas eline models and applications that perform prognostic func-
+tions.  
+(8)  Establish and maintain the Armywide data storage capacity and capabilities to integrate, store, and 
+safeguard CBM data and monitor fleet equipment health and maintenance transactions pe rformed. 
+CBM/ PPMx supported data (usage, diagnostic, engineering, and parametric) and related applications will 
+be stored in a secure unclassified digital environment in accordance with the latest cyber security regula-
+tions.  
+(9)  Ensure CBM/ PPMx date i s accessible to stakeholders.  
+(10)  Design, update and maintain the tactical enterprise logistics systems ( TELS) tactical, operational, 
+and strategic architecture for PPMx operations including data transfers between the tactical, operational, 
+and strateg ic levels.  
+(11)  Support the ASA (ALT) and AFC in conducting a cost benefit analysis to determine whether a 
+fielded system should be supported with PPMx capability.  
+(12)  Update and publish technical materials in support of CBM/ PPMx for programs that are in sustain-
+ment.  
+(13)  Ensure CBM/ PPMx is incorporated in current and future depot -level maintenance concepts by co-
+ordinating with the DCS, G  –  4 (Maintenance Directorate), AFC CAPDEVs and MATDEVs.  
+(14)  Ensure CBM/ PPMx  is integrated with all program operations and the execution of equipment reset 
+operations.  

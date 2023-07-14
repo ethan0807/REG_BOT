@@ -1,0 +1,44 @@
+
+3–13.  External maintenance support operations  
+a.  External maintenance support operations are a support concept to ensure units without HQDA Au-
+thorized FLM capability or units lacking the tools or personnel to perform FLM have the means to accom-
+plish repair of equipment. Senior Commanders must maximize  all organic maintenance capability and ca-
+pacity within their AOR logistics footprint (for example, Echelons Above Brigade, Echelons Above Divi-
+sion, Support Maintenance Company before forwarding work for external maintenance support at Logis-
+tics Readiness Centers ( LRC) or Theater Maintenance Support [Materiel Support Center Korea ( MSC – 
+K), Theater Logistics Support Center Europe ( TLSC – E), or other FLM operations as outlined in DA Pam 
+750  –  1. 
+(1)  HQDA authorized FLM capability is categorized as t he authorized personnel and equipment on the 
+MTOE to conduct FLM work.  
+(2)  Maintenance capability is categorized as skills, expertise or specialized repair shops and tools nec-
+essary to conduct FLM work.  
+(3)  ACOMs, ASCCs, or DRUs must coordinate pro cedures and requirements with AMC for work order 
+support.  
+(4)  Units with HQDA authorized FLM or maintenance capability within SC FLM AOR request a support 
+work order from external FLM organizations, the unit will fully reimburse CLIX parts and labor . 
+ 
+b.  Senior commanders assigned Field Level Maintenance capable units within its AOR (for example, 
+Support Maintenance Company) provide Field Level Maintenance support to customer units when:  
+(1)  Customer units do not have HQDA  authorized Field Level Maintenance capability per unit MTOE or 
+have a dependency statement in their MTO&E narrative as defined in paragraph 3 –12b1  –  5. 
+(2)  When customer unit is within the confines of the SC as signed FLM (that is,  Support Maintenance 
+Company) AOR.  
+c.  In the event a unit’s external FLM provider is unavailable (for example, a Support Maintenance 
+Company deployment), units are authorized to obtain maintenance support from the local LRC and wil l 
+reimburse CLIX parts and labor.  
+d.  If SC units incur a shortfall in available funding required to cover the cost of CLIX parts and labor at 
+the LRC, it will be the responsibility of the ACOM, ASCC, or DRU HQ to submit an Un -Funded Require-
+ments (U FR) request.  
+e.  TDA organizations must adhere to the following guidelines:  
+(1)  TDA organizations with authorized BASOPS follow paragraph 3  –  12.a. 
+(2)  TDA organizations which augment MTOEs must request maintenance support through the MTOE 
+chain of command they are directly supporting.  
+(3)  TDA organizations not covered in paragraph 3  –  12 must coordinate with thei r ACOM for guidance 
+on how to receive external maintenance support.  
+f.  All units must establish a method to obtain and/or transfer funding for any reimbursable requirements 
+prior to the transfer of work to the external FLM organization.  
+g.  AMC, the NMM, may workload qualified LRC/ AFSBn to perform national maintenance re pairs on a 
+reimbursable basis. Any new national maintenance workload requirements must go through the POM pro-
+cess and be recognized and resourced before implementation or execution of new mission.  
+h.  LRC/ AFSBn must be readily expandable to support mobi lization and contingency maintenance re-
+quirements.  

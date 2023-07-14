@@ -1,0 +1,38 @@
+
+12–5.  Test, measurement, and diagnostic equipment  
+a.  Medical special -purpose TMDE is medical materiel used specifically for the test, calibration, and re-
+pair of medical equipment. TMDE does not include ite ms used to diagnose or treat patients.  
+b.  As the AMEDD TMDE manager, USAMMA will manage, direct, and control the AMEDD special -pur-
+pose TMDE Program.  
+(1)  U.S. Army Medical Materiel Development Activity ( USAMMDA) will provide life cycle management 
+for all type classified medical special -purpose TMDE in support of TOE medical organizations. Special -
+purpose TMDE life cycle management includes the acquisition, approval, repair, calibration, and the mod-
+ernization of special -purpose TMDE.  
+(2)  All TMD E will be calibrated in accordance with calibration intervals specified in TB 43  –  180. 
+(3)  TMDE required by the AMEDD Army school curriculum to prov ide individual training will not require 
+cyclic calibration unless training efficiency or safety is adversely affected. U.S. Army Medical Command 
+policy specifies that all general -purpose TMDE and special -purpose TMDE used in AMEDD school train-
+ing cours es will be calibrated.  
+ 
+(4)  U.S. Army Medical Materiel Center –Europe is the designated alternate source to provide repair and 
+calibration support services for type classified medical special -purpose TMDE within the European Com-
+mand.  
+(5)  USAMMA Medical M aintenance Operations Divisions, Tracy, CA and U.S. Army Medical Materiel 
+Center –Europe activities providing special -purpose TMDE Calibration and Repair Support will establish 
+and maintain an instrument master record file.  
+c.  Non-type classified medical special -purpose TMDE support will be accomplished as follows:  
+(1)  All special -purpose TMDE owners or users will perform operator level maintenance.  
+(2)  Special -purpose TMDE repair and calibration support will be obtained in accordan ce with TB 
+43  –  180 or by contract maintenance support.  
+(3)  Special -purpose TMDE calibration intervals are specified in TB 43  –  180 or manufacturer instruc-
+tions.  
+d.  Units are responsible to validate current requirements with on -hand TMDE.  
+(1)  Coordina tion must be done with the USAMMA and the TMDE support center to ensure that excess 
+or obsolete TMDE has proper disposition.  
+(2)  Commanders will coordinate through Army Futures Command ( AFC) and TRADOC  (U.S. Army 
+Combined Arms Support Command) for requests to modify or change TOE documents and forward to the 
+DCS, G  –  3/5/7 Organizational Integrator for review by DCS, G  –  3/5/7 (DAMO). Requests for changes to 
+TDA documents will be made by using the A utomated 4610 TDA Equipment Request Tool in the Force 
+Management System Website (FMSWeb).  
+e.  The Medical Center of Excellence Fielded Force Integration Directorate and USAMMDA ILS Manag-
+ers must confirm the BOIP for all LIN special -purpose TMDE requi rements.  

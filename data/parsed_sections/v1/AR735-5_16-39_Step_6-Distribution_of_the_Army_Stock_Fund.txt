@@ -1,0 +1,13 @@
+
+16–39. Step 6–Distribution of the Army Stock Fund
+a. General. As provided in paragraphs 16–12 and 16–30 for steps 3 and 4, shipments from the AWCF involve
+reimbursement billing. With stated exceptions, these shipments require billing adjustments according to DFAS–INRegulation 37–1 to cover the discrepancies. To accommodate these requirements, use distribution of DD Form 361 forfinancial liability investigation purposes specified in this paragraph. In cases of discrepancies amounting to less than$100 per line item not requiring request for billing adjustment under DFAS–IN Regulation 37–1, use only thedistribution in paragraph 16–39 c.
+b. Vendor liability indicated. Examination of the DD Form 361 may show that there is a question as to the liability
+of a vendor, contractor, freight handler, or commercial warehouse under contract to the Army and financial liabilityagainst the carrier has not been ruled out. If so, distribute the DD Form 200 as follows:
+(1) The original with exhibits is forwarded to the officer who administers the contract involved. Route through the
+supply source to which the original military standard requisitioning and issue procedures requisition and the request forbilling adjustments will be submitted (see DFAS–IN Regulation 37–1).
+(2) Remaining copies as specified in paragraph 16–38 b(2) through paragraph 16–38 b(5).
+c. Vendor liability not shown. Distribute the original, second, third, fourth, and fifth copies as specified in paragraph
+16–38 c(1) through (5). Forward the sixth copy to support request for billing adjustment according to DFAS–IN
+Regulation 37–1 (see 16–39 b(1)). This copy must be legible; otherwise substitute a copy of the original. Request for
+billing adjustment may not be required because the discrepancy amounts to less than $100 per line item. If so, returnthe fifth copy for filing to the officer who originated the report.

@@ -1,0 +1,37 @@
+
+13–20. Supervising the financial liability investigation of property loss system
+a. The approving authority will ensure the financial liability investigation of property loss system works to promptly
+discover, report, and investigate the LDDT of Government property. The approving authority will ensure that—
+(1) Responsible persons keep themselves informed as to whether any property for which they are responsible or
+accountable becomes lost, damaged, or destroyed.
+(2) Initiation, processing, and adjudication of financial liability investigations of property loss, takes place within the
+time limits cited in figure 13–1.
+(3) Financial liability officers are thoroughly briefed on how to conduct a financial liability investigation and are
+provided with a copy of DA Pam 735–5. They are also informed of any specific time restraints.
+(4) Administrative action takes place to correct the causes of avoidable delays exceeding the processing time limits
+established by this regulation.
+(5) Assignment of the inquiry or investigation number is assigned prior to going to the accountable officer for a
+document and/or voucher number. The inquiry or investigation number is entered in block 2 of DD Form 200. Theintent of the assignment of the inquiry or investigation number prior to the document and/or voucher number from theaccountable officer is to ensure that the approving authority is aware and begins to track the financial liabilityinvestigation prior to the accountable officer decreasing the property from accountable records.
+(6) The inquiry or investigation number will be formed using the approving authority’s UIC, the two-digit year the
+inquiry or investigation number is assigned, and a serial numbering system determined by the approving authority. Theinquiry or investigation number can be up to 44 characters, such as, WAJBAA–07–HQ–0002.
+(7) DA Form 1659 (Financial Liability Investigation of Property Loss Register) and files are maintained according
+to AR 25–400–2 and figure 13–11 of this regulation. Normally, the register and the files of approved financial liabilityinvestigations of property loss are maintained at the headquarters of the approving authority. This includes the battalionor brigade S4, division, corps, or theater support command G4, Director of Logistics (DOL), or other subordinate staffelements as designated by the approving authority. Exceptions to this policy are allowed when—
+(a) The logistics staff offices are consolidated at a command level above the approving authority, such as, brigade
+S4s consolidated at the Division G4. Under this scenario the register and associated files may be maintained at theDivision G4.
+(b) The financial liability investigation of property loss register may be maintained at a centralized office on the
+installation, providing inquiry and/or investigation numbers are assigned to all DD Form 200 initiated for thoseorganizations supported. When this option is used, the approving authority still has the responsibility for the appoint-ment of the financial liability officer per paragraph 13–17. Both the office maintaining the register and the approvingauthority’s headquarters will maintain file copies of the approved financial liability investigations of property loss.
+b. Brigade and higher level commanders with subordinate approving authorities for financial liability investigations
+will initiate and conduct oversight management of the financial liability investigation process at subordinate commands.
+(1) A random sample of no less than 10 percent of the financial liability investigations of property loss approved by
+subordinate commands during the previous quarter will be reviewed quarterly.
+(2) The review will be made to determine if the approving authorities for financial liability investigations of
+property loss are properly carrying out their responsibilities as approving authorities, that is, are the decisions made—
+(a) Supported by the evidence documented in the DD Form 200?
+(b) Fair and without bias or prejudice towards the respondent, when charges of financial liability were approved?
+Was the respondent’s negligence and/or willful misconduct the proximate cause for the loss?
+(c) In the best interest of the Army and the Government, when all persons were relieved of accountability and/or
+responsibility, and charges of financial liability were not made?
+(d) Followed up with corrective actions or directives, as appropriate.
+c. Assessment of financial liability for contractors. The approving authority will compile all documentation for the
+property loss or damage. The approving authority will forward this documentation to the contracting officer monitoringthat specific contract. The contracting officer assisted by the property administrator will investigate the loss.
+Figure 13–11. Sample DA Form 1659

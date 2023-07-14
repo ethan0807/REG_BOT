@@ -1,0 +1,19 @@
+
+7–4. Durable property
+Durable (D) property is personal property that is not consumed in use and that does not require property book
+accountability but, because of its unique characteristics, requires control when issued to the user. The following classesor types of property will be coded durable and responsibility assigned as follows:
+a. All hand tools in FSC 5110, FSC 5120, FSC 5130, FSC 5133, FSC 5136, FSC 5140, FSC 5180, FSC 5210, FSC
+5220, and FSC 5280 with a unit cost of $50 or more. When the unit of issue contains more than one item (such as,package, box, and dozen) and the cost of a single item (unit of measurement) is less than $50, the entire set will betreated as an expendable item at the user level, even though it may be coded as durable in FEDLOG.
+b. All items coded with an ARC of “D” in FEDLOG except specific hand tools identified in paragraph 7–4 a.
+c. Nonconsumable personal property having a unit cost over $500, but less than $5,000, assigned a controlled
+inventory item code (CIIC) of “U” and a reportable item control code (RICC) of “0” not otherwise coded with an ARCof “N” (nonexpendable).
+d. Nonconsumable supply Class 8 items as limited by AR 40–61 and not otherwise coded with an ARC of “N”
+(nonexpendable) in FEDLOG.
+e. Commercial and fabricated items similar to those items coded with an ARC of “D” (durable) in the FEDLOG.
+f. Audiovisual production master material and copies that are accounted for under AR 25–1.
+g. Cellular phones and pagers with a unit cost of less than $500 dollars.
+h. Information management processing equipment such as, computers, laptops, monitors, and printers will be
+formally accounted for on the property book as these items are considered highly pilferable.
+i. Software.
+j. All items with assigned FSC 3510, FSC 4110, FSC 4140, FSC 6240, FSC 7105, FSC 7110, FSC 7125, FSC 7195,
+FSC 7210, FSC 7220, FSC 7230, FSC 7290, FSC 7310, FSC 7320, FSC 7350, FSC 7820, or FSC 7910 and the unitprice is over $300 but less than $2,500, the item is durable.

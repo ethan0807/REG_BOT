@@ -1,0 +1,16 @@
+
+2–14. Stock record accounts
+a. The stock record account (SRA) is a formally established set of records and files used to account for Army
+property being held for issue. Each SRA is assigned a unique DOD Activity Address Code (DODAAC) as anidentification number. This account is operated by a designated accountable property officer, called a SRO.
+b. The authority to setup an SRA is contained in the parent unit’s authorization document or mission statement. As
+an exception, a component commander may establish a stock record account for the duration of a contingency to beoperated by different supply support units on a rotational basis.
+c. A mission property account is a special type of SRA. It is established to support a specific mission or activity
+such as, testing, research and development, manufacturing, production, maintenance, or renovation. It will be used onlyto stock material for, and make issues to, the activity that the account was established to support.
+d. Mission SRAs will be established as directed by the ACOM, ASCC, and DRU commander.
+e. Mission SRAs will be established within the ARNG as directed by the Chief, National Guard Bureau (CNGB).
+f. Item accounting for property capitalized under the Defense Business Operations Fund will be per AR 710–2.
+Financial accounting will be per DFAS–IN Regulation 37–1.
+g. ACOMs, ASCCs, and DRUs may authorize organizations that must function independently as support or
+maintenance activities to maintain separate SRAs.
+h. The SRA, unless specifically exempted, is a subsidiary record of the financial general ledger control account,
+titled “Inventories,” maintained by the finance and accounting officer (FAO).

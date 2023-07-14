@@ -1,0 +1,6 @@
+
+14–18.  Ground safety notification system  
+a.  The Ground Safety Notification System is used to disseminate maintenance information or mainte-
+nance action messages  to the field. These messages include the SOUM and the ground safety action.  
+b.  Mandatory procedures for the Ground Safety Notification System can be found in AR 750  –  6 and DA 
+Pam 750  –  1. 

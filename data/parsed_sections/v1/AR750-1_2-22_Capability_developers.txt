@@ -1,0 +1,30 @@
+
+2–22.  Capability developers  
+CAPDEVs, as identified in AR 700  –  127, will — 
+a.  Include management and  performance of the materiel maintenance function in the development of 
+concepts, doctrine, materiel requirements, organizations, and management information systems.  
+ 
+b.  Determine the maintenance impact of new materiel or concepts.  
+c.  Assist in planning for logistics demonstrations or maintenance assessment/maintenance evaluation 
+and conduct analyses of results.  
+d.  Balance performance capabilities with those of reliability, availability, maintainability, and supporta-
+bility.  
+e.  Determine capabil ities and develop the documentation for training devices.  
+f.  Coordinate with MATDEVs and the LCMCs to ensure materiel maintenance considerations, to en-
+sure ETMs are included in capabilities documents.  
+g.  Determine skill requirements for BDAR and deve lop techniques and criteria for making repair, evac-
+uation, and/or mutilation decisions based on time limits and available skills.  
+h.  Review all new and revised technical and equipment manuals at the TM verification in accordance 
+with AR 25  –  30. 
+i.  Review all new and revised MAC no later than the maintenance demonstration.  
+j.  Incorporate corrosion resistance into design and ensure CPC  measures are taken to extend the life 
+cycle of Army weapon systems prior to fielding as related to reliability, availability, maintainability, and 
+supportability.  
+k.  Ensure requirements for winterization kits that facilitate operation in areas where temp eratures are 
+from negative 25 degrees Fahrenheit to negative 60 degrees Fahrenheit.  
+l.  Incorporate PPMx as a capabilities development document/capabilities production document 
+(CDD/ CPD) requirement for new systems and for legacy equipment and support t he inclusion of PPMx 
+where it is feasible and cost -effective.  
+m.  Represent SKOT users for all matters associated with the review and update of SKOT and corre-
+sponding component lists ( CLs).  
+n.  Support PPMx in accordance with AR 700  –  127. 

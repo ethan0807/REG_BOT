@@ -1,0 +1,21 @@
+
+12–3.  Maintenance management  
+a.  Commanders of Army medical forces will publish written directives which govern field -level and sus-
+tainment -level biomedical equipment maintenance management programs for their organizations as ap-
+propriate. Commanders will appoint qualified medical maintenance managers.  
+b.  Commanders may use field or sustainment support to provide for organizational level maintenance 
+operations; the records of services will remain with eac h organization UIC. Primarily, maintenance rec-
+ords will be documented using TELS applications and using the approved reporting architecture for medi-
+cal technologies.  
+ 
+c.  Medical maintenance managers will obtain an approved DoDAAC and derivative UIC, as  necessary 
+for their TELS from the UIC and/or DoDAAC coordinator.  
+d.  Medical maintenance managers at each organization will publish internal and external SOPs that 
+detail equipment maintenance management programs. The SOPs will be updated at least ev ery 18 
+months and an electronic copy will be provided to the AMLC’s Medical Maintenance Policies and Analysis 
+(M2PA) via e -mail at usarmy.detrick.amlc.mbx.m2pa@mail.mil . 
+e.  Medical maintenance managers will use MOAs and delegations of authority documents to develop 
+equipment support relationships between field and sustainment support organizations.  
+f.  Use assigned biomedical equ ipment specialists ( BES) for medical maintenance support on medical 
+devices. Do not assign BES additional duties that may adversely affect the performance of medical 
+maintenance mission or routinely use BES for other than the maintenance of MD.  

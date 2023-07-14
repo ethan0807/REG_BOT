@@ -1,0 +1,69 @@
+
+14–22.  Nuclear Hardness Maintenance and Hardness Surveillance Program  
+a.  Objective.   The objective of the Nuclear HM/HS Program is to ensure the su rvivability of mission crit-
+ical systems to the effects of nuclear weapons; to protect the investment made in hardening systems; and 
+to ensure compliance with DoDI 3150.09, which directs the Secretary of the Army to “Ensure an Nuclear 
+HM/HS Program is est ablished and maintained for those CBRN mission critical systems that are hard-
+ened for nuclear survivability.”  
+b.  Applicability.  
+(1)  The Nuclear HM/HS Program applies to those systems that are identified as mission critical by their 
+capabilities documen ts, that have nuclear survivability requirements, and that incorporate hardening to 
+meet those requirements, in accordance with DoDI 3150.09. The U.S. Army Nuclear and Combating 
+Weapons of Mass Destruction Agency maintains the list of Army mission critica l systems with nuclear 
+hardness requirements.  
+(2)  The systems hardness are the aspects of the system that protect it from initial nuclear weapons ef-
+fects, including high -altitude electromagnetic pulse, initial nuclear radiation, blast, and thermal radiati on. 
+(3)  This maintenance policy is independent of hardness assurance.  
+c.  Program policy.  
+ 
+(1)  Hardness maintenance is a unit responsibility. Effective nuclear hardness maintenance depends on 
+proper maintenance in accordance with a system’s TMs. Hardness  maintenance begins with routine 
+PMCS. MATDEVs will develop checks and services requirements and ensure they are included in mis-
+sion critical systems’ TMs.  
+(2)  Hardness surveillance is the responsibility of the MATDEV. Hardness surveillance will be co n-
+ducted while the system is located at depot maintenance and inspected by a U.S. Army Test and Evalua-
+tion Command ( ATEC) engineer. Hardness maintenance service checks must be completed before any 
+standard maintenance work is done. The intent of hardness s urveillance is to monitor the hardness 
+maintenance program and ensure the system’s integrity remains intact through its life cycle. Hardness 
+surveillance will be based on a portion of the fielded fleet.  
+d.  Responsibilities.  
+(1)  The MATDEV will — 
+(a)  Ensure that nuclear hardness maintenance checks and services are incorporated into a system’s 
+TMs. These checks and services include but are not limited to ensuring wire casings are serviceable, criti-
+cal items are properly grounded, and electrical connection s are free of corrosion.  
+(b)  Ensure that detailed life cycle HM/HS Programs are incorporated into the supportability strategy 
+(SS), in accordance with DA Pam 700  –  127. In the SS, include maintenance concepts, requirements, and 
+procedures for nuclear HM/HS procedures to assure the nuclear hardness of the system throughout its 
+life cycle. Maintenance actions, replacement of parts, modifications and other life cycle changes require  a 
+reassessment of the system’s vulnerability.  
+(c)  Include life cycle surveillance and maintenance of electromagnetic environmental effects shielding 
+or hardening features in the ILS assessment and planning processes, in accordance with DA Pam 70  –  3. 
+The MATDEV will consider the following in support of HM/HS planning: maintenance planning, technical 
+data, training and training support, computer resources support, and design interface. Equipment tech-
+nical publications will delineate and describe nuclea r HM/HS requirements.  
+(d)  Verify HM/HS maintenance procedures and review the technical publications during the logistics 
+demonstration, in accordance with DoD 3235.2  –  R. The MATDEV will incorporate HM and/or HS into lo-
+gistics demonstration testing. I mplement maintenance test, evaluation, and demonstration requirements 
+through the ILS process in AR 700  –  127. Summarize the logistics demonstration requirements system’s 
+Test and Evaluation Master Plan in accordance with DA Pam 700  –  127. 
+(e)  Coordina te with AMC to plan, program, and budget for HM/HS requirements as part of the life cycle 
+cost estimate in accordance with DA Pam 70  –  3. 
+(2)  CAPDEV, in coordination with the MATDEV, will prepare the SS during the initial phase of drafting 
+the CDD in accordance with DA Pam 700  –  56. The SS ensures that only support analysis tailored to the 
+program needs are accomplished for development of ILS element requirements and constraints and to 
+identify the s upportability design requirements. This information must be consistent with the ILS infor-
+mation contained in the initial capabilities document.  
+(3)  AMC will — 
+(a)  Coordinate with MATDEVs to ensure sufficient funds and personnel are budgeted and allocat ed for 
+HM/HS.  
+(b)  Incorporate hardness surveillance into depot -level maintenance for mission critical systems.  
+(c)  Integrate into existing quality control procedures.  
+(4)  ATEC will — 
+(a)  Provide technicians to AMC upon request to support hardness sur veillance.  
+(b)  Set up a schedule in coordination with AMC for inspection of vehicles at depot maintenance.  
+(5)  Chief, USAR; CNGB; and ACOM, ASCC, DRU commanders will — 
+(a)  Ensure hardness maintenance inspections, in accordance with a system’s TMs, are incorporated 
+into unit maintenance.  
+(b)  Ensure maintenance personnel are trained in nuclear hardness maintenance.  
+Chapter 15  
+Equipment Reset  

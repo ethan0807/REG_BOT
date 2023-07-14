@@ -1,0 +1,15 @@
+
+16–5. Actions to be taken upon discovery of discrepancies in shipment
+Actions to be taken will be decided on discovery of a discrepancy upon receipt of shipment. The actions to be taken
+depend on the type of consignee involved. Listed below are the successive steps for reporting and adjusting discrepan-cies. Section II of this chapter specifies the actions required in steps 3 through 7 for the use of the DD Form 361.Section III of this chapter specifies those actions required for the use of SF 364. For those steps in which requirementsfor action differ with the type of consignor or consignee, the procedure that applies to each type or combination oftypes is identified in table 16–1.
+Table 16–1
+Actions for discrepancies in shipment
+Step Action
+1 Discovery of the discrepancy by—
+(a) The TO or other receiving point personnel during “checking-in” operation, or(b) The receiving property officer during “storage” operation.
+2 Classification of discrepancy (see glossary to determine the proper form (DD Form 361 or SF 364)) required.
+3 Initiation of forms in step 2.
+4 Investigation and documentation of loss with concurrent actions to complete the forms in step 2 above.
+5 Approval of the forms in step 2 above for consignee installation commanders.
+6 Distribution of the forms in step 2.
+7 Action by the consignor (shipping officer) or other addressee upon receipt of the completed forms in step 2.

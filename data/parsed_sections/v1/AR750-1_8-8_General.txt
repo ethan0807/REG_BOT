@@ -1,0 +1,42 @@
+
+8–8.  General  
+a.  This section applies to the maintenance of Army tactical c ommunications, command, control, and 
+computer, intelligence, EW, and sensors equipment, including MTOE, TDA, and loaned materiel. Commu-
+nications, command, control, computer, intelligence, EW, and sensors equipment includes, but is not lim-
+ited to, the f ollowing:  
+(1)  Army intelligence and electronic warfare ( IEW) equipment fielded to corps, divisions, armored cav-
+alry regiments, separate brigades, and battalions.  
+(2)  INSCOM tactical IEW equipment, including select equipment items in U.S. Army field st ations and 
+regional support centers ( RSCs).  
+(3)  ACOM, ASCC, and DRU -developed; ACOM, ASCC, and DRU -procured; and ACOM, ASCC, and 
+DRU -fielded IEW equipment, including non -developmental items and COTS items.  
+(4)  Other selected communications, command, control, computer, intelligence, EW, and sensors 
+equipment that receives sustainment and/or sustainment forward support from the Electronic Sustainment 
+Support Center ( ESSC).  
+b.  The CG, AMC  is responsible for the support of Army IEW materiel with CECOM being designated 
+as the Army lead organization for tactical IEW logistics sustainment.  
+(1)  The Field Sustainment Support Division, Field Support Directorate, CECOM Integrated Logistics 
+Support Center ( ILSC) mission is to develop, plan and provide forward maintenance, supply, logistics and 
+field maintenance for nonstandard and COTS C5ISR to the warfighter, at deployed and home station lo-
+cations. Field Sustainment Support Division is comp rised of DA Civilian logisticians and maintenance 
+managers who develop and deliver cost -effective, timely and efficient solutions to worldwide C5ISR cus-
+tomers. This support is executed through our worldwide RSC construct.  
+(2)  Joint operations equipment  developed for special operations forces units are exempt from the re-
+quirements of this section.  
+c.  The IEW sustainment RSC is an integrated repair activity that provides the field with a dedicated 
+support structure for low -density IEW systems.  
+d.  C5ISR Sustainment maintenance: C5ISR equipment/systems requiring DLR, overhaul, rebuild or 
+recapitalization during peacetime will be candidates for the CECOM C5ISR Life -cycle Analysis Team 
+(CLAT) and Sustainment Maintenance Forward initiative. ACOMs, ASCCs, will report C5ISR equipment 
+requiring depot maintenance support to, receive disposition instructions from, the appropriate system inte-
+grated support manager.  
+(1)  C5ISR equipment selected for the CLAT will be provided a subject matter expert eval uation and 
+certification of the C5ISR asset with a focus on physical condition and corrosion. CLAT will utilize a stand-
+ardized inspection criteria and inspection work sheets for each family of C5ISR equipment, that is, TMs, 
+special TI and repair, inspections workbook/checklist.  
+(2)  C5ISR equipment identified as being part of this inspection program will normally be evaluated 
+every 5 years but may be evaluated more frequently as field conditions or usage factors dictate. C5ISR 
+evalua tions and Physical Inspections will provide a metric based assessment of the condition of the eval-
+uated systems. The CECOM CLAT will provide the Weapon System Directorate, Integrated Logistic Sup-
+port ( ILS) Managers the evaluation and/or inspection data for their review and analysis assisting them in 
+identifying and prioritizing candidate assets for the C5ISR depot maintenance program.  

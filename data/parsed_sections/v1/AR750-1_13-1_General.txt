@@ -1,0 +1,37 @@
+
+13–1.  General  
+a.  Total ownership cost reduction is an Army objective throughout the  life cycle of the weapon system. 
+The Chief of Staff, Army and the Army Acquisition Executive identified the reduction of operating and sup-
+port costs as a high priority and vital to realizing modernization efforts. The system’s total ownership cost 
+include s costs associated with acquiring, operating, modifying, maintaining, supplying, and disposing of 
+ 
+weapon and/or materiel systems. Reducing total ownership cost is instrumental, not only to reducing fis-
+cal demands on the operational commander, but also to g enerating savings that can be reinvested in sup-
+port of Army modernization objectives.  
+b.  Establishing and sustaining comprehensive maintenance support throughout the entire life cycle is 
+required to assure that materiel can be maintained in its operationa l environment with minimum resources 
+for achieving OR and sustainability. The engineering and technical capability required to ensure Army 
+equipment is maintainable within the Army standard maintenance system is called systems technical sup-
+port ( STS) for  systems that are in production and SSTS when systems are out of production. Engineering 
+and technical support capabilities include the following functions:  
+(1)  Conduct of logistics support analyses.  
+(2)  Development and update of the maintenance concept , including the LORA, the MSP, the depot 
+support plan, logistics management data, the MAC, and all equipment publications, including the depot 
+maintenance work requirements.  
+(3)  Establishment and sustainment of a stockpile reliability program.  
+(4)  Management of the Army’s SDC projects.  
+(5)  Providing LARs for major weapon systems and/or commodities of equipment.  
+(6)  Processing EIRs and QDRs.  
+(7)  Engineering services/Engineering design changes for:  
+(a)  Safety and capability modifications.  
+(b)  Correction of systemic deficiencies.  
+(c)  Re-engineering to compensate for obsolescence.  
+(d)  Integration with new systems/requirements.  
+(8)  Maintenance and use of technical data packages.  
+(9)  TM updates/ interactive electronic techn ical manual ( IETM).  
+(10)  Airworthiness certification.  
+(11)  Technical/maintenance guidance/assistance to field units; maintenance help desk support.  
+(12)  PPMx/ CBM/ CBM Plus ( CBM+).  
+(13)  Life cycle logistic tools.  
+c.  For guidance and procedures rela ting to Life Cycle Management support see AR 700  –  127 and DA 
+Pam 750  –  1. 

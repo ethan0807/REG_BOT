@@ -1,0 +1,28 @@
+
+8–5.  Qualification and maintenance training policy for communications security equipment  
+a.  The personnel qualification requirements for train ing and certification of COMSEC materiel mainte-
+nance technicians are established in AR 25  –  12. 
+b.  National policy for COMSEC  materiel maintenance training standards and maintenance operations, 
+as promulgated by the NSA, is contained in DoDI 8523.01. This regulation provides general policy for all 
+services on the requirements and security considerations applicable to the train ing of COMSEC mainte-
+nance personnel.  
+c.  DoDI 8523.01 also provides criteria for security awareness training requirements for all other CE 
+technicians. Such security awareness training is a prerequisite to their performing maintenance at any 
+level on COMSEC equipment end items and other major CE, weapons, or information systems containing 
+embedded cryptographic components.  
+d.  Adherence to the COMSEC training and maintenance policies and procedures contained in the ref-
+erenced publications is compulsor y. Security awareness training for all CE technicians will be docu-
+mented on DD Form 2625 (Controlled Cryptographic Item ( CCI) Briefing) and copies retained in person-
+nel files and unit security records. In addition, maintenance supervisors will establish a file containing a 
+copy of DD Form 2625 for each assigned technician under their control in maintenance facilities author-
+ized to work on systems containing cryptographic components.  
+e.  The special instructions below for supply of parts and special tools must be followed:  
+(1)  COMSEC maintenance activities will establish and maintained on shop stocks in accordance with 
+AR 710  –  2 for both classified and unclassified repair parts.  
+(2)  Cannibalization of COMSEC materiel will be accomplished according to paragraph 8 –13b, after ap-
+proval by Commander, U.S. Army Communications -Security Logistics Activity, (AMEL  –  LCA  –  D), 2133 
+Cushing Street, Suite 3600, Fort Huachuca, AZ 85613  –  7041.  
+(3)  Tools and TMDE  required for the maintenance of COMSEC materiel are authorized by the appro-
+priate MTOE, TDA, or non -tactical telecommunications development projects. They will be obtained in ac-
+cordance with AR 710  –  2. 
+(4)  Repairable exchange procedures for COMSEC materiel are in AR 710  –  2. 

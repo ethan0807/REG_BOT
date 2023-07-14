@@ -1,0 +1,13 @@
+
+4–6.  Verification inspections  
+a.  Verification inspections of major end items will be conducted to ensure the accuracy of a TI when it 
+results in unserviceable, uneconomically reparable condition code ( CC) of H or P.  
+b.  ACOM, ASCC, and DRU commanders without subordinate installations and installation command-
+ers will ensure — 
+(1)  TIs resulting in unserviceable, uneconomically  reparable CCs of H or P are verified using independ-
+ent inspections from the LCMC or sustainment activity prior to requesting disposition instructions in ac-
+cordance with AR 710  –  2. The individual performing the initial CC classification will not perfo rm verification 
+inspection.  
+(2)  Inspectors conducting verification inspections are technically qualified in the equipment commodity 
+they are inspecting.  
+c.  For mandatory procedures relating to verification inspections see DA Pam 750  –  1. 

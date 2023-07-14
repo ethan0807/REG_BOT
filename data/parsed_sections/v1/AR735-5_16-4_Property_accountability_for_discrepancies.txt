@@ -1,0 +1,15 @@
+
+16–4. Property accountability for discrepancies
+a. Free onboard origin shipments. Normally, to account for FOB origin shipments, a title to items shipped passes to
+the consignee upon acceptance by the common carrier (constructive delivery or receipt). This policy of “FOB origin”
+applies to shipments from the Army and DLA stock funds and to GSA shipments as well as to those from vendors,
+except against Army local purchase on an FOB destination basis. Accountability for discrepancies in FOB originshipments is assigned below. Accountability for items disclosed as—
+(1) “Short” reverts to the consignor when reported by the consignee on DD Form 361 or SF 364. Property
+responsibility for such items terminates because the consignee posts only the quantity actually received to theconsignee stock record account.
+(2) “Over” (including items apparently shipped in error) reverts to the consignor as in paragraph 16–4 a(1). Property
+responsibility remains as a suspense item with the consignee until taking final action for disposing of such items tocomply with the instructions of the consignor.
+(3) “Damaged” reverts to the consignor, as in paragraph 16–4 a(1), along with property responsibility for the items in
+the condition shown on the shipping document. The consignee assumes and retains property responsibility for damageditems described in the condition of actual receipt until taking final disposition action to comply with the instructions ofthe consignor. Thus, the consignor on FOB origin shipments must resume accountability for, and take proper actions toadjust shortages and overages and damages attributed to them by DD Form 200 action as in paragraph 16–4 a(1). Army
+consignors must also properly adjust their consignor stock record accounts and stock fund records to provide forshipments made to replace items reported short or damaged.
+b. Local purchase. On FOB destination shipments from vendors of “local purchases” by the consignee, accept
+property accountability and make payment only for those quantities received in a serviceable condition. Disposition ofunacceptable items is the responsibility of the vendor.

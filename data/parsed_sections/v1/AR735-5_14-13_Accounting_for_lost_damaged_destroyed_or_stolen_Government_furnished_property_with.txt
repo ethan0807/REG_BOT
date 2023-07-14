@@ -1,0 +1,11 @@
+
+14–13. Accounting for lost, damaged, destroyed, or stolen Government furnished property with
+contractors
+a. The purpose of processing a DD Form 200 for items lost by contractors is to provide the PBO with an adjustment
+document to account for the loss of GFP only. This is not to relieve or hold the contractor liable for lost, damaged,destroyed or the theft of Government equipment.
+b. When loss of Government furnished equipment on in an Approved Property System of Record involves possible
+contractor liability under a service contract, the contractor will process and report discrepancies, loss of Governmentproperty, physical inventory results, audits and self assessment, corrective action and other property related reports asdirected by the contracting officer (KO). The report will be in accordance with FAR.
+c. The KO and the property administrator will investigate the loss and make an independent finding as to the
+liability of the contractor. Once this is complete the KO or property administrator will provide a copy of the findings tothe PBO or the accountable officer. The KO and property administrator is the final authority in determining relief orliability in regards to contractors.
+d. The PBO will process a DD Form 200 to adjust the property book. The PBO or accountable officer will only fill
+out blocks 1, 3, 4–9, and 17a–f. The PBO or accountable officer will use the findings from the investigation as anexhibit and supporting documentation for auditing purposes. The process flow chart can be found at figure 14–3 and asample of DD Form 200 is available at figure 14–4.

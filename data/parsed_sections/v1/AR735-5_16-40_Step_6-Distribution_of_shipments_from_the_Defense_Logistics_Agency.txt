@@ -1,0 +1,14 @@
+
+16–40. Step 6–Distribution of shipments from the Defense Logistics Agency
+a. General. As provided in paragraphs 16–13 and 16–29 for steps 3 and 4, shipments from DLA involve reimburse-
+ment billing. With stated exceptions, these shipments require billings adjustment according to DFAS–IN Regulation37–1 to cover discrepancies. To accommodate these requirements, use distribution of DD Form 361 for financialliability investigation specified in this paragraph for discrepancies of less than $100 per line item. These shipments donot require request for billing adjustment according to DFAS–IN Regulation 37–1. Use only the distribution inparagraph 16–40c.
+b. Vendor liability indicated. Examination of the DD Form 361 may show that question exists as to liability of a
+vendor, contractor, freight handler, or commercial warehouse under contract to DLA and financial liability of thecarrier has not been ruled out. If so, distribute the financial liability investigations of property loss as follows:
+(1) The original with exhibits attached, forward to the Defense Supply Center having jurisdiction over the items
+involved as provided in DFAS–IN Regulation 37–1. It will be handled by the contracting officer and with the officeresponsible for paying the GBL.
+(2) Second, third, fourth, and fifth copy according to paragraph 16–38 b(2) through paragraph 16–38 b(5).
+c. Vendor liability not indicated. Distribute the original, with exhibits attached, and the fourth copy to the officer
+responsible for paying the GBL. Distribute the second and third copies per paragraph 16–38 c(2) and (3). Forward the
+fifth copy to support request for billing adjustment according to DFAS–IN Regulation 37–1 (see para 16–39 b(1) and
+16–39 c). Request for billing adjustment may not be required because the discrepancy amounts to less than $100 per
+line item. If so, return the fifth copy to the officer who prepared the report.

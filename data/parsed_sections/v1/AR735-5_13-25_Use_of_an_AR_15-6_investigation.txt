@@ -1,0 +1,21 @@
+
+13–25. Use of an AR 15–6 investigation
+a. There are five situations warranting an investigation performed per AR 15–6 in lieu of a financial liability
+investigation conducted under this regulation. These situations occur when directed by—
+(1) Other regulatory guidance.(2) A commander.(3) A financial liability investigation approving or appointing authority per AR 15–6.(4) The loss or destruction involves a controlled item with a CIIC of 1-6, 8, 9, N, P, Q, R, night vision devices, and
+navigation systems (for example, Global Positioning System).
+(5) Serial number changes for sensitive items will require the processing of a DD Form 200 and an AR 15–6
+investigation if changes involve more than two characters.
+b. There are two distinct situations warranting an AR 15–6 investigation to be included as an exhibit to a DD Form
+200:
+(1) Upon review of DD Form 200 and attached exhibits by the approving authority or appointing authority, as
+appropriate, a decision is made that an AR 15–6 investigation will be initiated to investigate the loss. The decisionwhether to appoint an AR 15–6 investigating officer is reflected on DD Form 200, block 13c, as shown in figure 13–18An AR 15–6 investigating officer is appointed using a memorandum of appointment per the AR 15-6, paragraph 2–1 b.
+(2) When a loss of Government property is discovered during the conduct of an AR 15–6 investigation, a DD Form
+200 is initiated using the instructions in paragraphs 13–10 c and 13–10 d.
+c. On completion of the AR 15–6 investigation:
+(1) Attach the AR 15–6 investigation to DD Form 200 as an exhibit. Do not use the AR 15–6 investigation as a
+supporting document or voucher to adjust balances on property records or as a document to assess financial liability.Use DD Form 200 for these purposes.
+(2) In block 15a, enter the words “See AR 15–6 investigation at exhibit (identify exhibit by an alpha character).”
+Mark classified or controlled AR 15–6 investigation reports in block 15a showing their identification and location.
+(3) The AR 15–6 investigating officer will complete all actions as required by AR 15–6. If financial liability is
+recommended, the AR 15–6 investigating officer will complete block 15b through block 16h. The appointing authorityor the approving authority as appropriate will accomplish any actions not performed by the AR 15–6 investigatingofficer or normally required of a financial liability officer, such as notifying the individual being charged, as prescribedin paragraph 13–32, paragraph 13–34, and paragraph 13–35, had once been appointed. No additional investigatingofficer will be appointed to perform these duties.

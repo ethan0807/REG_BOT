@@ -1,0 +1,12 @@
+
+16–7. Step 2–Classification of discrepancies
+The receiving TO or receiving property officer, or both, will categorize discrepancies as to their physical characteristics
+and capability. Categorization, once decided, will not change except upon agreement between the receiving TO andreceiving property officer. If the officers fail to agree, the approving authority will categorize the discrepancies.
+a. Inconsequential discrepancies. Discrepancies that are categorized as inconsequential do not require financial
+liability investigation of proper loss action. Adjust these discrepancies by entering the following note “Inconsequential”on a copy of the shipping document or other instrument used as a debit voucher.
+b. Transportation discrepancies. The strict adherence to the definition of transportation discrepancies will assist in
+protecting the Government’s interest. Categorize all discrepancies where carrier liability cannot be ruled out astransportation discrepancies. Further decision will be made according to the glossary as to whether the transportationdiscrepancy will be an overage, shortage, or damage, thereby requiring initiation of a DD Form 361 in enough copiesfor financial liability investigation purposes.
+(1) For other transportation discrepancies, do not use a DD Form 200. In cases of damages discovered by the
+receiving property officer when opening packages at storage locations (concealed damage), they will consult thereceiving TO for the category of the discrepancy.
+(2) Section II of this chapter contains specifications for initiating and processing DD Form 361s.c. Supply discrepancies. After a deficiency is categorized as a supply discrepancy, further review will be made to
+see if it meets the report preparation time limits and qualifies under the minimum dollar value criteria (see definitionfor “discrepancy” in the glossary). Refer supply discrepancies discovered by the receiving TO to the receiving propertyofficer for action. Section III contains detailed specifications for initiating and processing the SF 364.

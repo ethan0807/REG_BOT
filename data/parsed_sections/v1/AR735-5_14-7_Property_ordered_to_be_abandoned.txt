@@ -1,0 +1,21 @@
+
+14–7. Property ordered to be abandoned
+In the course of combat, contingency operations, military advisory activities, or to meet other military requirements,
+situations may develop requiring the abandonment or destruction of property.
+a. When abandonment or destruction of property is necessary because of operational requirements the commander in
+the grade of colonel or above, or the civilian equivalent, may authorize the abandonment or destruction of the property.Authority to destroy or abandon property may initially be granted verbally or electronically (such as, secure email) insituations where granting written authority is not practical because of the operational situation.
+b. Before abandoning sensitive or classified components or technology, the authorizing authority must take into
+consideration the potential compromise of that technology or information. If such equipment is abandoned, notify thelocal S–2 and supporting counter intelligence element within 24 hours.
+c. Where destruction or abandonment has been granted the authorizing authority and/or approving authority must
+document their decision and authorization in a memorandum for record that specifies the circumstances justifying thedecision to destroy or abandon the property. The memorandum will contain the NSN or MCN, LIN, or nonstandardline item number, item description, quantity, CIIC, and unit cost of each type of item abandoned (see fig 14–1).
+d. The authorizing authority specified in paragraph 14–7 a may ratify a subordinate commander’s decision to
+abandon or destroy property when it is not possible to obtain approval from the approving authority because of theoperational situation. The ratifying official must document their decision to ratify the subordinate commander’sdecision in a memorandum for record that specifies the circumstances leading to the decision to destroy or abandon theproperty and the reasons the subordinate commander was unable to obtain authorization prior to destruction orabandonment.
+e. If an approving authority elects not to ratify the decision of a subordinate commander to destroy or abandon
+property, a DD Form 200 or a 15–6 investigation will be initiated.
+f. The memorandum documenting the approving authority’s approval or ratification of the destruction or abandon-
+ment of property will be used as an attachment to a DD Form 200 to adjust the accountable records. No furtherinvestigation is required. See example of a DD Form 200 completed to adjust an approved abandonment in figure14–2.
+g. Within 72 hours of abandonment or destruction of CCI, a CCI incident report must be routed through command
+channels and sent to U.S. Army Communications Security Logistics Activity, Fort Huachuca, AZ 85613–7041.Additional guidance is provided in TB 380–41.
+Figure 14–1. Example of a property abandonment approval memorandum
+Figure 14–2. Sample DD Form 200 for property abandoned
+Figure 14–2. Sample DD Form 200 for property abandoned–Continued

@@ -1,0 +1,48 @@
+
+14–35. Accounting for lost, damaged, or destroyed property in a Joint Service environment
+This paragraph prescribes actions to be taken when Government property is lost, damaged, or destroyed at jointly
+operated military installations, activities and operations. These installations and activities include those involving DLA,military assistance advisory groups, and similar installations, activities and operations.
+a. Preparation of financial liability investigations of property loss. Responsibility at Joint Service installations,
+activities, and operations for the preparation of financial liability investigations of property loss listing property in thecustody of personnel follows:
+(1) Accountable or responsible Army personnel will prepare financial liability investigations of property loss for
+Army property in the custody of Army personnel or in the custody of other than Army personnel as prescribed in
+chapter 13.
+(2) Accountable or responsible Army personnel will prepare financial liability investigations of property loss, using
+DD Form 200, for losses of DLA property (including inventories stored at Army installations) in the custody of Armypersonnel according to DOD 7000.14–R.
+(3) Personnel of the issuing U.S. agency, department, or foreign Government will prepare financial liability investi-
+gations of property loss or other administrative property accounting actions for all other non-Army property in thecustody of Army personnel according to the procedures of the agency or foreign Government.
+(4) When Army property is loaned to other DOD Services, a loan agreement between the loaning and the borrowing
+activity will be established prior to the loan taking place in accordance with AR 700–131, paragraph 2–6. The loanagreement will state the borrowing Service’s responsibility for the return of the borrowed item(s), and in the event ofloss or damage, the borrowing Service’s responsibility for the payment of replacement or repair costs.
+b. Designation of approval authority.(1) Army property in custody of Army personnel or other personnel.(a) Approval authority will be as prescribed in chapter 13.
+(b) Within a Joint Service organization or contingency operation, the following criteria will be used to determine
+who the approving authority will be for financial liability investigations of property loss when Army property is lost,damaged, or destroyed. Individual must be a DOD military officer in a command position, in the pay grade of O6 orabove. May be a DOD civilian employee in a supervisory position in the grade of GS–15.
+(2) DLA property (including stored at Army installations) in the custody of Army personnel.(a) Submit financial liability investigations of property loss covering losses of DLA property in the custody of Army
+personnel to the Army approval authority specified in chapter 13. The financial liability investigation of property loss isprepared on DD Form 200 using the instructions contained in DOD 7000.14–R.
+(b) Forward the original and duplicate of the DD Form 200 to the DLA reviewing authority specified in DLA
+instructions, after action by the approval authority.
+(c) Return a duplicate of the DD Form 200 with the confirmed action of the reviewing authority to the approval
+authority who took initial action on the financial liability investigation of property loss.
+(3) Navy and other Government agency and department property in the custody of Army personnel. Accept as final
+recommendations for placing financial liability on Army personnel by Navy financial liability investigations ofproperty loss or comparable documents of other Government agencies and departments—
+(a) If approved by the official designated in regulations of the agency concerned to confirm such approvals.
+(b) Provided the recommendations are based on findings meeting the criteria stated in chapter 13 of this regulation.
+(4) Host foreign Government property in the custody of Army personnel. Property of a host foreign Government
+may be lost, damaged, or destroyed while in the custody of Army personnel. The host foreign Government may submitdocuments with a request for collection to the commander of the Army element of which the Army personnel areassigned. If so, the Army claims judge advocate will evaluate the request to determine the amount of financial liabilityto be assessed against the person concerned.
+c. Collection of financial charges.(1) Persons authorized to take final action on financial liability investigations of property loss involving financial
+liability will initiate and follow-up on the collection actions. The final action on such financial liability investigationsof property loss establishes the indebtedness of persons by administrative procedure. For collection from other thanArmy DOD military members and civilian employees—
+(a) Notify the respondent in the same manner as used for Army members and civilian employees per paragraph
+13–42 a of this regulation. Request payment in full for the amount due.
+(b) If after 60 days from initial notification, the respondent fails to pay, either the full amount due or installments,
+and there is no indication that requests for reconsideration was filed, send the DD Form 200 to FAO for referral toDFAS for collection assistance.
+(c) The extent of liability of the Army for non-Army property is discussed in paragraph 14–35 d.
+(2) Collection of financial charges imposed on Army personnel by financial liability investigations of property loss
+covering Army property is prescribed in chapter 13 of this regulation. Civilian employees against whom the charges areimposed may be indigenous personnel in overseas commands. Agreements may exist with the foreign Governmentsconcerned. If so, overseas commanders will consider these agreements when collection action is required. The decisionwill be based on the advice of the claims attorney or the staff judge advocate.
+(3) On receipt of a copy of a DD Form 200 authenticated to approve a finance charge from the DLA reviewing
+authority, the approval authority will refer the case to the Army installation claims judge advocate for collection action.
+(4) When a commander of an Army activity receives a request for collection against Army personnel charged with
+loss or damage of property of another Service, Government department, agency, or foreign Government, the com-mander will refer the case to the Army installation claims judge advocate for evaluation and collection, as appropriate.
+d. Liability of the Army for non-Army property. The Army assumes some degree of responsibility in taking control
+over and entering in its records, as “Army property,” property loaned by other services, agencies or departments of the
+Government or of host foreign Government. This is true unless a covering loan agreement or contract provides to thecontrary. This responsibility may take the form of reimbursement to the lending activity, repair of damaged items atArmy expense, or replacement in-kind of lost or irreparably damaged items.
+e. Requesting reconsideration. Action to hold a respondent financially liable for the loss or damage of property is
+subject to the procedures for requesting reconsideration as set forth in paragraph 13–42 and paragraph 13–43 of thisregulation.

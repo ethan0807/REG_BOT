@@ -1,0 +1,15 @@
+
+6–1. General requirements
+a. Commanders will ensure that all management and accountability functions of receipt, storage, inventory, issue,
+and shipment fully utilize available AIT such as, bar code, 2D bar code, optical memory cards, radio frequencyidentification devise tags, contact buttons, satellite tracking, or electronic signature capability.
+b. The accountable officer will ensure that—
+(1) All receipts, shipments, and issues of property for which they are accountable, are posted to the appropriate
+property or sales account.
+(2) Records to support each receipt or issue (or other postings) are maintained within the account for a minimum of
+1 year after the posting date.
+(3) At the end of the year (fiscal or calendar, however the document register is maintained), the register becomes
+inactive and a new register is started. The old register is held in the current files area for 1 year. During that year, anyopen transactions from the prior year that are completed, are closed out (posted) on the old, inactive register. At theend of the 1 year period, all open numbers (if any still exist) are transferred to the new document register. The oldinactive register is held for one additional year and then destroyed.
+c. All property received from the national level or a commercial vendor will be recorded on an SRA before it is
+issued to an authorized customer.
+d. The accountable officer may appoint DOD military or DOD civilian employee assistants to aid in managing the
+account. Such appointment(s) will be in writing. The accountable officer is responsible for any transactions authorizedby an assistant.

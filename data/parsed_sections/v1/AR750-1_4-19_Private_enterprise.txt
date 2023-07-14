@@ -1,0 +1,32 @@
+
+4–19.  Private enterprise  
+a.  When the Army maintenance system cannot provide required support, the Army will rely on the do-
+mestic and foreign competitive private enterpr ise system to support its maintenance requirements.  
+b.  The ACOMs, ASCCs, and DRUs will ensure that essential quality requirements for maintenance 
+service contracts are defined, quantified, measured, and assessed during the contracted -out support pro-
+cess. Solicitations and contracts for maintenance services will require:  
+(1)  Quantitative measures of quality and performance.  
+(2)  Contractors to submit historical data that will show the capability to achieve these quantitative 
+measures. These data are use d in the solicitation review process.  
+(3)  Specific contractual provisions for obtaining contractor conformance, such as award and incentive 
+fee provisions for meeting performance quality and cost standards.  
+(4)  Test and evaluation to be performed to demo nstrate performance and corrective actions to be 
+taken on deficiencies revealed.  
+(5)  For medical equipment, only AMC can authorize contract maintenance to support an MTOE unit.  
+c.  Commanders contracting for commercial field or sustainment repair of equ ipment will ensure that 
+the contract requirements package include provisions for collection of work order DA Form 2407 data 
+from the contractor. Contractors will provide negotiated and/or approved data via TELS to the Enterprise 
+Logistics Portal maintenance master.  
+d.  The MATDEV  will ensure any contract requirement package for commercial application of author-
+ized and approved MWOs will include provisions that MWOs will be applied and reported in accordance 
+with AR 750  –  10. 
+e.  All contracting support is requested by submittin g a requirements package to the contracting office 
+in accordance with AR 715  –  9. The requirements package includes the PWS, Government cost estimate, 
+and QA surveillance plan in addition to other documentation.  
+f.  Only contracting officers may prepare  contracts.  
+g.  The requiring activity is responsible for nominating a contracting officer representative in accordance 
+with AR 715  –  9. 
+h.  In the event of contractor deficiencies or noncompliance with the terms of the contract, the contract-
+ing officer r epresentative should document and communicate the deficiencies to the contracting officer for 
+corrective action.  
+i.  All contracts must be administered in accordance with the Federal Acquisition Regulation ( FAR).  

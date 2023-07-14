@@ -1,0 +1,218 @@
+
+8–12.  General  
+a.  Logistics information technology domain maintenance and life cycle management.   Logistics IT pro-
+vides automation capability to the warfighter during operational and tactical operations. Sustainment is 
+the provision of the logistics, personnel services,  and health service support necessary to maintain opera-
+tions until mission accomplishment. See DA Pam 750  –  1 for COTS computer repair and/or upgrade meth-
+odology. This section applies to the maintenance of logistics IT domain equipment identified on MTOE 
+and TDA authorization documents and loaned materiel. The logistics IT domain includes LIS, GCSS –
+Army, Unit Level Logistics System -Aviation (Enhanced), CSS very small aperture terminal ( VSAT), Com-
+bat Service Support Automated Information Systems In terface ( CAISI), personal digital assistants, mobile 
+support devices, and ACN computers. Equipment will be identified with LINs in support of life cycle man-
+agement. Logistics IT equipment with LINs are readiness reportable. This section will detail Lo gistics IT 
+domain maintenance and life cycle management for both field and sustainment level of maintenance. 
+Each level of maintenance will address logistics IT in five support elements: 1) hardware, 2) software, 3) 
+network and communications, 4) operato r functional business tasks, and 5) training.  
+b.  Logistics information technology field -level maintenance.  
+(1)  Operators of logistics IT systems will perform PMCS  in accordance with the manufacturer owner 
+manual, hardware end user manuals and system user manuals for each LIS. This regulation provides 
+Army maintenance standards and FLM instructions (see paras 3  –  3 and 3  –  11). Logistics IT equipment 
+ 
+faults discovered during PMCS will be recorded in the approved LIS. Recording of faults may include life 
+cycle management of automation equipment and the use of AIT. The use of AIT wil l enhance accuracy of 
+equipment repair management, serial number tracking, and property accountability. When TELS hard-
+ware becomes inoperative, the recording of an NMC fault will be entered upon recovery. Date and/or 
+times will be recorded to reflect the  NMC time.  
+(2)  At operator level, logistics IT, hardware becoming NMC will be evacuated to the Sustainment Auto-
+mation Support Management Office ( SASMO) without delay. The operator will record the discrepancy 
+upon discovery in the approved LIS. Screen  print of error messages will be printed and provided to 
+SASMO to isolate or target malfunctions when possible.  
+(3)  The SASMO will replace NMC equipment with TCX stock to return the customer to FMC. The NMC 
+TCX item will be work ordered to sustainment -level maintenance without delay.  
+(4)  Operator will take the necessary action to ensure correct power source/supply is provided during 
+tactical and/or non -tactical operations. Operator will become familiar with manufacturer hardware power 
+specifications. Computers and associated peripherals may require stable undisrupted power from a relia-
+ble source.  
+(5)  Maintenance of VSAT and CAISI hardware includes daily PMCS by the owning organization. Daily 
+check of CAISI antenna for obstructions is needed to ensure continued undisrupted operations. Operator 
+will ensure the Pedestal unit is properly secured during inclement weather and free from vehicle traffic. 
+The 250 -foot fiber optic cord must be secure to prevent possible damage. VSAT hardware  failure will be 
+reported to the SASMO.  
+(6)  The SASMO will support the user and/or operator in diagnosis and restoration of logistics IT equip-
+ment to an operational status. Failed LRUs will be turned into the supporting Tobyhanna Army Depot FRA 
+(sust ainment level maintenance) through the SASMO.  
+(7)  To the greatest extent possible, the SASMO, in coordination with the maintainer, will provide a mo-
+bile support team to restore and repair logistics IT equipment onsite.  
+(8)  TCX for logistics IT equip ment will be managed at FLM as follows:  
+(a)  The SASMO or supporting maintenance activity will provide a replacement logistics IT LIN to unit 
+personnel using a TCX asset from on -hand TCX assets and work order the inoperative ( NMC) TCX to the 
+suppor ting Tobyhanna FRA maintenance activity.  
+(b)  Accountability for TCX assets is maintained by the SSA on the stock record account. The SASMO 
+manages TCX assets as operational exchange or swap -out. The SASMO will ensure TCX and SASMO 
+MTOE  equipment remain separate. Once SASMO has an NMC TCX item, it will be work ordered to sup-
+porting FRA facility without delay.  
+(c)  TCX will be used to replace customer logistics IT LIN equipment and annotated on appropriate 
+GCSS –Army business proce sses. The SASMO will make notations on DA Form 2407/ DA Form 5990  –  E 
+when serial number item is exchanged. Unit APSR must be updated with current serial numbers. The tac-
+tical situation may require that the SASMO and support operations determine best a nd safe customer 
+support business practices. IUID marking of computers may enhance this procedure.  
+(d)  TCX will be managed in accordance with AR 710  –  2. 
+(e)  Prior to issue of TCX to a customer, the SASMO will determine fair wear and tear in accorda nce 
+with paragraph 3 –11d. 
+(f)  TCX is composed of NS  –  E computer systems and their associated peripheral equipment used to 
+operate or support logistics IT applications. TCX will be located at the SASMO and must be 100 -percent 
+deployable (see para 14  –  6). Management of NS  –  E is provided in chapter 9  of this regulation.  
+(g)  When TCX is zero balance and the SASMO cannot replace or swap out hardware, the SASMO will 
+work order the customer hardware to the supporting FRA and inform them that the item requires priority. 
+Logistics IT systems are unit reportable and sustainment maintenance must provide increased support.  
+(9)  The SASMO provides logistics IT management, plans, policies, and procedures for logistics auto-
+mation functions and/or systems to the sustainment brigade, area support and backup support to the bat-
+talion support battalion SASMO in the support footprint. The SASMO  will task organize to meet opera-
+tional and tactical missions. The SASMO is a staff element of support operations and reports logistics IT 
+equipment and tactical network status, as needed.  
+(10)  Logistics IT Software management is defined as Operating a nd Application Software. The 
+SASMO will receive logistics IT new and/or change TELS software updates from Communications -Elec-
+tronics Command, Software Engineering Center –Lee ( CECOM, SEC –Lee). The SASMO will ensure all 
+ 
+customers are current with Logist ics IT Software configurations. Information assurance ( IA) updates must 
+be uploaded upon notification from CECOM, SEC –Lee. 
+(11)  Physical security requirements of logistics IT equipment are the responsibility of both the unit and 
+the SASMO.  
+(12)  Information security is the responsibility of the operator and unit commander. Operators will logout 
+when not physically located at GCSS –Army client workstation or LIS. Operators will complete IA training 
+in accordance with AR 25  –  2. Operators will ensure  other operators do not perform tasks with current cre-
+dentials of login. Do not share passwords.  
+(13)  Logistics IT Hardware maintenance management is recorded and managed in APSR. All LINs 
+must be entered and configured as unit MTOE and/or TDA equipm ent. The SASMO will utilize approved 
+TELS to receive hardware and/or software work orders and document FLM activities.  
+(14)  Units will ensure logistics IT equipment is recorded in the APSR and match approved equipment 
+records.  
+(15)  Warranty management of logistics IT equipment at FLM includes maintaining manufacturer integ-
+rity at operator and SASMO levels. The program executive office for Enterprise Information Systems and 
+the CECOM LCMC Logistics Readiness Center are the Army l ead organizations for logistics IT sustaina-
+bility and are responsible for the management of Life Cycle Management of LINs.  
+(16)  Any computers procured by an ACOM, ASCC, and DRU to support a logistics IT may be repaired 
+using these procedures, provid ed the ACOM, ASCC, and DRU has coordinated and funded that support. 
+Sustainment costs are directed to commanders who purchase this equipment. CECOM, SEC –Lee will 
+provide software and functional operator support through the Customer Support Office.  
+(17)  Tactical Logistics IT Network “configuration” using CSS VSAT and wireless CAISI will be provided 
+by the SASMO. Network maintenance includes the planning, configuring, supervising, and controlling of 
+systems authorized to operate on the tactical netw ork. CSS VSAT and CAISI is organizational property 
+and may require support operations assistance in positioning of network devices throughout the area of 
+operations.  
+(18)  SASMO will develop a “Tactical Network Diagram” for the purpose of network troub leshooting, 
+supporting theater positioned equipment requirements and geographical locations, providing support to 
+incoming forces during rotational operations, documenting network security information, and detailing ge-
+ographical obstacles for CAISI “line -of-sight.” The SASMO will maintain the “Tactical Network Diagram” to 
+brief commanders and support operations. Network recovery is essential for GCSS –Army since equip-
+ment master records are managed at the Enterprise Server. SASMO will support disconnecte d operations 
+when tactical operations prevent connectivity, during actual movements and during routine “downtime” 
+maintenance. The SASMO will develop and maintain a “Tactical Network Diagram” detailing CSS VSAT 
+and/or CAISI geographic locations, client  workstations on the network, configuration security settings and 
+internet protocol addressing, systems on network such as MC4, Transportation Coordinator’s Automated 
+Information for Movements System, Movement Tracking System, and other logistics systems. The 
+SASMO must maintain control to ensure maximum bandwidth.. The diagram will also detail public and 
+private networks established to enhance user access. The diagram is used for network maintenance and 
+hand -off to incoming rotational units.  
+(19)  The SASMO will provide operator functional business task (over -the-shoulder) support to custom-
+ers. The SASMO is the organic asset to provide limited support when information business process be-
+comes a problem. Communications to a central help desk may be limite d during tactical operations and 
+thus SASMO provides that support. The logistics community has an enormous operator and supervisor 
+customer base. Communications to sustainment level support (help desks) may not be available during 
+contingency operations or deployments.  
+(20)  The SASMO will not perform computer internal component repair unless directed by ACOM, 
+ASCC, and/or DRU G  –  4. 
+(21)  Training is a maintenance enabler at the lowest level. Business process information may not find 
+its way to the operator. SASMO provides that enabler to enhance automated logistics readiness through 
+recovery operator training. SASMO will provide information to commanders related to sources of training. 
+Resident and online, interactive baseline training a re a few of the sources. Academic training is a supervi-
+sor responsibility and not a SASMO responsibility. SASMO is organized and staffed to provide limited 
+customer functional support for logistics IT business activities.  
+c.  Logistics information techn ology sustainment -level maintenance.   All AIS Standard Army manage-
+ment information systems will be maintained as follows:  
+ 
+(1)  Hardware maintenance at sustainment levels includes various organizations. Tobyhanna FRA pro-
+vides logistics IT equipment repai r minus the CSS VSAT. Field support representatives in support of PM 
+Defense Wide Transmission Systems provide sustainment maintenance for the CSS VSAT. The FRA has 
+trained warranty certified technicians for specific computer products. If the FRA ha s no trained certified 
+technicians, the equipment will be forwarded to the manufacturer from the FRA. The SASMO, in most 
+cases, will not be required to seek warranty support. This relieves the SASMO of that responsibility. Sus-
+tainment level maintenance requires the FRA to code out each LIN when not repairable this station condi-
+tion exists. The FRA will contact CECOM, SEC –Lee for replacement of equipment. The FRA may man-
+age RCF at each  facility. This capability provides additional recovery capability. The local FRA manager 
+will determine when replacement of SASMO work ordered equipment is needed.  
+(2)  The decision to repair and/or upgrade NS  –  E computers, personal digital assistants , AIT, and asso-
+ciated devices will be based upon a cost -benefit analysis of replacing versus repairing and/or upgrading 
+the system. With the rapid advancement in technology, the repair and/or upgrade of logistics IT equip-
+ment may not be the best economic  choice. The following factors should be considered during the deci-
+sion process:  
+(a)  Cost of replacement from General Services Administration ( GSA) schedule.  
+(b)  Warranty and/or no warranty.  
+(c)  Age of the equipment (consider substantially improved technology).  
+(d)  Mission impact while the system is being repaired and/or upgraded.  
+(e)  Extent of repair and/or upgrade.  
+(f)  Cost of repair and/or upgrade versus the MEL constraints.  
+(g)  Availability of parts.  
+(h)  Manpower availability versu s manpower required in accomplishing the repair and/or upgrade.  
+(i)  Estimated service life after repair and/or upgrade.  
+(j)  Most timely method of getting system back into the hands of the end user.  
+(3)  The maintenance of MTOE and/or TDA military equip ment and standard/common and/or unique 
+Army systems will have priority over the repair of locally procured logistics IT computer systems. The cu-
+mulative cost to repair or upgrade a logistics IT computer must not exceed 65 percent of the replacement 
+cost of the individual LRU (the central processing unit, monitor, and printer). Accounting of expenditures 
+for each LRU (by serial number) is the responsibility of the repair activity. Units must be able to produce 
+records when required, such as — 
+(a)  Copy of buy versus repair cost -benefit analysis. If audited, the unit must be able to produce these 
+reports upon direction from higher HQs.  
+(b)  Cost of expenditures and work requests in support of the logistics IT computer repair and/or up-
+grade effort must be maintained. If audited, the repair shop must be able to produce these reports upon 
+direction from higher HQs.  
+(4)  Logistics IT equipment computer will not be upgraded if the upgrade requires replacement of more 
+than 50 percent of the internal major shop replaceable units or assemblies (motherboard, hard drive, disk 
+drive, compact disk, central processor, and memory c hips).  
+(5)  Upgrade of a logistics IT computer must retain the original system configuration integrity of fit and 
+form. The upgrade may improve the function but must not change fit or form (for example, a logistics IT 
+computer will not be upgraded if the  upgrade requires replacement of the external LRU case (the black 
+box) or modification of the internal chassis).  
+(6)  After redeployment to home station, units coordinate with SASMO, FRA, and TELS System Manag-
+ers to:  
+(a)  Wipe hard drives and reimage c omputers with software and all updates.  
+(b)  Load home -station unit information ( UICs and DoDAACs).  
+(c)  Inspect and clean computer hardware.  
+(d)  Inspect and test VSATs and CAISIs in an operational scenario to confirm they are mission capable.  
+(e)  Coordinate FRA repair, as required.  
+(f)  Coordinate replacement of hardware classified “non -repairable” by the FRA (through SASMO 
+and/or system managers).  
+(7)  Residual modules will not be used to assemble additional logistics IT equipment. After repair or up-
+grade of a NS  –  E computer, removed SRUs will not be retained. Cascading is authorized; residual assem-
+blies may be used for an upgrade to another NS  –  E compu ter. However, this additional upgrade must be 
+coordinated between the SASMO and supporting FRA. All residual parts must be sanitized and turned in 
+ 
+to the supporting FRA for approved disposition action. During deployments, mission requirements will dic-
+tate the scope of this requirement, but all modules must be accounted for. The program executive office 
+for Enterprise Information Systems and the CECOM LCMC are the Army lead organizations for logistics 
+IT sustainability and are responsible for the manag ement of the FRA.  
+(8)  The procurement of limited additional equipment and/or software (special tools and/or diagnostic 
+software to support logistics IT systems) is authorized. Owning organizations will fund this requirement. 
+TMDE will not be required t o support Logistics IT equipment repair efforts.  
+(9)  Any computers procured by an ACOM, ASCC, and DRU to support a logistics IT may be repaired 
+using these procedures, provided the ACOM, ASCC, and DRU has coordinated and funded that support.  
+(10)  The ESSC at the Tobyhanna Army Depot FRA is an integrated maintenance activity that provides 
+the field with a dedicated support structure for TELS hardware. The FRA also supports tier III office auto-
+mation equipment at selected installations and, when  deployed, as part of the AMC logistics support ele-
+ment.  
+(11)  Software support is provided by CECOM, SEC –Lee. Each TELS has a system manager for life 
+cycle management of software maintenance. Updates are distributed by software change packages and 
+interim change packages. Each SASMO receives these packages and must maintain baseline configura-
+tion management for all customers. GCSS –Army  client workstations operating software and application 
+software is also a SASMO responsibility. IA security updates must be also managed by SASMO. Mainte-
+nance recovery of software includes information security. Violations of IA must be reported to the  com-
+mander. This causes reduced readiness of logistics IT. 
+(12)  Fielding of hardware will be coordinated with ACOM, ASCC and DRU G  –  4 (Logistics Automation 
+Office).  
+(13)  DA messages and/or all Army activities taskings for logistics IT system testi ng, requests for infor-
+mation and status reports will be coordinated with ACOM, ASCC, and DRU G  –  4 (Logistics Automation 
+Office).  
+d.  Information system and network configuration management plan.   All information system and net-
+work configuration managem ent plans will include strategy to ensure the latest security and application 
+updates are applied in a proactive and controlled manner. Specific requirements can be found in AR 

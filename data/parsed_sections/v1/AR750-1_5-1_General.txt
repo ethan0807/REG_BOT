@@ -1,0 +1,31 @@
+
+5–1.  General  
+a.  This chapter provides policy and responsibilities governing sustainment maintenance.  
+b.  The term sustainment (depot) maintenance consists of materiel maintenance or repair requiring the 
+overhaul, upgrading, or rebuilding of end items, parts, assemblies, or subassemblies and the testing and 
+reclamation of equipment as necessary, regardless of the source of funds for the maintenance or repair 
+or the location at which the maintenance or repair is performed. The term also includes the following:  
+(1)  All aspects of software maintenance classified by DoD as of  as depot maintenance and 
+repair.  
+(2)  Interim contractor support ( ICS) or CLS (or any similar contractor support), to the extent that such 
+support is for the performance of services described above.  
+c.  In accordance with 10 USC 2460, depot maintenance will not include the proc urement of major 
+modifications or upgrades of weapon systems that are designed to improve system performance. A major 
+upgrade program covered by this exception could continue to be performed by private or public sector ac-
+tivities. The term also will not in clude the procurement of parts for safety modifications. However, it will 
+include the installation effort for the excluded modifications and upgrades mentioned above.  
+d.  For the characteristics of sustainment maintenance see DA Pam 750  –  1. 
+e.  MATDEVs will establish depot maintenance support programs for a new system and its secondary 
+items so that the depot is ready to perform depot maintenance not later than 4 years after IOC. 
+f.  Sustainment maintenance will be performed by selected TDA industrial activities operated by the 
+Army, other military Services or Government agencies, or by private -sector firms.  
+g.  When directed by the NMM, overseas sustainment maintenance will be performed within the theater 
+of operations to achieve the readiness or sust ainability goals of deployed forces or when more cost -effec-
+tive. When evaluating cost effectiveness, RCF, spare parts, facilities, transportation, plant equipment, test 
+equipment, personnel, supply pipeline costs, and the impact on the CONUS base, includ ing mobilization 
+and/or surge capability, will be considered.  
+h.  Overseas sustainment maintenance will include the cost accounting and production reporting provi-
+sions of DFAS  –  IN Manual 37  –  100. 
+i.  An overseas FRA may be established by AMC when it ha s been determined, in coordination with the 
+appropriate theater commander, that in -country, forward sustainment support by sustainment personnel 
+or by CLS operations is needed to sustain mission critical systems or components.  

@@ -1,0 +1,50 @@
+
+12–2. Actions to take when individuals admit negligence
+a. Voluntary payment limitations. The following persons may pay the actual loss to the Government in cash, check,
+or payroll deduction, except when a DD Form 200 or an AR 15–6 investigation is mandatory:
+(1) All Service members and civilian employees of the Active Army or USAR, or members and employees of the
+ARNG may admit financial liability and offer cash, check, or payroll deduction payment in an amount not to exceedthe person’s monthly basic pay. This also applies to the payment of an individual’s share of collective liability whenmore than one person has been assessed with financial liability. Table 12–3 shows how to compute financial liabilityagainst one person. Figure 12–4 illustrates how to compute collective and individual liability against two or morepersons. DOD civilian will see their human resource service representative for DD Form 2481 (Request for Recoveryof Debt Due the United States by Salary Offset) for payroll deduction submission.
+(2) A contractor admitting financial liability, for any amount, may pay by cash, or check. The use of a DD Form
+362 for a payroll deduction is not an option for a contractor admitting liability.
+b. Replacement by cash purchase. A person who admits liability may voluntarily purchase replacements for lost or
+damaged hand tools or OCIE from the SSSC or CIF.
+(1) Allow depreciation per appendix B.(2) Accept payment made by cash or check.(3) When lack of item availability prevents immediate purchase, account for the lost or damaged hand tools or OCIE
+items by using the DD Form 362. The procedures for initiation and processing a DD Form 362 are contained inparagraph 12–3.
+(4) For ARNG, the USPFO may authorize replacement in kind when lack of item availability prevents cash sale of
+hand tools at the SSSC. This rule does not apply to Active Army and USAR members. USPFO sale of hand tools toARNG members and to ARNG technicians is optional.
+(5) No cash sales will be made without a DD Form 362 or a written authorization signed by the person’s
+commander or designated representative. The authorization statement follows: “I authorize (name and grade) topurchase the following hand tools (or OCIE). Purchased items will remain the property of the Government.” Allowabledepreciation is chargeable to the accounting classification for the mission and/or base operation element funding theoperations in which the tools or OCIE were used.
+(6) Prepare the statement in original and make two copies. The unit retains copy two of DD Form 362 until copy
+one is returned to the unit by the individual making the purchase. After verification that the purchase was actuallymade from the authorized source, and accountability has been restored, copy two may be destroyed. The individualmaking the purchase retains copy one. The original will be retained by the SSSC or CIF.
+(7) Figure 12–6 shows the flow of the cash purchase from the SSSC or the CIF.
+Table 12–3
+Method of computing financial charges against a single respondent (dollar amounts shown in this table are for example
+purposes only)
+Types of losses Actual
+lossAmount
+charged1Loss tothe Gov-ernment
+I. Losses of PA&E military members, officer and enlisted $150
+$1,600$150
+$1,600None
+None
+II. Losses of other equipment or property (OEP) and PA&E losses by civilianpersonnel. 
+2$200$15,000$200
+$1,700
+3$200$1,700
+3
+Base pay Actual
+PA&E lossActual
+charge 3,4Loss tothe Gov-ernment
+III. Combined PA&E and OEPlosses by military members, offi-cer, and enlisted$1,500
+$1,500$1,500$500
+$900$5,000$200
+$700$200$700
+$1,600$1,700None
+None$3,500
+IV. Accountable officers are liable for the full amount of the loss to the Government, less depreciation.
+Notes:
+1Officer and enlisted members are subject to financial liability for the entire amount of the PA&E loss.
+2Total liability of OEP will not exceed 1 month’s base pay.
+3See paragraph 13–41 for exceptions.
+4Total liability for OEP will be the cost of OEP or 1 month’s base pay, whichever less is, plus the total cost of PA&E.
+Figure 12–4. Method for computing collective and individual financial liability when more than one person is changed

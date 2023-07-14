@@ -1,0 +1,40 @@
+
+5–7.  Depot maintena nce source of repair selection  
+a.  The weapon system PM and/or PEO and the MSC will adhere to current public laws, Department of 
+Defense directives ( DoDDs), and Army policies in determining a depot maintenance SOR. Planning for 
+depot maintenance SOR will commence at Milestone A. In accordance with DoDI 4151.24, a logical deci-
+sion process will be used to assign the depot maintenance SOR to either an Army, inter -Service, or con-
+tract source. This process must address legislative and DoD policy require ments such as core depot 
+maintenance, the 50 percent maximum limit on contracted depot maintenance workload, and competition 
+for reassignment of workload valued at $3 million or greater.  
+b.  To the extent legislation and policy permit, workload determined not to be needed to sustain depot 
+maintenance core capability will be evaluated to determine whether such workload is appropriate for con-
+tracting, including contracting under full and open competition, where appropriate. The best -value (the 
+most cost -effec tive alternative) depot maintenance support will be established from among inter -Service, 
+intra-Service, and contract sources. In the case of systems and equipment used by more than one 
+ 
+military Service or DoD agency, workload must be consolidated into a single common or Joint Service 
+contract consistent with the readiness requirements of the Army.  
+c.  All new depot maintenance workload and planned changes of performance location for existing 
+workload will be subject to a Joint Serv ice review and SOR assignment to a specific depot facility in ac-
+cordance with the provisions of the Joint depot maintenance program. Changes of performance location 
+from an organic depot -level activity to another SOR must comply with 10 USC 2469. This r equires that 
+changes in such workload with a value of $3 million or more to be made using merit -based selection pro-
+cedures for competitions among all depot -level activities of the DoD or competitive procedures for compe-
+titions among private and public sec tor entities.  
+d.  The PM and/or PEO will, in conjunction with the MSC inter -Service support office, identify the re-
+quirement for the depot maintenance assignment. AMC, as the responsible office for depot maintenance, 
+will take action to initiate the ap propriate Joint Service review. AMC will track the Joint Service review to 
+completion and will ensure all necessary inter service coordination actions are properly executed.  
+e.  Upon completion of the Joint Service review and release of the Joint Service decision, AMC will no-
+tify the appropriate PM and/or PEO and MSC inter -Service support office of the implementation actions 
+necessary.  
+f.  Each PM and/or PEO will ensure that the decision analysis, including depot core, risk, and best 
+value analysis, supporting the SOR decision is performed and documented in the Milestone ASARC ac-
+quisition decision memorandum. The results will be presented and/or reviewed at the Milestone B 
+ASARC. Documentation should be updated, as appropriate, throughout the life cycle of the system.  
+g.  The DCS, G  –  4 (DALO  –  MP) will — 
+(1)  Review and validate core logistics analysis, core depot assessment, and depot SOR documents, 
+ensuring all elements of the core depot requirements capabilities and sustaining workload and depo t SOR 
+processes are properly addressed in each document in accordance with current DoD and Army policy.  
+(2)  Act as DCS, G  –  4 representative to the Depot Maintenance Inter -Service Review.  

@@ -1,0 +1,4 @@
+
+7–2. Nonexpendable property
+Nonexpendable property is personal property that is not consumed in use and that retains its original identity during the
+period of use. This includes all nonconsumable major end items authorized by DA-recognized authorization documents(see AR 71–32). These items have an ARC of “N” contained in FEDLOG. Commercial and fabricated items similar toitems coded “N” in FEDLOG are considered nonexpendable property.

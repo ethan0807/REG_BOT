@@ -1,0 +1,59 @@
+
+13–27. Financial liability officer qualifications
+a. The financial liability officer must be an Army commissioned or warrant officer; an Army noncommissioned
+officer in the grade of SFC or above; civilian employee GS–7 or above, or a wage leader (WL) or wage supervisor(WS) employee. Chaplains may not be appointed as investigative officers. For financial liability investigations ofproperty loss conducted in joint Service activities, financial liability officers may be any DOD commissioned orwarrant officer, or a noncommissioned officer in the pay grade of E7 or above assigned to the activity. Additionally, aforeign national employee, GS–7 equivalent or above, may be designated to act as a financial liability officer onfinancial liability investigations of property loss originating within a civilian support center. Federal recognition of anARNG member constitutes authority to be appointed as a financial liability officer.
+b. Appoint as financial liability officer only those individuals who are senior to individual(s) subject to potential
+financial liability. Senior by time in grade (TIG) or pay band is acceptable. Refer to table 13–1 to determine the propergrade of a financial liability officer. If the financial liability officer discovers during the investigation that completionof the investigation will require them to examine the conduct or performance of duty of someone senior, or may resultin a finding and recommendation adverse to a person senior to them, the financial liability officer will report that factto the approving authority. The approving authority will review the findings, and either excuse the financial liabilityofficer and designate another person senior to the individual concerned, or direct the investigation to continue ifmilitary exigencies make the change impractical. When employing the military exigency option, the approvingauthority will document the military exigency as an exhibit to the DD Form 200.
+c. No person may act as the financial liability officer who is personally responsible for, or is in any way directly
+interested in the property listed on the DD Form 200.
+d. An accountable officer will not act as the financial liability officer for losses or destruction of equipment on their
+accountable records. An accountable officer may act as a financial liability officer for equipment on their accountablerecords that is damaged and cannot be declared destroyed.
+e. Appointment of financial liability officers is accomplished using an informal memorandum (see fig 13–12 for
+format).
+Table 13–1
+Protocol for military and GS civilian grade comparison for appointment of financial liability officer purposes only
+To read this chart, find the required military and/or civilian grade in the potential respondent columns and read across to the  financial
+liability officer qualifications column to find the grade that may be appointed as a financial liability officer.
+Potential respondent
+Military Civilian
+COL GS–15 Senior COL and/or GS–15 by TIG or position
+GS–14, wage supervisor(WS)–18/19Senior GS–14 or WS–18/19 by TIG or military and/or civilian grades greater than
+O–5, GS–14, or WS–18/19
+LTC GS–13, WS–16/17 Senior LTC, GS–13, WS–16/17 by TIG or position or military/civilian grades greater
+than O–5, GS–13, WS–16/17.
+GS–12, WS, and/or WL–15 Senior GS–12 or WS/WL–15 by TIG or position or military/civilian grades greater
+than O–4 GS–12, or WS/WL–15
+MAJ WS/WL–14 Senior MAJ or WS/WL–14 by TIG or position or military/civilian grades greater than
+O-4, GS–11, or WS/WL–14.
+GS–11, WS/WL–13 Senior GS–11 or WS/WL–13 by TIG or position or military/civilian grades greater
+than O–3, GS–11, or WS/WL–13.
+CPT GS–10, WS/WL–12 Senior CPT, GS–10, WS/WL–12 by TIG or position or military/civilian grades greater
+than O–3, GS–10, or WS/WL–12.
+1LT GS–9, WS/WL–11 Senior 1LT, GS–9, or WS/WL–11 by TIG or position or military and/or civilian grades
+greater than O–2, GS–9, or WS/WL–11.
+GS–8, WS–10 Senior GS–8 or WS–10 by TIG or position or military/civilian grades greater than
+second lieutenant (2LT), GS–8, or WS–10.
+2LT GS–7, WS–9 Senior 2LT, GS–7 or WS–9 by TIG or position or military/civilian greater than O–1,
+GS–7, or WS–9.
+CW5 Senior CW5 by TIG or military and/or civilian grades equal to or greater than O–5,
+GS–13, or WS–16/17.
+CW4 Senior CW4 by TIG or military and/or civilian grades equal to or greater than O–5,
+GS–12, or WS–15.
+CW3 Senior CW3 by TIG or military and/or civilian grades equal to or greater than O–4,
+GS–11, or WS/WL–13.
+CW2 Senior CW2 by TIG or military and/or civilian equal to or greater than O–3, GS–9, or
+WS/WL–11.
+WO1 Senior WO1 by TIG or military and/or civilian equal to or greater than O–2, GS–8, or
+WS–10.
+Sergeant Major ofthe ArmyCW5 or military and/or civilian grades equal to or greater than O-5, GS–12, or WS/
+WL–15.
+Command sergeantmajor and/or ser-geant majorSenior command sergeant major and/or sergeant major by TIG or position, any CW2
+to CW5, military, or civilian grades equal to or greater than O–4, GS-12, or WS/WL–15.
+1SG and/or mastersergeantSenior 1SG and/or master sergeant by TIG or position or military/civilian grades
+equal to or greater than E–9, W–2, O–1, GS–7, or WS–9.
+SFC Senior SFC by TIG or position or military and/or civilian found grades greater than
+E–7, W–1, O–1, WS–8, WL–10, or wage grade (WG)–15.
+PVT through SSG Military and/or civilian grades equal to or greater than E–7, W–1, O–1, GS–7, WS–9,
+or WL–11
+GS–1 through GS–6,WL–10, WS–8, WG–1through WG–15Military and/or civilian grades equal to or greater than E–7, W-1, O–1, GS–7, WS–9,
+or WL–11.

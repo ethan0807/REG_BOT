@@ -1,0 +1,4 @@
+
+14–8. Disassembled or cannibalized major items, kits, or assemblies
+When a major item (except aircraft), kit, or assembly is disassembled or cannibalized according to instructions of the
+appropriate national item manager, an adjustment to the stock record account is required. Adjustments are made usingDA Form 444 procedures as prescribed in paragraph 14–35 or turn-in documents as prescribed in AR 710–2. Afinancial liability investigation of property loss is not normally required for this type of adjustment to the propertyrecord. However, DD Form 200 procedures may be used to investigate the circumstances causing the property to bedamaged.

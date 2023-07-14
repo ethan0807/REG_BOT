@@ -1,0 +1,22 @@
+
+4–15.  Maintenance management systems  
+a.  The DCS, G  –  4 mand ates the use of approved standard Army LIS, which takes precedence over the 
+manual system when operational.  
+b.  The primary functions of maintenance management include forecasting, distribution, scheduling, 
+and production control of maintenance workloads,  including inspections, services, repairs, and warranty 
+claim actions for Army equipment.  
+c.  Approved TELS ( GCSS –Army, LMP, ACN, etc.) will be the DA standard for The Army Maintenance 
+Management System ( TAMMS) and TAMMS –Aviation automation and will  take precedence over all man-
+ual systems, ACOM, ASCC, and DRU, installation -unique and CLS automation for Army materiel mainte-
+nance management. Materiel management procedures for each authorized TELS can be found in each 
+system applicable end -users -manual. Combat and MATDEVs, as well as contract requirement packages 
+will require contractors to use approved LIS or approved and/or negotiated automated logistical system. 
+Where circumstances do not allow this, data interfaces between CLS-unique systems and authorized lo-
+gistics systems are required.  
+d.  The DoD Medical Logistics Standard Support is the automated maintenance management system 
+for the TDA medical maintenance activities. MTOE medical maintenance units use GCSS –Army for medi-
+cal equipment reporting. GCSS –Army, Defense Medical Logistics Standard Support and Theater Army 
+Medical Materiel Information System are the systems used for maintenance management and ordering of 
+class VIII repair parts.  
+Section III  
+Technical Assistance and Supply Interface  

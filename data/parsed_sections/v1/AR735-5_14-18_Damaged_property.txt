@@ -1,0 +1,56 @@
+
+14–18. Damaged property
+a. Qualified technical inspectors, property classification officers, and other designated persons may classify property
+physically on hand as unserviceable. From its general condition and appearance, the property may be classified aseither unserviceable through fair wear and tear, or unserviceable through other than fair wear and tear.
+(1) A qualified individual trained on the equipment will determine the ACOD. When an ACOD cannot be
+determined, qualified personnel will compute the ECOD. The ACOD and/or ECOD will be certified by a technicalinspector.
+(2) For the ARNG, a commissioned officer of the Active Army, or any commissioned officer of the Army National
+Guard of the United States per 32 USC 710 may make the final fair wear and tear determination on all unserviceableproperty prior to disposition, per 32 USC 710.
+(3) Technical inspectors, property classification officers, maintenance personnel, and other designated individuals
+can make assessments regarding negligence or willful misconduct, but the final determination is made by thecommander or TDA activity chief.
+b. When property is determined to be unserviceable through other than fair wear and tear, the commander or TDA
+activity chief having responsibility for the property must investigate the circumstances. On completion of the com-
+mander’s or the TDA activity chief’s investigation, one of the following will apply:
+(1) Release of item for repair. Equipment work ordered to a maintenance facility for a determination of ECOD and/
+or ACOD, should not be repaired until it is determined that the item is not needed further for investigation consistentwith evidentiary requirements of chapter 13.
+(2) Damaged property (excluding organizational clothing and individual equipment). If negligence or willful mis-
+conduct is suspected, the damaged property will be work ordered to the supporting maintenance activity for determina-tion of the ECOD. If negligence or willful misconduct was not involved, a statement signed by the unit commander orthe TDA activity chief will be attached to the maintenance request or the turn-in document stating the cause of thedamage. The unit commander or the TDA activity chief will state, “I have reviewed the circumstances surrounding thedamage to the above item(s) and find no evidence of negligence or willful misconduct.”
+(a) The financial liability investigation approving authority, or their designated representative, must review all
+damage statements unless approval authority is delegated to subordinate unit commanders and/or TDA activity chiefsper paragraph 14–18 b(2)(b). When the financial liability investigation approving authority or their designated represent-
+ative concurs with the damage statement, they will enter “Concur” on the statement and date and sign their concur-rence. Nonconcurrence will be shown by entering “Nonconcur” initiate a DD Form 200 or statement of charges” on thestatement, and date and sign their nonconcurrence.
+(b) Division commanders, commanders of separate brigades, and post commanders with subordinate TDA units and/
+or activities assigned will establish a dollar threshold above which all damage statements must be approved by thefinancial liability investigation of property loss approving authority. For damaged property costing less to repair thanthe dollar threshold established, the financial liability investigation of property loss approving authority may delegateauthority to subordinate unit commanders and/or TDA activity chiefs to approve damage statements.
+(c) When authority to approve damage statements is delegated to subordinate unit commanders, and/or TDA activity
+chiefs, they will forward all copies of any approved damage statements to the financial liability investigation ofproperty loss approving authority on a quarterly basis for review. The financial liability investigation of property lossapproving authority, or their designated representative per paragraph 14–18 a(4), will use the review to determine
+whether subordinate commanders and/or TDA activity chiefs are abusing the authority delegated to them.
+(d) The financial liability investigation approving authority may designate a member of their staff in the grade of
+major or above, or a DA civilian employee in the position of division chief or above, to review approved damagestatements. This same individual may also be designated to approve and/or disapprove damage statements when thecost to repair the damaged item exceeds the dollar threshold.
+(e) Commanders above the financial liability investigation approving authority level will initiate and conduct
+oversight management of damage statements initiated and approved by subordinate commanders and/or TDA activitychiefs. A random sample of no less than 10 percent of all damage statements approved by subordinate commanders andactivity chiefs will be reviewed semiannually. The review will be made to determine if the financial liabilityinvestigation of property loss approving authorities, and unit commanders and TDA activity chiefs delegated withapproval authority of damage statements, are properly carrying out their responsibilities as approving authorities, thatis, are the decisions to approve damage statements—
+(f) Supported by the commander’s or the TDA activity chief’s preliminary investigation documented on the damage
+statement?
+(g) In the best interest of the Army and Government?
+c. When the owning unit commander suspects that damage to class 9 components has been caused by negligence or
+willful misconduct, the component will be work ordered to the supporting maintenance activity for determination of theECOD. When negligence or willful misconduct is not involved, paragraph 14–18 a applies.
+d. Unit commanders or their designated representative are authorized to approve damage statements for damaged
+OCIE when preliminary investigation by the unit commander or the Soldier’s chain of command (such as squad leader,platoon sergeant, and/or leader, or first sergeant) reveals the damage occurred while being used conducting officialGovernment business and neither negligence nor willful misconduct was involved. The commander will state in amemorandum to the CIF, “I, or a member of my command, have reviewed the circumstances surrounding the damageto the below listed item(s), and find the damage occurred while being used for official Government business and noevidence of negligence or willful misconduct.” The damaged OCIE will be identified by nomenclature and quantity.The commander or a designated representative will sign the statement. Each statement must have an original signature.Individuals for whom the unit commander has approved a damage statement for OCIE will take the statement and thedamaged articles of OCIE to the servicing CIF or OCIE issue point within 30 calendar days of the commander’sapproval for exchange. If the commander believes that the damage was incurred during other than official business orthrough negligence or that misconduct were involved, a DD Form 200 will be initiated.
+e. When liability is admitted and the amount of the damage does not exceed the person’s monthly basic pay, prepare
+a DD Form 362, per paragraph 12–3.
+f. When liability is admitted and the amount of damage exceeds the person’s monthly basic pay, initiate a DD Form
+200, paragraph 13–3 a(3).
+g. When liability is not admitted, no matter the cost of repairs, a DD Form 200 will be initiated (see para 13–3 a
+(3)).
+h. When negligence or willful misconduct is suspected, and liability is not admitted, initiate a DD Form 200 per
+paragraph 13–3 a(1).
+i. Separate financial liability investigations of property loss will not be prepared for the same incident unless the
+damaged property is recorded on separate property accounts.
+j. The ECOD is a process to determine the estimated cost of damage to Government owned equipment prior to
+repair and/or evacuation. An ACOD can only be determined when the item is actually repaired. Damaged property forwhich negligence or willful misconduct is suspected will not be repaired, disposed of, or continued in use until theinvestigating officer releases the item for repair (see para 13–31 c).
+(1) An ECOD will be used to compute the value of a loss only when actual costs cannot be obtained within a
+reasonable time. An ECOD may be requested by the commander, TDA activity chief, or may be provided by themaintenance or other activity in the absence of a specific request. When an ECOD is used to compute the value of thedamaged property, the DD Form 200 must state why, and state the basis on which the estimate was made.
+(2) An ECOD may be used for assessment of financial liability until the equipment is actually repaired, and then the
+ACOD will be used. When an item is not completely repaired until after a financial liability has already been assessedand the ACOD is less than the ECOD, the initiator of the adjustment document will cause it to be reopened and theappropriate FAO and/or USPFO will be requested, on a memorandum, to reimburse the difference to the chargedindividual.
+k. When requested by the approval authority, the commander of the maintenance support activity will consolidate
+the cost data for each supported unit and forward the data to the approving authority.
+l. When the statement of charges, DD Form 200 is approved or when the property is released by the financial
+liability officer, attach a copy of the statement of charges, DD Form 200, or financial liability investigating officer’srelease statement to the maintenance request. If the property is not economically repairable, attach a copy of theapproved statement of charges, DD Form 200 or the financial liability officer’s release statement to the turn-indocument. If there is a maintenance request showing the condition code, attach it to the turn-in document also.

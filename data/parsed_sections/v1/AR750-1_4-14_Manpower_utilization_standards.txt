@@ -1,0 +1,22 @@
+
+ 
+4–14.  Manpower utilization standards  
+a.  The ACOMs, ASCCs, and DRUs will ensure establishment of a man -hour accounting system where 
+automated capability exists. Man -hour accounting is optional where automation is not available and man-
+ual proced ures must be used. However, the utilization of maintenance manpower resources for mission 
+accomplishment is a mandatory command/management function in Army organizations.  
+b.  Unit commanders and installation materiel maintenance officers are responsible fo r using assigned 
+military and civilian maintenance personnel. The maintenance supervisor is directly responsible for using 
+available maintenance personnel. AR 570  –  4 provides policy for the availability of personnel in peacetime. 
+Appendix B  of this regulation provides guidance to commanders and managers on the computation and 
+use of manpower utilization rates. HQDA guidance for maintenance manpower utilization is as follows 
+(percentages expressed in term s of total available time; see app B ): 
+(1)  For military manpower, the standard direct labor available man -hour utilization rate is 50 percent; 
+the goal is 75 percent.  
+(2)  For civilian manpower, the stand ard direct labor available man -hour utilization rate is 85 percent; 
+the goal is 90 percent.  
+(3)  All commanders operating under GCSS –Army  have the responsibility to include accurate monthly 
+man-hour utilization in their quarterly command reviews and analyses or similar performance -monitoring 
+programs.  
+c.  In addition to these standards, the procedures outlined in DA Pam750 –1 determine the tactical 
+maintenance augmentation requirements for military mechanics during peacetime garrison operations.  

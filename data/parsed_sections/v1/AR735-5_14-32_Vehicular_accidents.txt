@@ -1,0 +1,21 @@
+
+14–32. Vehicular accidents
+a. Accidents involving civilian vehicles. Accidents often occur involving military and civilian employees of the
+Government, and civilians who are not employed by the Government. When Government property is damaged (otherthan a GSA vehicle), and negligence or willful misconduct by civilians who are not Government employees issuspected, but not admitted, or is admitted with a refusal to make restitution, a DD Form 200 must be initiated. WhenGovernment property is accountable to a contract, the contracting officer and/or the Government Property Administra-tor will perform the assessment of liability of the contractor. When assessment of financial liability is made against acivilian not employed by the Government, it is not necessary for the financial liability officer or the approvingauthority to notify the individual of recommended for assessment of financial liability. The approval authority willforward a copy of the approved DD Form 200 with all exhibits to the servicing claims office. The claims office willinitiate action under AR 27–20.
+b. Accidents involving General Services Administration vehicles. Units and activities assigned GSA vehicles must
+comply with the policy contained in the Federal Property Management Regulation, when an assigned GSA vehicle isinvolved in an accident. When a GSA vehicle is involved in an accident, the GSA fleet management center that issuedthe vehicle will advise the unit or activity of its financial responsibility to GSA based on their review of the accidentreports and other evidence they are in receipt of.
+(1) Financial liability investigation of property loss or other administrative adjustments in accordance with paragraph
+12–1 c must be initiated when a GSA vehicle is involved in an accident, or has sustained damages through vandalism,
+theft, or parking lot damage.
+(2) The approved DD Form 200 will be forwarded to the installation claims office per AR 27–20, when—(a) The financial liability investigation reveals the damage to the GSA vehicle was not the result of negligence or
+willful misconduct on the part of the driver of the GSA vehicle or the unit or activity assigned the GSA vehicle, butwas the result of negligence on the part of other person(s), and
+(b) The GSA fleet management center is charging the unit or activity for the damages, or
+(c) The GSA vehicle is involved in an accident resulting in damage to the property of, or injury to, a third party.
+c. Accidents involving Government-owned and -leased vehicles. Upon completion of a financial liability investiga-
+tion that finds a military member or Government employee, through simple negligence, caused an accident involving aGovernment-owned or -leased vehicle, the approving authority may waive financial liability or may reduce the amountof financial liability assessed against a member or employee. The waiver to waive or reduce the amount of financialliability charged will be based on the approving authority’s review of all the pertinent information concerning theaccident. The approving authority may base the waiver entirely on a vehicle accident report by a military provostmarshal or a duly appointed civilian law official, if available. A financial liability investigation based solely on avehicle accident report will be annotated on DD Form 200, block 9 (see exhibit A, vehicle accident report), and state inblock 14b. I have reviewed the information contained in the attached exhibits.” No further investigation is necessary.Include the following additional information on the DD Form 200 for all waivers:
+(1) Place an “X” in block 14a, approve.(2) To grant a waiver relieving all concerned of financial liability, place the following statement in block 14b, “I
+relieve all concerned of financial liability from the damage to the property listed in blocks 4 through 6.”
+(3) To reduce the amount of financial liability assessed (an amount less than the cost to repair the damaged vehicle,
+or one month’s base pay) place the following statement in block 14b. “To hold (name and grade of individual beingassessed with financial liability) financially liable in the amount of ($ amount). The cost to repair the damaged vehicleis ($ amount of ECOD or ACOD if available). Their base pay for one month is ($ amount).”
+Section IV
+Inventory Adjustment Reports

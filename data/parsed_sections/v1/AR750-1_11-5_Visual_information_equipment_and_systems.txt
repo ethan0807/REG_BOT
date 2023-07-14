@@ -1,0 +1,32 @@
+
+11–5.  Visual information equipment and systems  
+This paragraph provides maintenance policy for VI equipment and systems. It supplements policies in AR 
+25  –  1 and AR 700  –  127. 
+a.  VI materiel includes photographic, television, audio and graphic art items that furnish an audiovisual 
+product or service.  
+b.  The DCS, G  –  6 will validate authorization of type classified VI materiel prior to documentation in a  
+CTA, TDA, or TOE, and/or MTOE to ensure compliance with DoDI 5040.02.  
+c.  Class VI materiel assigned to an audiovisual facility or other TDA activity, including broadcast radio 
+and television, will be commercially acquired. The logistics supportabi lity of commercially acquired mate-
+riel is the responsibility of the procuring activity. Local procurement will be coordinated with the local com-
+mon support audiovisual activity for consolidation of contracts for maintenance services and adherence to 
+standa rds and class VI architecture; see DA Pam 25  –  91 for guidance. Broadcast radio and television ma-
+teriel and systems costing over $5,000 will be procured, managed, and supported by the television -audio 
+support activity, the Office of the Assistant Secreta ry of Defense (Public Affairs), and the American Forces 
+Information Service.  
+d.  Maintenance policy is as follows:  
+(1)  A maintenance plan as part of the logistics support plan will be developed and fielded with the ma-
+teriel. COTS materiel procurement wil l include the equivalent of an MSP or justification for contract 
+maintenance or inter -Service support.  
+(2)  Type classified VI materiel will be maintained in accordance with the MAC. Support requirements 
+beyond the user’s authority or capability and all  non-type classified audiovisual materiel will be referred to 
+the common support VI activity or the Director of Information Management.  
+(3)  The training community may, at the option of the ACOM, ASCC, and DRU , manage maintenance of 
+class VI equipment and activities integrated with training device support activities. Otherwise, contract re-
+quirements will be submitted to the supporting Director of Information Management, who will coordinate 
+the support.  
+(4)  User commands are responsible for contract maintenance support for all class VI materiel under 
+their control and are responsible for budgeting funds for it. Funds will be made available by the user to the 
+supporting Director of Information Management or cla ss VI activity to support its contract efforts.  
+Chapter 12  
+Maintenance of Medical Devices  

@@ -1,0 +1,51 @@
+
+14–34. Inventory discrepancies at a stock record account
+a. All discrepancies in stock record balances found during an inventory will be researched and adjusted to meet the
+adjustment criteria in accordance with DLM 4000.25–2. Adjustments will be prepared using an DA Forms 444 with thefollowing exceptions:
+(1) When negligence or willful misconduct is known or suspected, one of the other adjustment methods cited in
+paragraph 12–1 c will be used.
+(2) For other than small arms ammunition, verified losses of controlled inventory items will be adjusted using a DD
+Form 200 per paragraph 13–3 a(6).
+(3) Discrepancies between ammunition stock record balances and inventory counts that show substantial overages or
+shortages of ammunition and explosives will be reported under AR 190–11. Substantial overages or shortages are thosemeeting the AR 15–6 investigation requirements indicated by AR 190–11.
+(4) Discrepancies that have an extended line item value of $1,000 or less will not be reported for inventory
+adjustment with the following exceptions:
+(a) Controlled inventory items.
+(b) When negligence or willful misconduct is known or suspected.
+(5) For DA Forms 444 adjustments not acceptable to the approving authority, one of the other adjustment methods
+cited in paragraph 12–1 c must be used.
+b. All discrepancies (not covered above) in stock record balances found during an inventory will be adjusted and
+reported on an DA Forms 444. Manual and automated system procedures publications, provides DA Forms 444preparation instructions.
+c. Causative research, which is part of the inventory process, will be conducted and documented on the DA Forms
+444 when discrepancies result in adjustments over $1,000 in an extended line-item value.
+d. DA Forms 444 will be prepared and forwarded to the approval authority within 30 calendar days after completion
+of the inventory. The approval authority will take final action on the DA Forms 444 within 5 working days of receiptor will return the DA Forms 444 to the SRO for additional research. When an DA Forms 444 is returned for furtherresearch, 15 days will be allowed for the SRO to do further research. The approval authority may grant extensions ofup to a total of 30 additional days.
+e. The goal for inventory adjustments (both gains and losses) for all DA Forms 444 is to keep total adjustments
+below 5 percent of the dollar value of the requisitioning objective (RO) during the fiscal year. The approval authorityfor DA Forms 444 is the first commander in the grade of lieutenant colonel or a civilian director of logistics or directorof public works equivalent unless approval authority is retained at higher level with the chain of command.
+f. In the ARNG, the State AG is the approval authority for the USPFO DA Forms 444. The State AG may delegate
+approval authority to a federally recognized ARNG general officer.
+g. The Army’s performance objective and internal management control goal is to keep total inventory adjustments
+(both gains and losses) below 5 percent of the total annual dollar value of the RO. The dollar value of the RO iscomputed annually during October using the October FEDLOG.
+h. Administrative DA Forms 444 will not be included in the totals used to determine the 5 percent cutoff.
+Administrative DA Forms 444 include the following:
+(1) Assembly.(2) Disassembly.(3) Stock numbers or unit-of-issue changes.(4) Transaction reversals.(5) Condition code changes.(6) Re-identification.(7) Pseudoreceipts.i. A copy of the DA Forms 444 or other adjustment documents on which reportable items are listed will be provided
+to the Logistics Information Warehouse either manually or by automated means.
+j. ACOM, ASCC, and/or DRU commanders will initiate and conduct oversight management of the inventory
+adjustment report process within their commands.
+(1) A random sample of no less than 25 percent of those inventory adjustment reports that show physical losses or
+gains of property (other than administrative DA Forms 444 in para 14–33 h) processed and approved by subordinate
+commands will be reviewed quarterly.
+(2) The quarterly review will be made to determine if the DA Forms 444 approving authorities are properly carrying
+out their responsibilities as approving authority, that is, are the decisions made—
+(a) Supported by evidence documented in the causative research on the DA Forms 444.
+(b) Supported by adequate explanation when the quantity or dollar value adjusted is substantially high.
+(c) In the best interest of the Army and the Government.
+(d) Followed-up with corrective actions or directives, as appropriate.
+k. DA Forms 444 for SSA accounts capitalized under single stock fund (SSF) business processes will be made
+available for review to AMC installation supply representatives (ISRs) or other designated Deputy Chief of Staff, G–3/5/7 (DCS, G–3/5/7) representatives during site visits and copies provided as requested.
+(1) If the approving official directs another adjustment method in lieu of the DA Forms 444, a completed and/or
+approved copy of that documentation will be made available for review to the ISR or other designated DCS, G–3/5/7representative during site visits.
+(2) Stock record accountable officers will provide copies of DA Forms 444 as an exception upon specific request of
+the ISR or other designated DCS, G–3/5/7 representative outside of normal site visits.
+Section V
+Joint Service Environment

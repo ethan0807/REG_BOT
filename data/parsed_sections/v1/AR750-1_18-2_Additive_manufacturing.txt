@@ -1,0 +1,66 @@
+
+18–2.  Additive manufacturing  
+a.  The ASA(ALT) in accordance with existing authorities and responsibilities will — 
+(1)  Provide policy in the acquisition and use of technical data, computer software documentation, and 
+computer software in support of advanced and additive manufacturing.  
+(2)  Obtain, as necessary, copyright permission and/or licens es for the appropriate technical data, com-
+puter software documents, and computer software to support utilization of additive manufacturing.  
+(3)  Serve as the proponent for, and exercise overall supervision of Army additive and advanced manu-
+facturing policy  and execution.  
+(4)  Provide, through the respective product managers, configuration management of weapon systems 
+when an additive manufactured part is approved to replace a configuration -controlled part.  
+b.  The DCS, G  –  4 will assist the ASA(ALT) in th e development of policy integrating advanced and addi-
+tive manufacturing into the Army maintenance system.  
+c.  The CG, AMC will — 
+(1)  Coordinate with CG, AFC to establish software, hardware, and feedstock standards for all additive 
+manufacturing systems  utilized to support the supply chain for Army field and sustainment maintenance 
+operations.  
+(2)  Identify candidate repair parts and items for fabrication using additive manufacturing techniques for 
+Army systems in sustainment.  
+(3)  Document approved addi tive manufacturing items and uses in applicable TMs.  
+ 
+(4)  Establish metrics, with support from the ASA (ALT); CG, TRADOC; and CG, AFC to track the pro-
+gress of additive manufacturing implementation and its effect on readiness.  
+d.  The CG, AFC will — 
+(1)  Establish and maintain processes and procedures for developing, testing, and qualifying advanced 
+and additive manufacturing capabiliti es. 
+(2)  Establish the processes and procedures for certifying the parts produced by additive manufacturing 
+technologies that meet specifications.  
+(3)  Develop, evaluate, certify, and integrate advanced manufacturing technologies for use by the Army.  
+(4)  Coordinate with CG, AMC to establish software, hardware, and feedstock standards for all additive 
+manufacturing systems utilized for Army field and su stainment maintenance.  
+(5)  Identify candidate repair parts and items for fabrication using additive manufacturing technologies 
+for Army systems in the acquisition phase.  
+(6)  Serve as the advisor for the development, fabrication and operation of additive manufacturing and 
+supporting advanced manufacturing technologies supporting field and sustainment maintenance opera-
+tions.  
+e.  The CG, TRADOC will establish and maintain appropriate training and qualification programs for ad-
+ditive manufacturing for enlist ed Soldiers, warrant officers, and officers.  
+f.  Commanders, U.S. Army OIB activities — 
+(1)  The Army’s organic depots and arsenals will develop additive and advanced capabilities consistent 
+with AMC command guidance to produce OEM quality parts for use to meet obsolescence and other 
+readiness requirements as required and within the abilities of available engineering support.  
+(2)  Depot and Arsenal activities will establish, consistent with AMC guidance, appropriate process 
+qualifications and part certif ications with the commodity aligned CCDC Center.  
+(3)  Will ensure the accountability, maintenance, and safe operation of advanced and additive manufac-
+turing equipment within their operations.  
+(4)  Will ensure that only trained personnel operate additive manufacturing systems.  
+g.  Commanders, Battalion and above will — 
+(1)  Ensure the accountability, maintenance, and safe operation for additive manufacturing equipment 
+in the unit’s possession.  
+(2)  Ensure only trained personnel operate additive man ufacturing systems.  
+(3)  Document to the data repository of record, locally developed uses of additive manufacturing to in-
+clude, the item, use, quantity, and source of design.  
+(4)  Nominate repair parts for fabrication using additive manufacturing technolo gies to the data reposi-
+tory for engineering and technical evaluation as identified.  
+(5)  Ensure subordinate commanders with supply and maintenance missions comply with additive man-
+ufacturing business procedures when scheduling and performing maintenance op erations.  
+(6)  Coordinate with appropriate technical, engineering, and legal expertise, as necessary, to effectively 
+manage risk when utilizing additive manufacturing.  
+h.  Authorized uses and approvals for the following — 
+(1)  Commands are authorized to use  Army approved additive manufacturing technologies to produce 
+or fabricate items whose fit, form, and function characteristics require no analysis of performance impacts 
+prior to use.  
+(2)  Use of additive manufacturing technologies will be in a manner that  protects patents, trademarks, 
+or other forms of intellectual property in accordance with DFAR subpart 227.7102  –  2 and DFAR subpart 
+7103  –  5.

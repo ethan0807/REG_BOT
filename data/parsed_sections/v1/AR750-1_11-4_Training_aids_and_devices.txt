@@ -1,0 +1,35 @@
+
+11–4.  Training aids and devices  
+This section provides maint enance policy for training aids and devices. It supplements policies in AR 
+25  –  1, AR 350  –  38, and AR 700  –  127. Training aids and devices used by the Army can be categorized as 
+follows:  
+a.  Training aids and devices assigned to a MTOE unit are type classified and include simulators or end 
+items.  
+b.  Training aids and devices managed by TDA activities include the following:  
+(1)  Non-type classified training aids and devices developed or comm ercially acquired to support gen-
+eral military training and training on more than one type item of materiel. These are usually assigned to 
+and maintained by training and visual information ( VI) support centers for loan to units and activities.  
+(2)  Type cl assified training aids and devices used to support a special training requirement.  
+c.  Maintenance policy is as follows:  
+(1)  Type classified and non -type classified training aids and devices will be maintained in accordance 
+with this regulation.  
+(2)  Oper ator and/or crew training equipment will be maintained to the Army maintenance standard out-
+lined in paragraph 3  –  3 and the turn -in and/or transfer standard in paragraph 4  –  9. 
+(3)  Equipment (end items and major assemblies) that is frequently disassembled and assembled for 
+instructional purposes will not be maintained to Army maintenance standard. Additionally, this equipment 
+will be transferred or turned in to the national syst em under condition code F and not –10/–20. If required 
+ 
+for reissue, equipment will be routed through sustainment maintenance before issue. Equipment will re-
+main disassembled for instructional purposes.  
+(4)  A maintenance plan as part of the logistic suppor t plan will be developed and fielded with the mate-
+riel. COTS materiel procurement will include an MSP or justification for contract maintenance or inter -Ser-
+vice support.  
+(5)  Type classified training aids and devices that are identified on MTOE or TDA documents will be 
+maintained in accordance with the MAC. Support requirements beyond the user’s authority or capability 
+will be referred to the supporting IMMA.  
+(6)  Locally fabricated training aids and devices will be maintained by the training and VI support center. 
+Maintenance above the capability of the training and VI support center will be referred to the supporting 
+IMMA.  
+(7)  User commands are responsible for programming and budgeting funds for contract maintenance 
+support for all training aids and devices under their control.  
+(8)  Sustainment maintenance will be furnished by AMC.  

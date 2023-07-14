@@ -1,0 +1,145 @@
+
+12–1. General actions to protect Government property
+a. Administrative action. Administrative measures available to commanders to ensure enforcement of property
+accountability. When property becomes lost or damaged, use one of the adjustment methods discussed in thisregulation.
+(1) The methods discussed below are designed to protect the right of the Government to obtain reimbursement for
+the loss or damage of Government property. These methods—
+(a) Are materiel accounting oriented and are not appropriate for, nor intended to be used as, corrective action or
+punishment, when negligence or willful misconduct is known or suspected to have contributed to the loss or damage ofGovernment property.
+(b) Do not constitute a punishment.
+(c) Do not and will not preclude the use of adverse administrative or disciplinary measures.
+(2) Commanders at all levels who determine that the cause of loss or damage warrants adverse administrative or
+disciplinary action will take appropriate action. These actions include, but are not limited to—
+(a) An oral or written reprimand.
+(b) Appropriate remarks in officers, noncommissioned officers, and civilians evaluation reports.
+(c) MOS reclassification.
+(d) Bar to reenlistment.
+(e) Action under the UCMJ. ARNG members who are not in the Federal service are not subject to the UCMJ; they
+are subject to the military codes of their States.
+(f) Adverse actions against civilian personnel as authorized.
+b. Reporting requirements.(1) Persons responsible for Government property will immediately report, in writing, all losses or damages to their
+immediate supervisor or commander. The report will state the circumstances of the loss or damage and a listing anddescription of the property involved.
+(2) When reporting personal arms and equipment (PA&E) according to AR 190–11, or whenever the loss appears to
+involve unlawful conduct report incident to military law enforcement authorities for investigation. Personal arms andpersonal equipment are the weapons and equipment assigned to Soldiers for their use. This includes a Soldier’s OCIEissued to them. A preliminary investigation by the military or security police will assist the commander when takingaction according to this regulation.
+(3) Losses of equipment with sensitive or classified components or technology must be reported through local S-2
+and supporting counter intelligence element within twenty-four hours to determine potential compromise by foreignpowers.
+(4) COMSEC, CHVP, or CCI losses require an incident report per TB 380–41, respectively.(5) Report USAR element losses or damages incurred to the next higher USAR command and, if appropriate, to the
+Active Army law enforcement activity or provost marshal having area responsibility.
+(6) When Government property is reported missing, commanders at all levels, primary hand receipt holder, or the
+accountable officer will initiate a preliminary investigation and search to be conducted to ensure the missing property isactually missing before an adjustment document in paragraph 12–1 c(1) is initiated. The preliminary search will be
+aggressively pursued to meet the time limits in paragraph 13–8.
+(7) In cases when a unit reports the loss, damage, or destruction of Class IX items with a recoverability code of D,
+F, or H, a copy of the documentation used to investigate the incident will be provided to the SSA Accountable Officer.A completed DD Form 200, blocks 1 through 14, does not have to be submitted.
+(8) When Government property in the hands of a contractor is lost or damaged, FAR Government Property clause
+will be followed and if necessary a DD Form 200 will be initiated.
+(9) When reporting Government property damaged or missing incidental to shipment by common or contract carrier,
+the consignee, accountable officer, or transportation officer will initiate either a DD Form 361 or a SF 364, asappropriate, in accordance with chapter 16 of this regulation.
+(10) Individuals are responsible for the proper care, custody, and safeguarding of all OCIE issued to them in
+accordance with AR 710–2.
+(11) Theft, loss, suspected theft, unaccounted or recovered arms, ammunition, and explosives require an incident
+report in accordance with AR 190–11 and this regulation.
+c. Administrative action to be taken for causes of other than fair wear and tear. When DA property becomes lost or
+damaged by causes of other than fair wear and tear, take administrative action according to this regulation regardless ofthe ARC assigned to the property. This action will determine the facts concerning the incident and the amount of thel o s s  t o  t h e  G o v e r n m e n t ,  a s s e s s  f i n a n c i a l  l i a b i l i t y  i f  a p p r o p r i a t e ,  a n d / o r  p r o v i d e  r e l i e f  f r o m  r e s p o n s i b i l i t y  a n d
+accountability.
+(1) Obtain relief from property responsibility by the following actions:(a) DD Form 362 (Statement of Charges/Cash Collection Voucher), per paragraph 12–3 per this regulation.
+(b) Cash sale provisions, per paragraph 12–2 b.
+(c) DD Form 200, per chapter 13.
+(d) Board action according to AR 15–6 as used in conjunction with DD Form 200, per paragraph 13–25.
+(e) Abandonment order, per paragraph 14–7.
+(f) Memorandum to adjust losses of OCIE due to contamination, per paragraph 14–10b.
+(g) Damage statement, per paragraph 14–18.
+(h) Collateral investigation for aircraft accidents used in conjunction with DD Form 200, per paragraph 14–15.
+(i) Memorandum to adjust losses of durable hand tools and components of SKO, per paragraph 14–19 and 4–19.
+(j) Memorandum to adjust losses of durable and expendable items, per paragraph 14–20.
+(k) Memorandum for record to adjust nonexpendable items consumed in use, per paragraph 14–28.
+(l) DA Form 444 (Inventory Adjustment Report (IAR)), per paragraphs 14–34, 14–35, 15–2, and 15–3.
+(m) DA Form 4170 (Statement of Gains and Losses) as authorized by AR 30-22.
+(n) DD Form 361.
+(o) SF 364 (also referred to as (Report of Discrepancy (SF 364)).
+(2) Regardless of the method of accounting for property lost, damaged, or destroyed, title (ownership) of the
+property remains with the Government.
+(3) Assign a document and/or voucher number to property adjustment documents per the following instructions:(a) Nonexpendable property (property book level). Assign a document number from the nonexpendable document
+register to any adjustment document listed in paragraph 12–1 c(1) that lists nonexpendable property or any property,
+which requires property book accountability.
+(b) Expendable or durable property (unit level). Assign a document number from the expendable/durable document
+register to those adjustment documents listing only expendable or durable items, which do not require property bookaccountability.
+(c) Nonexpendable, expendable, or durable items (stock record activity level). Assign a voucher number from a
+stock record activity voucher register to any document described in paragraph 12–1 c(1) that lists supply system stocks.
+(d) Damaged property. When processing for damaged end items, do not assign a document number to DD Form 200
+or DD Form 362.
+(4) This chapter outlines the authorized adjustment documents when individuals admit liability, agrees to voluntary
+repayment, and the value of the property is not more than 1 month’s basic pay.
+(5) Decision tables developed to help individuals determine which document to use to obtain relief from property
+responsibility are at tables 12–1 and 12–2. Figures 12–1 through 12–3 show the process for determining whichdocument to use for the transaction.
+(6) This regulation applies to relief actions for special military intelligence operations property losses.
+Table 12–1
+Property record adjustments for damaged property
+Damaged property Adjustments Remarks
+OCIE, no negligence. Memorandum to CIF. See paragraph 14–18 a(4).
+Damaged property, no negligence involved. Damage statement prepared as a memo-
+randum.See paragraph 14–18 b.
+Any item, person admits liability, and
+amount is less than 1 month’s base pay.DD Form 362. See paragraph 12–3.
+Any item, person admits liability, and
+amount is more than 1 month’s base pay.DD Form 200. See paragraph 13–3 a(3).
+Any item, person does not admit negli-
+gence or liability.DD Form 200. See paragraph 13–3 a(1).
+Table 12–2
+Property record adjustments for lost property
+Lost property Adjustments Remarks
+Any item other than controlled items. Personadmits liability and the amount of the loss isless than 1 month’s base pay.Prepare DD Form 362. DD Form 362 can be used for any amount
+for a contractor who admits liability and of-fers cash payment.
+Loss of durable hand tools or components ofSKO with no negligence or willful miscon-duct suspected, incident less than $500.List the items on a memorandum, per para-
+graph 14–19.Unit commander must sign the memorandum
+and provide quarterly summary to approvingauthority
+Loss of durable or expendable items with nonegligence or willful misconduct suspected,total incident less than $5,000.List the items on a memorandum, per para-
+graph 14–20.Appointing authority must approve the mem-
+orandum and provide quarterly summary toapproving authority.
+Requires the initiation of a DD Form 200 and/or AR 15–6 investigation
+1. Controlled items. Prepare DD Form 200, per paragraph
+13–3 a(6).Controlled items require an investigation
+under AR 15–6. Attach the investigation toDD Form 200, per paragraph 13–25.
+2. When directed by higher authority or DAdirective.Prepare DD Form 200, per paragraph
+13–3 a(9).
+3. Loss discovered during inventory on
+change of accountable officers, and individ-ual does not make voluntary reimbursementto the Government.Prepare DD Form 200, per paragraph
+13–3 a(2).
+Table 12–2
+Property record adjustments for lost property—Continued
+4. Loss of household furnishings and theamount of loss is more than 1 month’s basepay.Prepare DD Form 200, per paragraph
+13–3 a(4).Includes damage to Government family
+housing.
+5. Person admits liability for the loss or dam-age, but amount of the loss is more than 1month’s base pay.Prepare DD Form 200, per paragraph
+13–3 a(3).
+6. Negligence is suspected but no one ad-
+mits liability.Prepare DD Form 200, per paragraph
+13–3 a(1).Person refused to sign DD Form 362.
+7. Bulk petroleum handling loss in gallon is
+over the allowable loss and over $1,000 orless in value.Prepare DD Form 200, per paragraph
+13–3 a(5).AR 710–2 addresses allowable losses and
+gains.
+8. Items lost as a result of fire, theft or natu-ral disaster.Prepare DD Form 200, per paragraph
+13–3 a(13).
+Special instructions
+Bulk petroleum handling loss is over the al-
+lowable loss, and is less than $500.Perform causative research per AR 710–2.
+Loss of hand tools authorized to a unit, and
+liability is admitted.Respondent purchase from SSSC, if avail-
+able, per paragraph 12–2 b. Otherwise, pre-
+pare DD Form 362, per paragraph 12–3.Cash sales only. Purchaser must have au-
+thority to buy, signed by their unit com-mander or designated representative.
+Items lost in the laundry. The facility manager will attempt to repair
+or replace damaged or lost items from sur-plus stocks. Failing this the facility managerauthorizes a gratuitous replacement for mil-itary personal clothing. For OCIE, the facil-ity manager prepares a memorandum forthe complainant who will present it to theircommander for preparation of a DD Form200 (see para 14–24 c). CIF and/or OCIE
+issue point will issue replacement of OCIEitems.
+Items destroyed because of infection. List the items on a memorandum naming
+the medical officer who directed the de-struction, per paragraph 14–10.The unit commander must sign the memo-
+randum.
+Destruction of property determined to be un-safe because of age. Includes drugs, ammu-nition, chemicals, and other supplies of asimilar nature.Prepare turn-in documents according to AR
+710–2 or AR 40–61 for medical commodi-ties (see para 14–9).Information on age is published in Army sup-
+ply bulletins. If such information is not availa-ble, initiate a DD Form 200.
+Abandoned items. Combat, contingency, orlarge scale field maneuvers.Written orders to abandon property, signed
+by an O–6 commander or above (see para14–7). Approved memorandum is attachedto a DD Form 200 and the DD Form 200serves as the property voucher. No furtherinvestigation is required.If command declines to approve order, a
+complete DD Form 200 is conducted.
+Figure 12–1. Accounting process for damaged property
+Figure 12–2. Accounting process for loss property at the property book level
+Figure 12–3. Accounting process for lost property at the stock record account level

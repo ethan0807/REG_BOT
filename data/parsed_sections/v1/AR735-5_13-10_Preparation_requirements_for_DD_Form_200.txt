@@ -1,0 +1,241 @@
+
+13–10. Preparation requirements for DD Form 200
+a. Signatures will be entered by pen when DD Form 200 is manually prepared. When DD Form 200 and associated
+documents are electronically produced, electronic and/or digital signatures may be used. Final file copies must bemaintained in hard copy.
+b. The initiator prepares DD Form 200, block 1 and blocks 3 through 11 per figure 13–4 instructions in paragraph
+13–10 d, except when an AR 15–6 investigation is conducted.
+(1) When more than one item is lost, damaged, or destroyed, the national stock number (NSN) (block 4), the
+quantity (block 6), and unit cost (block 7) will remain blank. Enter “See add page” in the item description (block 5).The total cost (block 8) will be computed by summing together the quantity of each item multiplied by the unit price.If the loss or damage involves more than one item, add you can put one item on the front page but ensure you type seeadded page, the grand total will be placed on the added page in the grand total block (see figs 13–4 and 13–5).
+(2) If the loss or damage involves a component, list the component item in block 5 (Item description) and identify
+the end item in which it is a component (see fig 13–6).
+(3) Unit price (block 7) or on added page will be the price contained in the FEDLOG in effect at the time of the
+loss. When a price is not available in FEDLOG, use the current fair market price of a similar item; otherwise, estimatethe price and attach the basis for the estimate to the DD Form 200 as an exhibit. Do not compute the depreciation atthis time; the financial liability officer will compute it in accordance with paragraph 13–32 d(2).
+(a) For subsistence sales accounts, obtain unit prices from the TISA or the commissary price list in effect at the time
+of the loss.
+(b) Do not use reduced prices available to some members of private organizations.
+(c) For leased property that is damaged, enter the word “Leased;” it is not necessary to enter the unit price for
+damaged leased property.
+(4) Total cost (block 8) equals the quantity, multiplied by the unit price or the grand summed total of the quantity
+times the unit price from the added page when there are multiple items. For damaged property, enter the estimated costto repair the damaged property in parenthesis in block 5, following the description of the damaged property.
+(5) Block 9 will contain a description of the events leading to the loss or damage of Government property, with an
+explanation of how it happened, when it happened, and who was involved, omitting personal opinions and conjectures.The description will provide enough detail to determine the proximate cause of the loss or damage if possible. Show allpersons directly concerned by name and grade. The description of the facts must be detailed enough to enable theappointing authority or the approving authority to make a determination of whether relief from, or assessment offinancial liability will be sought without appointment of a financial liability officer, or that an investigation by afinancial liability officer is required. The initiator of a DD Form 200 must prepare a thorough document in recognitionthat an investigation by a financial liability officer represents a significant expenditure of time and effort. It may benecessary for the initiator to obtain statements from individuals who were witnesses or who have knowledge of theincident resulting in the loss. If so, the initiator will ensure—
+(a) The statements are prepared on DA Form 2823 (Sworn Statement) to record the statements. If the initiator
+believes a person providing a statement must be informed of any rights under the UCMJ, Art. 31b, prior to questioning,the initiator will consult with the servicing office of the staff judge advocate for advice on how and when the rightswill be rendered.
+(b) The statements are typed or printed legibly by the individual making the statement in black or blue ink. When
+DA Form 2823 is not available, plain bond paper or ruled paper with the word “certificate” printed or typed across thetop may be used in lieu of the DA Form 2823 to record the statement.
+(c) The person making the statement dates and signs the statement and/or certificate. Electronic and/or digital
+signature may be used if DA Form 2823 is electronically produced.
+(d) The statements are lettered alphabetically at the bottom of the statement or certificate, followed with the date,
+amount, and organization as shown on the face of the DD Form 200. Example: “Exhibit A, DD Form 200, 18 May2013, $375.00, Co Z, 906th Signal Battalion.” Other exhibits such as an estimated cost of damage (ECOD), militarypolice report, and hand receipt, will also be identified as exhibits as shown above.
+(e) The statements are prepared in original and as many copies as prescribed by the local command. The original
+statement or certificate will be attached to the original of the DD Form 200. When copies of the DD Form 200 arerequired, copies of the statements will be attached to the copies of the DD Form 200.
+(6) Except as authorized in paragraph 14–14, the initiator will not alter any part of DD Form 200, blocks 4 through
+10, or any exhibit. The person preparing a statement may make minor corrections providing they initial the change(s).
+(7) Figure 14–2 shows a sample DD Form 200 used to account for property that has been abandoned.(8) Figures 13–4, 13–5, and 13–7 show a sample of an added page for blocks 4 through 8 and block 9, respectively.(9) Have the person providing the statements in blocks 9 and 10 complete and sign block 11. If blocks 9 and 10
+were completed by the responsible officer or reviewing authority, leave block 11 blank. Electronic and/or digital
+signature may be used if DD Form 200 is electronically produced.
+(10) Leave blocks 13 through 16 blank.c. Initiating a DD Form 200 resulting from an AR 15–6 investigation. When the loss of Government property is
+discovered during the conduct of an AR 15–6 investigation, a DD Form 200 must be initiated to adjust the propertyrecords and to assess financial liability, when appropriate. The initiator will do the following:
+(1) Blocks 1 through 8. Prepare the DD Form 200 in accordance with figure 13–4. If the investigation involves more
+than one item, prepare blocks 1–8 in accordance with paragraph 13–10 b(1).
+(2) Block 9. Insert the words, “See AR 15–6 investigation.” Identify the location of the AR 15–6 investigation if not
+attached as an exhibit due to security classification.
+d. Instructions for DD Form 200 is as follows:
+(1) Block 1. Date intiated. Date initiated (YYYMMDD). Enter the date the investigation of property loss is
+prepared. The date of  is recorded as 20140526.
+(2) Block 2. Inquiry and/or investigation number. Enter the approving authority’s UIC, followed by a dash and two
+digit year of initiation, followed by another dash and the approving authority’s consecutive numbering system. Forexample, WAH8AA–08–A–21, this UIC does not change if the approving authority is changed to account for finallosses of $100,000 or greater or final losses of controlled items.
+(3) Block 3. Date loss discovered (YYYYMMDD). Enter the date the loss or damage was discovered. The date 24
+May 2014 is recorded as 20140524.
+(4) Block 4. National stock number. Enter the NSN or management control number (MCN) or other identification
+numbers of the item described in block 5. For end items assigned a line item number (LIN) or nonstandard line itemnumber, enter the LIN and/or nonstandard line item number above, adjacent, or below the NSN and/or MCN. Whenitems listed on the DD Form 200 are totally destroyed, meaning that there is no residue to turn-in, enter the words “NoResidue.” If there is more than one item to list on the DD Form 200, you can put one item on the front page but ensureyou type see added page. The grand total for a DD Form 200 with more than item will be totaled on the added page.
+(5) Block 5. Item description. Enter the nomenclature of the item lost, damaged or destroyed. If the items are
+nonstandard, give a description accurate enough for their identification. When the item involved has been assigned aserial number, include the item’s serial number in this block. For damaged property, enter ECOD in parenthesis in thisblock following the description of the damaged property if the actual cost of damage (ACOD) is not available. Alsodescribe lost or damaged component parts as components, and list the end item they belong (see fig 13–6). (If there ismore than one item to list on the DD Form 200, list the first item on the front page and type see added page in thedescription block) (see fig 13–4).
+(6) Block 6. Quantity. Enter the number of item(s) lost, damaged or destroyed. If there is more than one item to list
+on the DD Form 200 blocks 4, 6, and 7 will remain blank. Type see added page. The grand total for a DD Form 200with more than item will be totaled on the added page.
+(7) Block 7. Unit cost. Enter the price as shown in FEDLOG in effect at the time of loss or destruction. When a
+price is not available in FEDLOG, us the current market price of a similar item; otherwise estimate to the investigationof property loss. For damaged items, do not record the repair cost in this column and instead leave this block blank. Ifthere is more than one item to list on the DD Form 200, you can put one item on the front page but ensure you typesee added page. The grand total for a DD Form 200 with more than item will be totaled on the added page.
+(8) Block 8. Total cost. Enter the total cost of all property identified as lost or destroyed in blocks 4 and 5 and or all
+added pages. Total cost is computed by multiplying the unit price (block 7) of each item listed by the quantity (column6). For damaged property, record the ACOD. If the ACOD is not available, no total cost is recorded and this block isleft blank. The ECOD is recorded in block 5 following the description of the item. If there is more than one item to liston the DD Form 200, you can put one item on the front page but ensure you type see added page attached. The grandtotal for a DD Form 200 with more than item will be totaled on the added page.
+(9) Block 9. Circumstances under which property was (X one). Place an X in the appropriate box identifying
+whether the property was lost, damaged, or destroyed. Enter a complete and accurate statement of facts in the case,including the date of discovery and the date and place of actual loss, damage explaining the difference must beexplained. Show all persons directly concerned by name and grade refer to exhibits by the capital letter designationassigned according to paragraph 13–10 a(5). Show all exhibits initially attached; for example “exhibit A through D
+attached.” If space on the form is insufficient, added page may be used. If added pages are used, list their use byentering, “see added page(s) attached” in the block (see fig 13–7).
+(10) Block 10. Actions taken to correct circumstances reported in block 9 and prevent future occurences. Initiators
+(hand receipt holders or accountable officers) and when appropriate the investigating officer enters what actions havebeen initiated or what action they recommend be taken to preclude further losses or damage of the equipment typeidentified in this investigation. If space on the form is insufficient, added pages may be used. If added pages are used,list their use by entering “see added page(s) attached” in this block.
+(11) Block 11. Individual completing blocks 1 through 10. If the responsible officer completed blocks 1 through 10,
+leave blank. Otherwise complete as follows:
+(a) Organization address (unit designation, office symbol, base, state and/or country, and zip code). Enter the office
+system and unit and/or organizational address of the individual who completed blocks 1 and 3 through 10.
+(b) Typed name (last, first, middle intial). Enter the full name, rank, and position of the individual that completed
+blocks 1 and 3 through 10.
+(c) Defense switched network number. Enter the telephone number of the individual identified in block 11b.
+(d) Signature. The individual identified in block 11b enters their signature. Electronic and/or digital signature may
+be used if DD Form 200 is electronically produced.
+(e) Date signed. Enter the date the individual identified in block 11b signed in block 11d. The date for 
+is entered as 20140526.
+(12) Block 12. (X one).
+(a) Responsible officer (property record items). For losses, damage, or destruction of property at the using unit level
+check responsible officer (individual assigned direct responsibility). By virtue of assignment, the responsible officer isusually a PBO or other accountable officer, a unit commander, or head of an activity and has been formally assigned totheir position in writing.
+(b) Reviewing authority (supply systems stocks). For losses, damage, or destruction of property at the supply support
+activity (SSA), check reviewing authority.
+(c) Negligence or abuse evident and/or suspected (X one). The responsible officer or the reviewing authority as
+appropriate, checks the “yes” or “no” block indicating whether negligence or willful misconduct is suspected. In theevent negligence or willful misconduct is suspected, the commander’s rationale for determining why further investiga-tion is warranted will be documented in writing in block 12b.
+(d) Comments and/or recommendations. Enter the rationale for the determination made in block 12a and recommen-
+dations. Show all exhibits initially attached; for example “Exhibits A through D attached.” If space on the form isinsufficient, added pages may be used. If added pages are used, list their use by entering “see added page(s) attached”in this block (see fig 13–2).
+(e) Organizational address (unit designation, office symbol, base, state and/or country, zip code) Enter the office
+symbol, UIC, unit and/or organizational address of the responsible officer or the reviewing authority, as appropriate.
+(f) Typed name (last, first, middle initial). Enter the full name, rank and position of the responsible officer or the
+reviewing authority, as appropriate.
+(g) Defense switched number. Enter the telephone number of the individual identified in block 12d.
+(h) Signature. The responsible officer or reviewing authority as appropriate enters their signature. Electronic and/or
+digital signature may be used if DD Form 200 is electronically produced.
+(i) Date signed. Enter the date the individual identified in block 12b signed in block 12f. The date for 
+is entered as 20140526.
+(13) Block 13. Appointing authority. An appointing authority, when designated, initially makes a decision based
+upon the available evidence whether to appoint a financial liability investigating officer by choosing the correct blockin 13c. If an investigating officer is required, the appointing authority completes a memorandum appointing thefinancial liability investigating officer or AR 15–6 investigating officer (see fig 13–8). Following the investigation or ifno further investigation is required, the appointing authority completes blocks 13a–b and 13d–g.
+(a) Recommendation (X one). The appointing authority, when used, makes a recommendation to approve or
+disapprove the findings in blocks 9 and 10 or following an investigation, whether to approve or disapprove thefinancial liability investigating officer’s findings. If an appointing authority is not used, no block is checked.
+(b) Comment and/or rationale. The appointing authority determines, upon receipt or following completion of an
+investigation, if financial liability should be assessed. When there is no evidence of negligence or willful misconduct,the appointing authority can recommend that all persons be relieved of financial liability. If the appointing authoritycan establish from information in blocks 9 through 10 and the attached exhibits that negligence or willful misconductwas the proximate cause of loss or damage, and a financial liability investigating officer is not used, the appointingauthority must perform specific actions that the financial liability investigating officer would have done (see para13–23). Following an investigation, the appointing authority enters his or her rationale, to justify the checked approvedor disapproved in block 13a. If space on the forms is insufficient, added pages may be used. If added pages are used,list their use by entering “see added page(s) attached” in this block. If no appointing authority is used, this block willremain blank.
+(c) Financial liability officer appointed (X one).1. Yes.
+2. No.
+(d) Responsible officer. Upon receipt from the responsible officer or reviewing authority, the appointing authority, if
+used, or the approving authority makes a determination whether a financial liability investigating officer is to beappointed by checking the appropriate box. If an AR 15–6 financial liability investigating officer is to be appointed, theyes block will be checked and AR 15–6 will be hand written in on the form.
+(e) Organizational address (unit designation, office, symbol, base, state and/or country, zip code). Enter the office
+symbol, UIC, unit and/or organizational address of the appointing authority if used. In no appointing authority is used,
+this block will remain blank.
+(f) Typed name (last, first, middle initial). Enter the full name, rank, and position of the appointing authority, if
+used. If no appointing authority is used, this block will remain blank.
+(g) Defense switched number. Enter the telephone number of the appointing authority if used. If no appointing
+authority is used, this block will remain blank.
+(h) Signature. The responsible officer or reviewing authority as appropriate enters their signature. Electronic and/or
+digital signature may be used if DD Form 200 is electronically produced.
+(i) Date signed. Enter the date the individual identified in block 13g. The date for  is entered as
+20140526.
+(14) Approving authority. An approving authority, when no appointing authority has been designated, initially
+makes a decision based upon the available evidence whether to appoint a financial liability investigating officer bychoosing the correct block in 13c. If an investigating officer is required, the approving authority completes amemorandum appointing the financial liability investigating officer or AR 15–6 investigating officer (see fig 13–12).Following the completion of the investigation or if no further investigation is required, the approving authoritycompletes blocks 14a-h.
+(a) Recommendation (X one).1. Approve.
+2. Disapprove.
+(b) Approving authority. The approving authority makes a recommendation to approve or disapprove the findings in
+blocks 9 and 10 or following an investigation, whether to approve or disapprove the financial liability investigatingofficer’s or appointing authority’s findings. When there is insufficient space in block 14, use an added page (see fig13–7).
+(c) Comments and/or rationale.1. When the approving authority receives the DD Form 200 from the responsible officer or reviewing authority
+when no appointing authority has been designated, and initially determines there is no evidence of negligence, theymay provide relief from responsibility by placing the statement “No further investigation is required. I do not suspectnegligence or willful misconduct. I relieve all concerned from financial liability for the property listed in blocks 4through 6.” If the approving authority makes a determination that the investigation is incomplete or finds pertinentinstructions have not been completed, the approving authority will return the DD Form 200 to the investigating officerthrough the appointing authority. If one is designated, or they relieve the financial liability investigating officer theymust appoint a new financial liability investigating officer.
+2. When the approving authority determines the financial liability investigation is complete, the approving authority
+will adopt the recommendations of the financial liability investigating officer or appointing authority by checking theapprove box in block 14a and complete blocks 14b through 14h; or make a decision contrary to the financial liabilityinvestigating officer or appointing authority’s findings by checking the disapprove box in 14a and either relieving allconcerned from financial liability or assessing financial liability against a new individual.
+3. Following the investigation, when the approving authority decides to relieve all concerned from financial liability,
+they will enter the following statements “All concerned are relieved from financial liability of the property listed onthis financial liability investigation of property loss.” The approving authority will clearly state the mitigating circum-stances that justify waiving any or all financial liability in the comments and/or rationale (block 14b) or on a separatememorandum for record. If a separate memorandum is used, add the statement, “See separate memorandum forrationale of financial liability waiver” in block 14b.
+4. If the approving authority believes that financial liability is appropriate, they will obtain a legal opinion as to its
+legal sufficiency prior to determining whether to assess financial liability.
+5. When the approving authority decides to approve charges of financial liability against an individual, the approv-
+ing authority will enter “Approved to hold (insert name, rank, and SSN) financially liable in the amount entered inblock 15d.” Also enter the respondent’s basic pay at the time of loss or damage.
+6. If the approving authority determines that it appears appropriate to approve financial liability against an individual
+not previously recommended for assessment of financial liability, the approving authority will ensure that all actionsrequired by paragraphs 13–34 and 13–35 are completed prior to assessing financial liability and enter the reason forapproving financial liability.
+7. When the approving authority decides to approve collective and individual liability against two or more individu-
+als, they prepare an added page containing the following for each individual assessed “Approved to hold (individual’srank, name and SSN) financially liable in the amount (enter the amount of the individual’s financial liability) with therespondent’s rank, last name and basic pay at the time of loss or damage and enter “see added page attached” in block14b.
+8. When the approving authority decides to relive all concerned persons from financial liability, the approving
+authority will retain the original DD Form 200 with all attachments and exhibits and destroy the remaining copies.When the approving authority determines to assess financial liability, the approving authority will retain the original
+and provide a copy to each respondent. When the approving authority waives any or all financial liability, the
+approving authority will retain the original DD Form 200 and copies will be provided to each individual whosefinancial liability has been completely or partially waived.
+9. If the final loss of equipment totals $100,000 or more or if there is a final loss of any controlled item, the
+approving authority will be the first general officer or senior executive service (SES) in the rating chain.
+(d) Legal review completed, if required (X one).1. Yes.
+2. No.
+3. N/A.
+(e) Approving authority. The approving authority will check the Yes box if there is an assessment of financial
+liability and a legal opinion determining legal sufficiency was completed and the No box if a legal opinion was notcompleted. When there is no assessment of financial liability or if financial liability has been completely waived theapproving authority will check the N/A box.
+(f) Organizational address (unit designation, office symbol, base, state and/or country, zip code). Enter the office
+symbol, UIC, unit, and/or organizational address of the approving authority.
+(g) Typed name (last, first, middle initial). Enter the full name, rank, and position of the approving authority.
+(h) Defense switched network number. Enter the telephone number of the appointing authority.
+(i) Signature. The approving authority enters their signature. Electronic and/or digital signature may be used if DD
+Form 200 is electronically produced.
+(j) Date signed. Enter the date the approving authority signed in block 14g. The date for  is entered as
+20140526.
+(15) Block 15. Financial liability officer.
+(a) Findings and recommendations (attach additional pages, as necessary). Enter the findings of the investigating
+officer along with a recommendation regarding financial liability of the involved parties. Proper conclusions will bedrawn from the available facts, not on opinion or suspicions. The investigating officer must sustain or refute thestatements made in block 9 and any other statements that are part of the investigation. The investigating officer willstate in his or her own words how the loss or damage occurred based upon the evidence obtained through theinvestigation. Recommendations should state the investigating officer’s recommendation, such as financial liability tobe assessed or relief from responsibility and accountability. Also state the disposition instructions for any unserviceableequipment. Show all exhibits initially attached; for example “Exhibits A through D attached.” When block 15a isinsufficient and added pages are used, list their use by entering “see added page(s) attached” in this block (see fig13–7).
+(b) Dollar amount of loss. Enter the actual cost of the loss.
+1. For damaged property, enter the ACOD. If the ACOD is not available, use the ECOD and explain in block 15a
+why ACOD could not be used to determine the actual cost to repair.
+2. For lost or destroyed property use the fair market value or depreciated value determined from appendix B.
+Explain in block 15a the method used to determine actual loss.
+(c) Monthly basic pay. When recommending a charge of financial liability, enter the monthly basic pay of the
+military respondent. If the respondent is a DOD civilian, enter 1/12th of their annual salary in this block. When morethan one individual is being recommended for charges of financial liability, use an added page and leave this blockblank.
+(d) Recommendation financial liability. Enter the amount of financial liability when a recommendation of financial
+liability is being made. When financial liability is not being recommended, enter 0. Financial liability is normallylimited to one month’s basic pay at the time of loss or the actual loss to the Government, whichever is less. Forexceptions to this rule, see paragraph 13–41. When more than one individual is being recommended for charges offinancial liability, use an added page and leave this block blank.
+(e) Organization address (unit designation, office symbol, base, state and/or country, zip code). Enter the office
+symbol and unit/organizational address of the investigating officer.
+(f) Typed name (last, first, middle intial). Enter the name and rank of the investigating officer.
+(g) Defense switched number. Enter the investigating officer’s telephone number.
+(h) Date report submitted to appointing authority (YYYYMMDD). Enter the date the investigation is submitted to the
+appointing or approving authority as appropriate. The date  is entered as 20140613.
+(i) Date appointed (YYYMMDD). Enter the date the investigating officer is appointed. The date  is
+entered as 20140527.
+(j) Signature. The investigating officer enters their signature. Electronic and/or digital signature may be used if DD
+Form 200 is electronically produced.
+(k) Date signed. Enter the date the investigating officer signed the investigation. The date  is entered as
+20140605.
+(16) Block 16. Individual charged.
+(a) I have examined the findings and recommendations of the financial liability officer and (X one).
+1. Submit the attached statement of objections.
+2. Do not intend to make such a statement.
+(b) The individual being recommended for a charge of financial liability places an “X” in the appropriate box to
+indicate their intentions to submit a statement of objections to the investigating officer’s findings and recommenda-tions. Should respondent wish to make a statement, they will provide a memorandum, addressed to the investigatingofficer. They should include all evidence previously overlooked or incorrect that could change the investigatingofficer’s recommendation. Statements of inability to pay recommended debt should not be included. If more than oneperson is being recommended for financial liability, leave this block blank and include this information on an addedpage.
+(c) I have been informed of my rights to legal advice. My signature is not an admission of liability. No entry.
+(d) Organizational address (unit designation, office symbol, base, state and/or country, zip code). Enter the office
+symbol and unit and/or organizational address of the respondent. If more than one person is being recommended forfinancial liability, leave this block blank and include this information on an added page.
+(e) Typed name (last, first, middle initial), Enter the name and rank of respondent. If more than one person is being
+recommended for financial liability, leave this block blank and include this information on an added page.
+(f) Defense switched number. Enter the respondent’s telephone number. If more than one person is being recom-
+mended for financial liability, leave this block blank and include this information on an added page.
+(g) Signature. The respondent enters their signature. An electronic and/or digital signature may be used if the DD
+Form 200 is electronically produced. In the event the respondent refuses to sign, the investigating officer will enter“Respondent refused to sign.” If more than one person is being recommended for financial liability, include thisinformation on an added page and enter “see added page(s)” in this block.
+(h) Date signed. Enter the date respondent signed the investigation of property loss. The date  is
+entered as 20140612. If respondent had refused to sign in block 16g, enter the date they refused to sign. If more thanone person is being recommended for financial liability, leave this block blank and include this information on anadded page.
+(17) Block 17. Accountable officer. This block will only be completed after block 2 has been completed.
+(a) Document number(s) used to adjust property record. The document or voucher number is entered by the
+accountable office or the individual maintaining the expendable and/or durable register as appropriate for lost ofdestroyed equipment. Do not complete this block for damaged equipment. Blocks 17b through 17f will be filled evenor equipment is damaged.
+(b) Organizational address (unit designation, office symbol, base, state and/or country, zip code). Enter the office
+symbol and unit and/or organizational address of the accountable officer or the individual maintaining the expendableand/or durable register, as appropriate.
+(c) Typed name (last, first, middle initial). Enter the name and rank of the accountable officer or the individual
+maintaining the expendable and/or durable register, as appropriate.
+(d) Defense switched number. Enter the accountable officer’s or the individual’s maintaining the expendable and/or
+durable register telephone number.
+(e) Signature. The accountable officer or the individual maintaining the expendable and/or durable register as
+appropriate enters their signature. An electronic and/or digital signature may be used if the DD Form 200 iselectronically produced.
+(f) Date signed. Enter the date the accountable officer or the individual maintaining the expendable and/or durable
+register, as appropriate, signed the investigation of property loss. The date  is entered as 20140526.
+(g) Initiating. Initiating a DD Form 200 resulting from an AR 15–6 investigation. When the loss of Government
+property is discovered during the conduct of an AR 15–6 investigation, a DD Form 200 must be initiated to adjust theproperty records and to assess financial liability, when appropriate. The initiator will do the following:
+1. Blocks 1 through 8. Prepare the DD Form 200 in accordance with figure 13–4 and instructions in paragraph
+13–10 d. If the investigation involves more than one item, prepare blocks 1–8 in accordance with paragraph 13–10 b(1).
+2. Block 9. Insert the words, “see AR 15–6 investigation.” Identify the location of the AR 15–6 investigation if not
+attached as an exhibit due to security classification.
+3. Block 13b. Sample is as follows: Recommend financial liability against Captain (CPT) Doe for failure to properly
+provide records in which to ensure proper custody was maintained. The circumstances in block 9 shows that CPT Doefailed to keep any records of equipment as it was issued or hand receipted to the users or supervisors. In fact, there isnot a single valid sub hand receipt for any property. He failed to ensure that these records were maintained by anyone.Although CPT Doe had a great amount of supply personnel turbulence during his command, the onerous of the failureto keep any hand receipts lies with him along. He never asked nor did he seek to see the company’s or supervisor’shand receipts. If he knew the fact that no hand receipts were kept, he did nothing to rectify the issue. He had manychances to fix his problem during cyclic inventories and command inspections. The loss of this equipment was caused
+by this lack of records. Recommend that CPT Doe be held liable for the loss of the equipment which totaled $ 34,834.
+23 after depreciation. CPT Doe’s monthly base pay is $4,149.30 (see WAH8AA–14–FA–055).
+4. Block 14b. Sample is as follows: Financial liability is assessed against CPT Doe for failure to properly provide
+equipment records. This one act ultimately ended in the loss of equipment because the equipment was issued andforgotten. CPT Doe’s rebuttal gave no further evidence to show who the equipment was issued or hand receipted to.Approved to hold CPT Doe, SSN, financially liable for the amount of $ 4,149.30. CPT Doe’s monthly base pay is$ 4,149.30. (See WAH8AA–14–FA–055.)
+5. Block 16.a. I have examined the findings and recommendations of the financial liability officer and (check one): (1) submit
+the attached statement; or objection, or (2) do not intend to make such a statement.
+b. I have been informed of my rights to legal advice. My signature is not an admission of liability.
+c. Organization address. 319th Military Intelligence Battalion.
+d. Name. Doe, John A.
+e. Social security number. XXX–XX–XXXX.
+f. Defense switched number. XXX–XXXX.
+g. Signature. Place signature here.
+h. Date signed. Place date signed here.
+Figure 13–4. Sample of DD Form 200 when more than one item is lost, damaged or destroyed
+Figure 13–4. Sample of DD Form 200 when more than one item is lost, damaged or destroyed–Continued
+Figure 13–4. Sample of DD Form 200 when more than one item is lost, damaged or destroyed–Continued
+Figure 13–5. Sample of DD Form 200 when added pages are used for blocks 4 through 8
+Figure 13–5. Sample of DD Form 200 when added pages are used for blocks 4 through 8–Continued
+Figure 13–5. Sample of DD Form 200 when added pages are used for blocks 4 through 8–Continued
+Figure 13–6. Sample of DD Form 200 when components are missing
+Figure 13–7. Sample of DD Form 200 when added pages are used block 9 and 15
+Figure 13–7. Sample of DD Form 200 when added pages are used block 9 and 15–Continued
+Figure 13–7. Sample of DD Form 200 when added pages are used block 9 and 15–Continued
+Figure 13–7. Sample of DD Form 200 when added pages are used block 9 and 15–Continued
+Figure 13–8. Sample of DD Form 200 when a 15–6 investigation is required
+Figure 13–8. Sample of DD Form 200 when a 15–6 investigation is required–Continued

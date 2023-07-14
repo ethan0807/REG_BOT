@@ -1,0 +1,32 @@
+
+5–19.  Reclamation at the national level  
+a.  Reclamation is the process of removing required serviceable and economica lly repairable compo-
+nents from potential DoD excess or surplus property. These parts are returned to the proper supply activ-
+ity for future requirements. Residue is processed as disposable property. AR 710  –  1 contains the policy 
+for controlling the recla mation of Army -managed equipment at the national level.  
+b.  The commander of each LCMC will establish and fund controlled reclamation programs.  
+(1)  Depots with maintenance missions and/or contractor reclaiming sites will perform the task of dis-
+mantling e nd items to obtain component parts.  
+(2)  Depot reclamation work breakdown structure ( WBS) numbers will be classified as priority or rou-
+tine. Priority reclamation procurement request order numbers (issue priority designators 01  –  08, used to 
+meet priority requirements) will take precedence over a maintenance program with an equal or lower pri-
+ority. Routine reclamation orders will be scheduled according to assigned priorities of depot workload.  
+c.  Materiel managers at the LCMCs wi ll prepare save lists, with appropriate narrative, for items to be 
+recovered and will forward the lists to the recovery program control officer at the depot performing the re-
+covery operation. Repairable recovered items may be exempted from MEL control if required for high pri-
+ority programs and there is no practical alternative SOS. Exemption will be noted on the save list.  
+d.  Depot commanders will designate a recovery program control officer responsible for the coordina-
+tion of all reclamation programs wi th LCMCs and within the depot. The recovery program control officer 
+will— 
+(1)  Establish and maintain the status and suspense file on all reclamation programs.  
+(2)  Ensure that enough of the major items and/or assemblies are on hand.  
+(3)  Close out the re clamation programs only after supply has verified that the receipt action is com-
+plete.  
+e.  Only the cost of the reclamation actions will be charged against the reclamation maintenance pro-
+curement request order number.  
+f.  QA procedures will be instituted to— 
+(1)  Inspect and classify removed components as serviceable, unserviceable repairable, or uneconomi-
+cally repairable.  
+(2)  List missing assemblies and/or components or shortages from major items in the recovery opera-
+tion other than those identified as r ecovered.  
+(3)  Inspect and reclassify the major item on which reclamation was performed.  

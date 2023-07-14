@@ -1,0 +1,25 @@
+
+7–6. Expendable property
+Expendable (X) property is property that is consumed in use, or loses its identity in use. It includes items not consumed
+in use, with a unit cost of less than $500, and having a CIIC of “U” assigned. The following classes or types ofproperty will be classified as expendable:
+a. Supplies consumed in the maintenance and upkeep of public service. Examples are oil, paint, fuel, and cleaning
+and preserving materials.
+b. Supplies that lose their identity when used to repair or complete other items. Examples are assemblies, repair
+parts, and accessories.
+c. Supplies consumed by Government activities in the manufacturing, testing, sampling, or for experimental pur-
+poses. Also included are audiovisual products, training devices, training aids, and displays when these supplies will beconsumed or rendered unserviceable for the purpose originally intended.
+d. Office supplies and equipment (such as, paper, staplers, and hole punchers) with a unit cost of less than $500.
+e. Subsistence items.
+f. Commercial or fabricated items similar to items with an ARC of “X” in FEDLOG.
+g. Special tooling, jigs, fixtures, and templates, provided—
+(1) Like item is not available through normal supply channels.(2) Items are fabricated for exclusive use by U.S. Army Joint Munitions Command depots in depot rebuild programs
+and cost less than $5,000 each.
+h. Class V (ammunition) with a subclassification other than “L,” missile materiel, the item is expendable.
+i. All items assigned Class I (subsistence); Class III (petroleum, oil, and lubricants); Class VI (personal demand
+items); Class IX (repair parts and assemblies); the item is expendable.
+j. All items with FSC 3510, FSC 4110, FSC 4140, FSC 6240, FSC 7105, FSC 7110, FSC 7125, FSC 7195, FSC
+7210, FSC 7220, FSC 7230, FSC 7290, FSC 7310, FSC 7320, FSC 7350, FSC 7820, or FSC 7910 and the unit price isless than $300, the item is expendable.
+k. All items assigned FSC 8115, FSC 8145, or FSC 9540 and the item is a component of a container, the item is
+expendable.
+l. All other flags and pennants other than: (a) organizational colors; (b) national flags; (c) state flags; (d) positional
+colors; or (e) distinguishing flags are expendable.

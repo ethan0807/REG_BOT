@@ -1,0 +1,27 @@
+
+13–3.  Planning for contractor support,  fielding and/or post fielding  
+a.  Logistics support of Army materiel performed under contract by commercial organizations, including 
+the original manufacturer, is considered contractor support. Support may include materiel and facilities as 
+well as servic es such as maintenance, supply, distribution, training, software support, repair, overhaul, 
+and the collection and development of maintenance data as required by AR 700  –  127. Contractor mainte-
+nance personnel will not normally be allowed to perform field maintenance tasks except the following:  
+(1)  To address manpower requirements criteria shortfalls during peacetime operations.  
+(2)  To address HQDA approved maintenance programs such as reset.  
+(3)  To support equipment services when the equipment maintenance plan designates contract support 
+as part of the materiel acquisition strategy.  
+b.  The decision to use contractor maintenance support is accomplished as part of the SOR analysis 
+during the ILS process in accordance with AR 700  –  127 and must be documented as part of the Milestone 
+B ASARC. The plan for use of maintenance CLS will include a plan for the capture of contractor man -
+hours expended in support of Army equipment.  
+c.  Proposals for con tract maintenance support of classified equipment will adhere to the following:  
+(1)  All contract maintenance support of COMSEC, SIGINT, and EW equipment must undergo an as-
+sessment of risks to national security before a cost study is performed to use commercial maintenance 
+sources. The installation security manager in coordination with the ACOM, ASCC, and DRU (security and 
+commercial activity managers) must conduct this special risk assessment. HQDA, NSA, and the AMC 
+LCMC NMP must approve this assessment and selection of a contractor facility. The proposal, including 
+PWSs with additional information identifying the COMSEC and/or SIGINT and EW equipment, density 
+supported, and levels of maintenance to be performed, will be submitted through the appropriate AMC 
+LCMC and DCS, G  –  3/5/7 (DAMO  –  FDI), 400 Army Pentagon, Washington, DC 20310  –  0400, to the Direc-
+tor, NSA (S  –  04), Fort Mea de, MD 20755  –  6000.  
+(2)  Classified equipment not under NSA cognizance being considered for maintenance support con-
+tracts to contractors other than OEMs will be given an assessment of risk as prescribed above.  

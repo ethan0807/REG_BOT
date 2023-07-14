@@ -1,0 +1,42 @@
+
+5–14.  Mobilization planning  
+a.  Requirements identified specifically for mobilization,  surge, or reconstitution purposes will be sepa-
+rately identified to prevent mixing of mobilization requirements with normal maintenance requirements.  
+b.  Maintenance mobilization workload requirements include cyclic, normal overhaul, rebuild, battle, 
+crash  damage overhaul, rebuild, activation of items taken from long -term storage, modifications, fabrica-
+tion and/or manufacture, reclamation and/or disassembly, and maintenance assistance (support for de-
+ployed and deploying units).  
+c.  A sustainment maintenance  mobilization plan will be developed and include major and secondary 
+items, ARNG and USAR requirements, inter -Service and interdepartmental orders, and essential con-
+tracts.  
+d.  Sustainment maintenance mobilization secondary items requirements will be forecast in accordance 
+with the mobilization schedule.  
+e.  The principal for the agent’s commitment at the time of the initial depot maintenance ISSA will pro-
+ject inter -Service main tenance mobilization requirements. Negotiated depot maintenance ISSAs will re-
+main in effect after the date of mobilization.  
+f.  Mobilization requirements to support allies will consist of continuation of agreements in effect on date 
+of mobilization. Unles s more specific information is available for a program, depot maintenance workloads 
+ 
+generated through international logistics for those engaged or mobilized countries will increase at the 
+same rate as a comparable Army item during a period of mobilization.  
+g.  Closed loop support procedures will be implemented for critical items for which production cannot 
+satisfy mobilization demands (see AR 710  –  1). Closed loop support programs will be identified with the 
+appropriate management interest item code.  
+h.  Repair and/or overhaul MELs will be relaxed or eliminated.  
+i.  Plans will be reviewed at least every 2 years in conjunction with the core computation process.  
+j.  Depot maintenance mobilization plans will include the following:  
+(1)  Depot maintenance mobilization requirements for materiel that is not the responsibility of AMC but 
+is accomplished in CONUS sustainment.  
+(2)  Requirements in terms of man -hours, skills, and support equipment required by deploying and de-
+ployed units. AMC  will coordinate with FORSCOM in identifying these requirements.  
+(3)  Requirements in terms of man -hours, skills, and support equipment required for reconstitution of 
+equipment based on increased operational tempo, equipment availability data, and defense  guidance.  
+(4)  A depot maintenance mobilization workload ( DMMW) distribution plan developed using mathemati-
+cal modeling techniques. The techniques used should provide for a gradual post mobilization buildup from 
+peacetime to full capacity within 6 months  after mobilization. This technique will incorporate the require-
+ments to reconstitute force structure capabilities at the end of conflicts based on timeframes identified in 
+the defense guidance.  
+(5)  To identify DMMWs in excess of capacity (see AR 700  –  90), DMMW will be initially assessed 
+against core capability and capacity (see AR 700  –  90). If DMMW is less than core capability, core will be 
+reassessed using approved methodology. DMMW in excess of organic capacity and beyond the capabil-
+ity of all d epots will be assigned to an alternate source.  

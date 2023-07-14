@@ -1,0 +1,12 @@
+
+6–5. Property accountability for discrepancies in shipment
+a. Accountability for material that is “short” reverts to the consignor (unit and/or agency that initiated the request).
+The consignee will report the shortages on DD Form 361 (Transportation Discrepancy Report (TDR)) or SF 364(Report of Discrepancy (ROD)) and coordinate with the supporting FAO to initiate any necessary billing adjustments.Property responsibility for items not received in shipment ends because only the number actually received is posted tothe consignee’s stock record or sales account (see chap 16 of this regulation).
+b. Accountability for items “over” (including items shipped in error) and damaged items is established by the
+consignee.
+c. The consignee also assumes property responsibility for any “over” or damaged material (in the condition
+described). The consignee retains the material until final disposition. The consignee reports the “over” or damagedmaterial on DD Form 361 or SF 364. Disposition instructions for material are provided by the consignor.
+d. Shortages of COMSEC equipment and CCI require the submission of a security report per Technical Bulletin
+(TB) 380–41, respectively.
+Chapter 7
+Nonexpendable, Expendable, and Durable Property

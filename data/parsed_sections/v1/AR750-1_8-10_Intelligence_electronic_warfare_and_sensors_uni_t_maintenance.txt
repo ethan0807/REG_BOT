@@ -1,0 +1,18 @@
+
+8–10.  Intelligence, electronic warfare, and sensors uni t maintenance  
+a.  Assigned IEW field maintenance personnel perform field levels of maintenance. This typically in-
+cludes replacement of line replaceable units ( LRUs), circuit card assemblies, and piece parts when au-
+thorized by the MAC.  
+b.  CECOM RSCs p rovide direct, on -site, and forward maintenance and repair support for C4, Intelli-
+gence, Electronic Warfare, and Sensors and non -standard electronics systems fielded to corps, divisions, 
+armored cavalry regiments, separate brigades, and battalions. The RSC also provides MATDEV ICS for 
+managed systems prior to completion of the Depot Source of Repair Analysis.  
+c.  IEW maintenance activities are authorized to establish and maintain bench and shop stock, in ac-
+cordance with the FAR, Defense Federal Acquisition Regulation ( DFAR) Supplement, AR 710  –  2, and/or 
+contract for supporting IEW equipment repair.  
+d.  Shop stock  will be maintained using the approved LIS. 
+e.  Appropriate MTOE, TDA, TM, or letter authorization authorizes tools and TMDE required for the 
+maintenance of IEW materiel. Materiel will be obtained in accordance with the FAR, DFAR Supplement, 
+or AR 710  –  2. 
+f.  Maintenance requirements beyond FLM require a DA Form 5990  –  E or DA Form 2407 to be pro-
+cessed through the unit’s TELS to the RSC.  

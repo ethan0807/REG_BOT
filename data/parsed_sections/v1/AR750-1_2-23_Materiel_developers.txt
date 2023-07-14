@@ -1,0 +1,86 @@
+
+2–23.  Materiel developers  
+MATDEVs, as defined by AR 700  –  127, will — 
+a.  Coordinate the materiel maintenance considerations to be included in requirement documents with 
+CAPDEVs, including the LCMCs.  
+b.  Ensure that the materiel -fielding plan meets the requir ements of the Army maintenance system.  
+c.  Ensure that reliability, availability, and maintainability are included in design parameters and demon-
+strated during operational testing.  
+d.  Ensure that reliability centered maintenance ( RCM) is a basic precept in developing the mainte-
+nance concept (see Aeronautical Design Standard ( ADS) –79–Handbook ( HDBK)) for aircraft and/or avia-
+tion systems).  
+e.  Determine, in coordination with the designated MSC, the SOR for sustainment -level maintenance 
+(such as organic or contract).  
+f.  Ensure product support management and/or product support analysis results are incorporated in ini-
+tial maintenance planning and/or development concepts.  
+g.  Ensure trained personnel, TMDE, facilities, specialized tools with containerizati on (if applicable), 
+support equipment, repair parts, and publications are available when the system is delivered to the user.  
+h.  Participate in planning and conducting logistics demonstrations and operational maintenance test-
+ing. 
+i.  Comply with the polic y and responsibilities for type classification, material release, fielding, and 
+transfer process as described in AR 770  –  2 and AR 770  –  3 in the performance and management of the 
+material maintenance function.  
+j.  Establish and monitor MWO programs in accordance with AR 750  –  10. 
+k.  Ensure mandatory modifications to Army equipment are developed, tested, funded, applied, and re-
+ported to the Modification Management Information System ( MMIS) in accordance with AR 750  –  10. 
+l.  Develop BDAR techniques, procedures, and related tool and materiel requirements in accordance 
+with CAPDEVs. The developers will also incorporate BDAR concepts into new materiel development.  
+m.  Determine the RCF maintenance requirement us ing the methodology in table 14  –  1 and coordinate 
+requirements with ASA (ALT), DCS, G  –  4, DCS, G  –  8, and DCS, G  –  3/5/7.  
+n.  RCF requirements must be documented in the LCSP and be reviewed and updated every 5 years or 
+sooner if dictated by operations availability and readiness requirements.  
+ 
+o.  Incorporate PPMx technologies and concepts in the design, development, and improvement  of 
+equipment where it is technically feasible and cost -effective based upon a Joint return on investment as-
+sessment lead by the MATDEV and supported by AMC, AFC, and DCS, G  –  4 (see ADS  –  79  –  HDBK for 
+aircraft and/or aviation systems) and AR 700  –  127. 
+p.  Ensure that performance -based product support strategies are compatible with Army maintenance 
+doctrine and that all statutory and regulatory requirements governing depot maintenance are preserved 
+(see AR 700  –  127).  
+q.  Ensure that data collecte d from all levels of maintenance are analyzed and used for reliability im-
+provement and updating logistical and manpower data bases used in determining Army force structure 
+maintenance requirements purposes.  
+r.  Design equipment with the need for a minimum number of common and special tools.  
+s.  Ensure development of a system or commodity -based special tools SKOTs as directed by the 
+maintenance CAPDEV and will submit requirements and documentation for special tools to the mainte-
+nance CAPDEV for review in accordance with AR 700  –  127. 
+t.  Establish and maintain an Age Exploration Program (AEP) as part of the Reliability Centered Mainte-
+nance strategy. The AEP involves examination throughout the lifetime a system and focusing on the sys-
+tems individual component life cycle to determine limited overhaul intervals which optimize equipment life 
+cycles. Limited conditions based overhauls only address immediate failure of components and other nec-
+essary parts to achieve performance standards consist ent with complete overhaul but at less cost.  
+u.  Include requirements for compliance with Federal environmental quality standards for equipment 
+procured and supported by the Army in accordance with AR 200  –  1. 
+v.  Coordinate BOIP  feeder data with the CAPDEV to include the LCMC to facilitate planning for distri-
+bution of operator and support personnel and support equipment in accordance with AR 71  –  32, AR 
+570  –  4, and DA Pam 700  –  27. 
+w.  Implement management controls to ensur e support of the manpower requirements criteria program 
+in accordance with guidelines outlined in AR 71  –  32, AR 70  –  1, and associated publications.  
+x.  Ensure the BOIP feeder data documents the major item system map.  
+y.  Ensure that maintenance float requirements established for equipment being fielded are based on 
+usage data for similar items or best available engineering data.  
+z.  Coordinate with ASA (ALT), DCS, G  –  3/5/7, DCS, G  –  4, and DCS, G  –  8 to ensure RCF requirements 
+are documented at AMC level in conjunction with materiel fielding plan development.  
+aa.  Provide procedures and help desk assistance to facilitate the repair or replacement of automation 
+system tactical computer exchange ( TCX) items authori zed for repair or replacement at the field or sus-
+tainment maintenance level.  
+bb.  Ensure requirements for lubricant analytical devices or instruments are coordinated with ASC PM 
+AOAP.  
+cc.  Establish sustainment maintenance support programs for a new sys tem and its secondary items so 
+that the depot is ready to perform depot maintenance not later than 4 years after initial operating capabil-
+ity (IOC).  
+dd.  Ensure the acquisition and supportability strategies address CBRN survivability for each Army mis-
+sion critical system required to withstand nuclear weapons effects and/or chemical, biological, radiologi-
+cal, and environmental contamination. Ensure preservation of survivability features during the system’s 
+entire life cycle.  
+ee.  Comply with the policy and  responsibilities for the development, authentication, printing, distribu-
+tion, and sustainment process for technical/equipment publications as described in AR 25  –  30. 
+ff.  MATDEVs will update TMs for programs before the system is transferred to sustain ment.  
+gg.  MATDEVs will support PPMx in accordance with AR 700  –  127. 
+hh.  MATDEVs will coordinate test equipment and AT/Off Platform diagnostic requirements with the 
+PD  –  TMDE per AR 750  –  43. 
+ 
+Chapter 3  
+Maintenance Policies and Structure  
+Section I  
+Maintenance Policies  

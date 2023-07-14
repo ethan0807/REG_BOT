@@ -1,0 +1,60 @@
+
+6–4.  Aviation field maintenance  
+The field maintenance operation is resident in each aviation brigade.  
+a.  An aviation support company within an aviation support battalion ( ASB) is organic to each aviation 
+brigade and will — 
+(1)  Perform forward sustainment maintenance f or selected high -value components and subassemblies 
+under the authority of the assigned logistics engineer and or applicable maintenance engineering call.  
+(2)  Perform authorized field maintenance as defined in paragra ph 6–3d that was formerly classified as 
+unit and intermediate maintenance (current terminology in aviation TMs) in the applicable MAC.  
+(3)  Have appropriate resources (both the personnel and equipment) to perform field maintenance.  
+(4)  Have appropria te resources to support operational battalions with aviation support platoons.  
+b.  The flight companies and/or flight troops and aviation maintenance companies/aviation maintenance 
+troops will — 
+(1)  Perform authorized field maintenance as defined in paragraph 6 –3d that was formerly classified as 
+unit and intermediate maintenance (current terminology in aviation TMs) in the applicable MAC.  
+(2)  Have appropriate resources (both the personnel and equipment as authorized by the applicable 
+TDA and/or table of organization and equipment TOE to perform field (current unit -level tasks) mainte-
+nance.  
+(3)  Be staffed and equipped to perform high frequenc y—on aircraft —maintenance tasks.  
+c.  ASBs and/or aviation support companies and AVCRAD or Army aviation support facility will furnish 
+mobile, responsive, one -stop maintenance support and perform all maintenance functions as designated 
+by the MAC in mate riel publications as either field or sustainment maintenance, as required.  
+(1)  Authorized maintenance includes the following:  
+(a)  Replacement and repair of modules and components.  
+(b)  Repair of end items that can be efficiently accomplished with available skills, TMDE, tools, and ma-
+teriel.  
+(2)  Repair materiel for return to user and emphasize support of OR requirements.  
+(3)  Establish a program to support AMC and/or Army aviation fli ght activity units by repairing selected 
+items for return to stock when such repairs cannot be accomplished at the AMC and/or Army aviation 
+flight activity level.  
+(4)  Inspect, troubleshoot, test, diagnose, repair, adjust, calibrate, and align aircraft sy stem modules 
+and components. Module and component disassembly and repair normally will be limited to tasks requir-
+ing cleaning and the replacement of seals, fittings, and items of common hardware.  
+(5)  Determine the condition of specified modules and compon ents removed prior to the expiration of 
+the time between overhaul or finite life.  
+(6)  Perform aircraft weight and balance inspections and other special inspections that exceed AMC 
+and/or Army aviation flight activity capability.  
+(7)  Furnish quick respon se maintenance support and technical assistance using mobile maintenance 
+support teams and aircraft recovery and evacuation.  
+(8)  Furnish collection and classification services for serviceable and unserviceable materiel.  
+(9)  Operate a cannibalization poin t activity under AR 710  –  2. 
+(10)  Inspect, troubleshoot, test, diagnose, repair, adjust, calibrate, and alignment of aircraft system 
+specific GSE. Concern lies within systems requir ed to attain and maintain an airworthiness standard as 
+defined in AR 70  –  62 regardless of the GSE being a flight or non -flight capable system. Examples of non -
+flight GSE of concern are aircraft jacks and stands and the aviation ground power unit which provides al-
+ternating current and/or direct current electricity, pneumatic air, and hydraulic ground power to the air-
+craft. An example of a flight capable GSE is the unit maintenance aerial recovery kit which is used to re-
+cover damage aircraft via sling lo ad operations. Commanders will ensure GSE is maintained and sus-
+tained to standard ensuring the safety and airworthiness of the aircraft and or systems the GSE is used 
+with will not be compromised.  
+d.  Maintenance functions that exceed field -level repair capability will be passed back to sustainment -
+based maintenance activity.  
+ 
+e.  Unserviceable repairable modules, components, and end items that are beyond the capability of an 
+ASB and/or Army aviation support facility to repair will be evacuated to the des ignated sustainment base 
+maintenance activity.  
+f.  GSE and TMDE will be evacuated to the appropriate field or sustainment unit of action and/or ground 
+maintenance when it is beyond the capability of an aviation support company and/or ASB to repair.  
+g.  Calibration and repair of TMDE will be performed as indicated in AR 750  –  43, DA Pam 750  –  43, and 
+TB 43  –  180. 

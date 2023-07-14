@@ -1,0 +1,11 @@
+
+5  –  34.  Facility security requirements  
+a.  A doorbell will be installed in all facilities which — 
+(1)  Remain open after 2000 hours.  
+(2)  Are located in remote sites or areas susceptible to terrorist activities . 
+b.  Doors will be locked at 2000 hours and visitors will use the doorbell to gain entry. Panic hardware on exit discharge 
+doors will remain operable (without padlocks and chains) to permit immediate egress.   
+
+ c.  Intrusion alarms will be installed on all c orridor exit doors leading to uncontrolled unfenced areas or directly onto a 
+street (with the exception of the front entrance) to preclude entry of unauthorized individuals and to alert CDS personnel 
+to potential unauthorized removal of children or “wander ing children” .  

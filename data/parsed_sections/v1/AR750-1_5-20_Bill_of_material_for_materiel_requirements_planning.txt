@@ -1,0 +1,13 @@
+
+5–20.  Bill of material for materiel requirements planning  
+a.  A BOM  is the formally structured list of basic parts and materiel contained in equipment weapon 
+systems, their components and/or assemblies, depending on the type of BOM. The primary purpose or 
+function of a BOM, in the maintenance sustainment process, is to provide the official basis to identify and 
+determine material requirements and shortages (planned or actual) as a result of the materiel require-
+ments planning ( MRP). The MRP process works to ensure the correct repair parts and components are 
+identified and available to meet the maintenance, repair, overhaul, or fabrication schedule while 
+ 
+maintaining the lowest possible level of materiel on hand. LCMCs are to ensure that current BOM and 
+other updated te chnical and/or engineering data are the basis for MRP and long -term decision -making in 
+support of depot maintenance work request ( DMWR) and WBS actions.  
+b.  For BOM for MRP see DA Pam 750  –  1. 

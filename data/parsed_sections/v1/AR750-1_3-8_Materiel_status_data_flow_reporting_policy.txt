@@ -1,0 +1,20 @@
+
+3–8.  Materiel status data flow reporting policy  
+a.  This paragraph establishes and standardizes the materiel condition status report flow, Enterprise 
+Materiel Status Reporting ( EMS R), defining the reporting architecture, and identifies the responsibilities 
+for materiel status file transfers to AMC. Daily/weekly/monthly maintenance/readiness data will be elec-
+tronically submitted to AMC to ensure readiness reports are available for all Army stakeholders that rely 
+on readiness information.  
+b.  All Army agencies, CLS, and activities performing maintenance on Army equipment are responsible 
+for reporting maintenance and readiness information to AMC, following procedures in DA Pam 750  –  1. 
+c.  Maintenance, logistics, and readiness managers will obtain required access to enterprise systems to 
+view readiness data/reports reported through the EMSR.  
+d.  Aviation units will adhere to the requ irements in this policy using procedures in DA Pam 750  –  1. 
+e.  Readiness reporting at the lowest level (derivative) makes maintenance/readiness reporting within 
+the modular force a plug -and-play capability consistent with modular force redesign policy. I n the event 
+GCSS -Army lacks an automated readiness reporting capability through EMSR for a particular system or 
+fleet (that is, APS Fleets and certain Aviation equipment), AMC will provide guidance on reporting equip-
+ment readiness directly into the AES IP Portal. Any exception to this policy will be granted on a case by 
+case basis and only with the approval of DCS, G  –  4. 
+Section II  
+The Army Maintenance System  

@@ -1,0 +1,41 @@
+
+14–13.  National Maintenance Program  
+a.  General.   The NMM is responsible for managing all sustainment -level reparables, including selected 
+field reparables. All sustainment -level reparables will be repaired to the national standard that is defined 
+as the highest published standard. Any exceptions, such as requirements to support contingency opera-
+tions, must be approved by the NMM. The NMP distributes sustainment maintenance workload across 
+non-depot activities  based on national need through a national requirements determination process. Im-
+plementation is the responsibility of the CG, AMC, with guidance and oversight by DCS, G  –  4 (Mainte-
+nance Directorate).  
+b.  National Maintenance Plan purpose.  
+(1)  Enhances  responsiveness to sustainment maintenance requirements generated during peacetime, 
+contingency, and wartime conditions by linking all levels of sustainment maintenance under the appropri-
+ate commodity command.  
+(2)  Implements the Army policy of repair as t he primary SOS.  
+(3)  Implements the highest published standard as the national standard and the single standard for 
+those items repaired and returned to the supply system.  
+(4)  Optimizes workload across existing maintenance capabilities and allows for red uctions in capital 
+investments to maintenance facilities and TMDE used in maintenance operations.  
+(5)  Develops and maintains a database of maintenance facilities, both organic and contract, and is re-
+sponsible for ensuring minimal redundancy of maintenanc e capabilities and capacities.  
+(6)  Ensures all repairs will be demand supported and based on Army requirements. The program will 
+not repair items in long supply.  
+(7)  Consolidates all sustainment maintenance workload in depots, on national maintenance con tracts 
+or at non -depot maintenance activities.  
+c.  Responsibilities.  
+(1)  The NMM is the focal point for all AMC  Integrated Materiel Management Center requirements and 
+for ensuring that the Army sustainment maintenance workload is based on national need. Responsibilities 
+include — 
+(a)  Ensuring that sustainment maintenance providers possess a documented quality manag ement sys-
+tem. 
+(b)  Ensuring that sustainment maintenance providers possess the facilities, tools, TMDE, skills, and 
+workforce required to meet the national standard.  
+(c)  Determining, in coordination with ACOMs, ASCCs, and DRUs, based on need, the non -depot activ-
+ities to be surveyed for qualified national provider qualification.  
+ 
+(d)  Balancing repair capacity, cost, and production schedules to meet total Army requirements, includ-
+ing requirements to support repair parts no longer in production and repair  parts for older equipment in 
+the Army inventory.  
+(2)  The AMC MSCs will have management responsibility to consolidate all maintenance requirements 
+and present them to the NMM, to technically certify sources of repair and to develop appropriate mainte-
+nance procedures to meet the Army standard.  

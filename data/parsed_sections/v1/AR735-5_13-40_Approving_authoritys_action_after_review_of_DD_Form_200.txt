@@ -1,0 +1,35 @@
+
+13–40. Approving authority’s action after review of DD Form 200
+a. Figure 13–14 shows the financial liability investigation processing steps from decision by the approving authority
+to receipt by the FAO and/or USPFO.
+b. When the approving authority determines the financial liability investigation or AR 15–6 investigation is incom-
+plete, or finds pertinent instructions have not been complied with, they will return the DD Form 200 to the financialliability officer or AR 15–6 investigating officer for further investigation. If an appointing authority was designated, theapproving authority will return the DD Form 200 through the appointing authority. The approving authority willspecify the additional data required using a memorandum.
+c. A financial liability officer may be relieved by the approving authority and a new financial liability officer
+appointed per paragraph 13–30.
+d. When the approving authority determines the DD Form 200 is complete, the approving authority will—
+(1) Adopt the recommendations of the financial liability officer or AR 15–6 investigating officer, and approve them
+by checking block 14a Approved box, DD Form 200, inserting a statement in block 14b to assess financial liabilityagainst an individual (see fig 13–2). Use a statement similar to the following: “Approved to hold (insert rank, name,and SSN) financially liable in the amount entered in block 15d.” Also enter the respondent’s rank, last name, and basicpay at the time of loss or damage and completing blocks 14b through 14h.
+(a) When the approving authority decides to approve collective and individual liability against two or more
+individuals, the following additional actions in paragraph (1): Since the data in blocks 16a through 16h allows only oneindividual to sign, it is necessary to prepare an added page. Using the added page, enter a statement similar to thestatement described in paragraph (1) identifying each individual being held financially liable and the amount offinancial liability being charged.
+(b) When the approving authority decides to approve to relieve all concerned from financial liability they will enter
+an “X” in block 14a approved box and make the following statement in block 14b: “All concerned are relieved fromfinancial liability for the loss or damage of the property listed on this financial liability investigation of property loss.”The approving authority will then complete blocks 14d through 14h.
+(2) Sample memorandum format for block 14b should read as follows:(a) DD Form 200, Block 14b continued, investigation of property loss WAH8AA–14–FA–055, ,
+$63,377.50.
+(b) Financial liability is assessed against CPT Doe for failure to properly provide equipment records. This one act
+ultimately ended in the loss of equipment because the equipment was issued and forgotten. CPT Doe’s rebuttal gave nofurther evidence to show who the equipment was issued or hand receipted to.
+(c) Approved to hold CPT Hugh Doe, SSN, financially liable for the amount of $4,149.30. CPT Doe’s monthly base
+pay is $4,149.30.
+(3) Make a decision contrary to the recommendations of the financial liability officer or AR 15–6 investigating
+officer to relieve all concerned from financial liability, to assess financial liability against a new individual, or waive orreduce the amount of financial liability assessed against a member or employee. The waiver to waive or reduce theamount of financial liability charged will be based on the approving authoritys review of all the pertinent information.When the approving authority’s decision is to relieve or waive financial responsibility, the respondent will be notifiedusing a memorandum (see fig 13–16).
+(4) The approving authority can overrule, when appropriate, the recommendations of the appointing authority and
+the financial liability officer. When this action results in the assessment of financial liability, the individuals notpreviously recommended for liability will be advised in writing of their rights and afforded an opportunity to exercisetheir rights.
+(a) To grant a waiver relieving all concerned of financial liability, place the following statement in block 14b, “I
+relieve all concerned of financial liability from the (damage, loss, or destruction) to the property listed in blocks 4through 6.” To reduce the amount of financial liability assessed place the following statement in block 14b. "To hold(name and grade of individual being assessed with financial liability) financially liable in the amount of ($ amount).Also enter the respondent’s rank, last name, and basic pay at the time of loss or damage.
+(b) The approving authority will clearly state the mitigating circumstances that justify waiving any or all financial
+liability in the comments and/or rationale (block 14b) or on a separate memorandum for record. If a separatememorandum is used, add the statement “See separate Memorandum for rationale of financial liability waiver” in thecomments and/or rationale (block 14b).
+(c) When the approving authority decides to relieve all concerned persons from financial liability, the approving
+authority will retain the original of DD Form 200 on file, and destroy the remaining copies. When the approvingauthority determines to assess financial liability, the approving authority will retain the original, send a copy to theFAO or USPFO, and provide each respondent with a copy.
+(d) For ARNG, all investigations will then be forwarded to the State USPFO who will serve as the final reviewing
+authority. The final reviewing authority cannot be delegated to other than the USPFO. In cases of personal conflict,general officer, or State liability, the final reviewing authority is the DARNG or the designated representative, who alsoacts as the appointing and approving authority.
+Figure 13–14. Financial liability investigation processing steps from assessment of financial liability to receipt at FAO and/o r
+USPFO

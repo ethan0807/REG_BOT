@@ -1,0 +1,124 @@
+
+6–13.  Maintenance training aircraft  
+a.  General.   Maintenance training aircraft, these are aircraft employed for ground  technical training that 
+do not require airborne operations. Training aircraft are further classified as follows:  
+(1)  Category A.   Aircraft that can be returned to flyable status through minimum maintenance and mod-
+ification. This category covers aircraft assigned on a temporary basis not to exceed 365 days to meet 
+special training requirements. Extensions may be granted by AMCOM.  
+(2)  Category B.   Aircraft that is capable of ground operation if all components are installed. Category B 
+aircraft can be returned to flyable status by sustainment rebuild or overhaul.  
+(3)  Maintenance training airframes.   Retired and condemned aircraft used to train maintenance per-
+sonnel. Aircraft in this category are retired or have been damaged or deteriorated beyond the MEL estab-
+lished in TB 43  –  0002  –  3. Classification to maintenance training airframe status results in the aircraft being 
+permanently grounded. Maintenance training airframes will be reported on DA Form 1352 (Army Aircraft 
+Inventory, Status and Flying Tim e). 
+(4)  Maintenance parts task trainers.   These are portions of condemned aircraft (such as the cockpit, 
+tail boom or cabin section) used to train Soldiers on maintenance tasks. They are not reportable on DA 
+Form 1352.  
+(5)  Maintenance training devices.   Aeronautical equipment other than Category A or Category B air-
+craft or maintenance training airframes that are used to facilitate aircraft maintenance training. Items in 
+this category range from uninstalled elements to mockups of major assemblies or funct ional groups.  
+b.  Training aircraft responsibilities.  
+(1)  Commander, AMCOM will — 
+(a)  Provide aircraft for use as maintenance training aircraft based upon known requirements and as 
+directed by AMC.  
+(b)  Submit recommendations through AMC to the DCS, G  –  4 (Maintenance Directorate) for approval to 
+classify and reclassify aircraft for maintenance training.  
+(c)  Control current inventory of all maintenance training aircraft and distribute maintenance -training air-
+craft to meet training requirements.  
+(d)  Provide required repair parts support and MWO kits for Category A and Category B maintenance 
+training aircraft to the full extent required to complete maintenance.  
+(e)  Provide required repair parts support for maintenance training that will ensure accomplishment of 
+the training mission. Serviceable high -dollar value items (for example, engines, transmissions, rotor 
+blades, and propellers) are not authorized except when approved by AMCOM.  
+(f)  Develop funding requirements f or resourcing repair of crash -damaged aircraft for use as mainte-
+nance trainers.  
+(g)  Provide training activities with unserviceable or crash -damaged components as they become avail-
+able.  
+(2)  CG, FORSCOM; CG, TRADOC; major overseas commanders; and CNGB  will— 
+(a)  Present projected FY consolidated requirements for maintenance training aircraft, maintenance 
+trainers, components, and test equipment. Institutional training equipment requirements for the subse-
+quent FY will be obtained from annual requireme nts presented to the DCS, G  –  3/5/7 in May and/or June 
+each year.  
+(b)  Receive, evaluate, and provide command approval or disapproval of all requests for maintenance 
+training aircraft received from subordinate activities.  
+(c)  Ensure that all maintenance training aircraft assigned to subordinate activities are maintained under 
+this regulation.  
+(d)  Prior to repairs being accomplished, determine if crash -damaged aircraft or aircraft that is not eco-
+nomically feasible to repair can be exchanged for Category A  or Category B aircraft already assigned to a 
+training activity.  
+(3)  Commanders of activities possessing maintenance training aircraft will — 
+(a)  Maintain maintenance -training aircraft as prescribed herein.  
+(b)  Report to AMCOM all excess maintenance tra ining aircraft.  
+ 
+(4)  Provide monthly reports of all maintenance training aircraft in their possession on DA Form 1352 in 
+accordance with AR 700  –  138. 
+c.  Maintenance policy.  
+(1)  Category A aircraft will be maintained in accordance with applicable publications to a standard so 
+that the aircraft can be returned to a completely operational flight status by the ASB within 60 working -
+days. Category A aircraft should meet transfer serv iceability standards outlined in TM 1  –  1500  –  328  –  23 
+prior to shipment to or from a designated training activity.  
+(2)  Configuration control of Category B maintenance training aircraft will be maintained through incor-
+poration of all applicable MWOs an d, to the extent possible, ensure that training is consistent with the 
+field operational aircraft systems. All systems and/or components required for program of instruction will 
+be maintained operational and updated in accordance with the latest applicable  MWOs. Removal and 
+turn-in of systems and/or components not required for program of instruction may be approved by 
+AMCOM. Category B aircraft and components will be maintained so they can be returned to flight opera-
+tional status by sustainment overhaul o r repair. Aircraft transfer standards are not mandatory for transfer 
+to sustainment or any activity authorized the use of Category B aircraft.  
+(3)  Serviceable components and/or systems not covered in paragraph  6–13d(1)  will be preserved and 
+periodically inspected, operated in accordance with appropriate TMs, and re -preserved.  
+(4)  Components of maintenance training airframes that are not required for training purposes should 
+be removed and returned to susta inment through normal supply channels. DD Form 1577  –  2 will be at-
+tached to each item. Disposition is in accordance with AR 710  –  2. 
+(5)  AMCOM  authorizes the control, classification, and reclassification of aircraft defined as mainte-
+nance training aircraft.  
+(6)  A predetermined quantity of aircraft will be assigned to TRADOC as maintenance training aircraft to 
+satisfy initial distribution requi rements. Total requirements will be satisfied by subsequent phased deliver-
+ies as aircraft become available from production or from the operational fleet.  
+(7)  Category A and Category B maintenance training aircraft and aircraft designated as maintenance 
+training airframes will be reported on DA Form 1352 in accordance with AR 700  –  138. 
+(8)  Uneconomically reparable, crash -damaged, or retired aircraft may be used, when economically fea-
+sible, as a source for maintenance training airframes that will, whenev er possible, be used as a replace-
+ment for Category A and Category B maintenance training aircraft and then be made available for return 
+to flyable status, should a requirement exist. Any item removed from a crash -damaged aircraft for reuse 
+will meet the cr iteria established by paragraphs 6  –  9 and 6  –  10. Final airframe classification will be made 
+by AMCOM using TB 43  –  0002  –  3. 
+(9)  Category A and Category B maintenance train ing aircraft that are no longer required will be re-
+ported to HQ, TRADOC. HQ, TRADOC will report excess maintenance training aircraft to HQ, AMCOM.  
+(10)  Maintenance training airframes and devices that are no longer required will be reported to HQ, 
+TRADOC. Excess maintenance training airframes and devices will be reported by HQ, TRADOC to 
+AMCOM for disposition instructions.  
+(11)  Categories assigned to  maintenance training aircraft will not be re -designated without AMCOM 
+approval.  
+(12)  Aircraft items recorded on DA Form 2408  –  17 (Aircraft Inventory Record), when not required for 
+training purposes on Category B maintenance training aircraft, will be returned to stock using normal sup-
+ply procedures.  
+d.  Controlled exchange.  
+(1)  Controlled exchange of serviceable components from Category A and Category B maintenance 
+training aircraft to any flyable aircraft is authorized. These components must be deter mined serviceable or 
+economically reparable by a qualified inspector and must be of proper configuration and have all modifi-
+cations applied. The component or assembly removed from a Category A or Category B maintenance air-
+craft will be replaced with a like  component. These actions must receive concurrence from AMCOM.  
+(2)  Controlled exchange of components from maintenance training airframes or maintenance training 
+devices may be made only between other maintenance training airframes or maintenance training  de-
+vices. Removal or installation of components listed in TB 1  –  1500  –  341  –  01 will call for the submission of 
+DA Form 2410 (Component Removal/Repair/Install/Gain/Loss Record) in accordance with DA Pam 
+738  –  751 and TM 1  –  1500  –  328  –  23. 
+(3)  Accountability of demands/consumption will be maintained in the unit shop stock for controlled ex-
+change transactions.  
+ 
+e.  Maintenance of equipment record folder.  
+(1)  Equipment logbooks and historical records will be maintained in accordance with DA Pam 7 38  –  751 
+and TM 1  –  1500  –  328  –  23 for all training aircraft, maintenance training airframes, and maintenance training 
+devices.  
+(2)  Ground operating time will be recorded on DA Form 2408  –  13 (Aircraft Status Information Record). 
+A combination of fligh t time and ground run time will be used to determine time change requirements. Re-
+quests for time change extensions of components on ground -run aircraft will be submitted to AMCOM for 
+disposition.  
+(3)  DA Form 2408  –  18 (Equipment Inspection List) inspect ions are required on Category A and Cate-
+gory B aircraft unless a waiver is granted by AMCOM.  
+Chapter 7  
+Maintenance of Watercraft and Rail Equipment  
+Section I  
+Watercraft  

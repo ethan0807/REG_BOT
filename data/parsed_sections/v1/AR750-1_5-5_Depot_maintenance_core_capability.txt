@@ -1,0 +1,41 @@
+
+5–5.  Depot maintenance core capability  
+a.  Core is a capability maintained within DoD organic depots, Software Engineering Centers ( SECs), 
+and Software Engineering Directo rates to meet readiness and sustainability requirements of the Army 
+weapon systems that support the Joint Chiefs of Staff ( JCS) contingency scenario(s). The MATDEV must 
+develop the capability to repair new weapon systems identified as requiring core logi stics capability at 
+GOGO facilities. For hardware, a core capability must be established at a GOGO facility within 3 years 
+after the new weapon system achieves an initial operational capability. For software, core capability (in-
+cluding software data righ ts to intellectual property) must be established the year after a software incre-
+ment production is complete (a system production line may have multiple increments). Core depot 
+maintenance capabilities will comprise only the minimum facilities, equipment, a nd skill personnel neces-
+sary to ensure a ready and controlled source of technical competence to effectively respond to a mobili-
+zation, national defense contingency situation, or other emergency requirement.  
+b.  The core logistics workload required to maintain a core logistics capability must be performed at 
+GOGO facilities of a military department. Performance of core logistics workload will not be contracted out 
+to non -Government personnel, which includes contr actors working in Government depots, as the intent of 
+core depot maintenance is to ensure the Government possesses the organic competencies to sustain 
+Army equipment to be able to respond to military mobilization, contingencies, and other emergencies.  
+c.  Weapon systems, equipment, components, and/or software designated as mission essential, but not 
+needed to sustain core capability, may be maintained in the private sector if the required capability can be 
+provided with acceptable risk, reliability, and eff iciency.  
+ 
+d.  DCS, G  –  4 (Sustainment Maintenance Division) in coordination with DCS, G  –  3/5/7 and AMC will use 
+the DoD standard methodology in DA Pam 750  –  1 to determine required depot maintenance core capabil-
+ities and the workload needed to sustain  these capabilities on a biennial basis.  
+e.  Core capabilities and the workload required to support these capabilities will be reviewed every 2 
+years or more frequently, as required.  
+f.  The core logistics analysis and applicable core depot analysis will b e conducted in accordance with 
+AR 700  –  127. 
+g.  The PMs are encouraged to develop Joint Government and industry relationships known as depot 
+partnering arrangements for accomplishing depot maintenance. A decision to solicit industry for the per-
+formance of work that includes depot maintenance or repair of weapon systems and/or equipment, the 
+solicitation should include language requiring public -private partnerships. Performance based product 
+support strategy ( PBPSS) implementation strategies will include  public -private partnerships to satisfy the 
+requirements of 10 USC 2464 or 10 USC 2469, as applicable, and the solicitation for a PBPSS will in-
+clude language requiring partnership with an organic entity for core (and potential noncore) workload. The 
+benefits of depot partnering to the Government include the following:  
+(1)  Increased productivity.  
+(2)  Reduced cost.  
+(3)  Reduction in excess infrastructure.  
+(4)  Improved responsiveness to the warfighter.  

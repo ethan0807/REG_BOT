@@ -1,0 +1,52 @@
+
+2–10. Appointment of an accountable officer
+An accountable officer will be appointed in writing. The appointing authority will be the commander or the head of the
+activity for which the property records are being maintained. The commander or TDA activity head may designate inwriting a representative to appoint the PBO or accountable officer. The designated representative may be a DODcommissioned officer or a DOD civilian manager.
+a. The three types of accountable officers are—
+(1) A transportation officer, who is accountable for property entrusted to them for shipment.(2) A stock record officer, who is accountable for supplies being held for issue from time of receipt until issued,
+shipped, or dropped from accountability.
+(3) A PBO, who is accountable for property at the using unit level on receipt and until subsequently turned in, used
+(consumed) for authorized purposes, or dropped from accountability. (Hand receipt holders are not accountableofficers.)
+b. An accountable officer supervises the preparation, maintenance, and management of the document and/or voucher
+registers, regardless of the physical location of the registers.
+c. An accountable officer may be—
+(1) Any DOD commissioned officer or warrant officer. (Army National Guard (ARNG) officers must be federally
+recognized.) Brigade and battalion commanders appointing PBOs will ensure the appointee is familiar with all supplydirectives issued from higher headquarters.
+(2) A DOD civilian employee, general schedule (GS)–07 or above, if determined by the appointing official to be
+properly qualified.
+(3) A DOD enlisted person, in the grade of E–5 or above, when appointment is approved by the ACOM, ASCC, or
+DRU commander or the head of a HQDA agency, when personnel cited in paragraph 2–10 a(1) or 2–10 b(2) are not
+available. Within the ARNG, the unit supply sergeant will not be the PBO unless a traditional M-day officer is notassigned to the unit.
+(4) An ARNG military technician employed under 32 USC 709, who—(a) When assigned to a modification table of organization and equipment (MTOE) unit, meets the criteria of
+paragraph 2–10 c(1) or 2–10 c(3) based on their status as a unit member.
+(b) When assigned to a TDA activity, meets the criteria of paragraph 2–10 c(2) based on their technician status.
+ARNG military technicians appointed as PBOs in MTOE type organizations will not be appointed as a PBO in a TDAactivity simultaneously.
+(5) Foreign national employees of the Army, in overseas areas when approved by the ACOM, ASCC, DRU, or the
+command two levels above the organization for which the accountable officer is appointed and does not apply toaccountable records maintained for communications security (COMSEC) equipment or controlled cryptographic items(CCIs) and cryptographic high value property (CHVP). COMSEC custodians maintaining accountable records forCOMSEC equipment must be U.S. citizens per AR 380–40. Foreign nationals may not act as PBOs for COMSEC,CCI, or CHVP. Storage facilities that employ foreign nationals as PBOs are not approved for storage of CHVP, CCI,or COMSEC materiel.
+d. Persons will not perform the functions of stock record officer (SRO), PBO, transportation officer (TO), General
+Services Administration (GSA) Smart Pay Purchase Card ordering officer, or blanket purchase agreement orderingofficer duties simultaneously. As an exception, PBOs within U.S. Military Entrance Command (USMEPCOM) mayperform duties as an ordering officer simultaneously. The following limitations apply:
+(1) Purchases made by the ordering officers using the GSA Smart Pay Purchase Card are limited to $3,000 per
+transaction.
+(2) There must be a primary and an alternate ordering officer designated. The primary will be the activity PBO and
+the alternate will be the activity budget accounting assistant.
+(3) Ordering officers must complete the 8–hour cardholder-training program before transacting any purchases.(4) The identity of the item(s) to be purchased, the authorization for the item(s), and the unit cost must be
+documented in accordance with USMEPCOM standard operating procedures (SOP). The ordering officer, the supportgroup supervisor, and the activity commander must see SOP on requirements before purchases are made.
+(5) The receipt of the supplies and equipment must be documented in accordance with the USMEPCOM SOP by a
+receiving official other than the ordering officer.
+(6) Purchased items similar to those items coded nonexpendable contained in Federal Logistics Record (FEDLOG)
+are considered nonexpendable property and will be accounted for on property book records in accordance with AR
+710–2.
+(7) A copy of the credit card purchase receipt attached to the completed in accordance with USMEPCOM SOP will
+be provided to the supporting stock record officer within 72 hours of receipt per paragraph 6–3.
+e. At the direction of the commander or head of activity, an accountable officer may when conditions dictate,
+exercise accountable officer functions over more than one stock record account. The appointing authority will exercisedue diligence to ensure that the accountable officer is not assigned stock record accounts beyond a reasonable span ofcontrol that would preclude the accountable officer from being able to meet the terms of their responsibilities as anaccountable officer.
+f. Accountable subsistence sales officers are appointed under AR 30–22.
+g. Normally, an accountable officer will not be assigned duties that will remove or separate them from their property
+account for an extended period of time. In the event an accountable officer is assigned duties that will separate themfrom their accountable officer’s duties for a period of 30 calendar days or longer, an interim or replacementaccountable officer will be appointed. The procedures for transfer of accounts in chapter 5 will apply.
+h. Within U.S. Army Reserve (USAR) units—
+(1) Commanders appointing PBOs will ensure the appointee is familiar with all supply directives issued from higher
+headquarters.
+(2) Active Guard, Active Reserve, and/or Active Army commissioned or warrant officers assigned may be appointed
+as the PBO.
+(3) The position of USAR center commander is an additional duty over and above the responsibilities of a unit
+commander. As such, the USAR center commander may appoint a PBO or designate a primary hand receipt holder forthe center’s property.

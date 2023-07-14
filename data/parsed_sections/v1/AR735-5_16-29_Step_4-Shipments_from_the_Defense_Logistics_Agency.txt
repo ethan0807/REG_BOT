@@ -1,0 +1,4 @@
+
+16–29. Step 4–Shipments from the Defense Logistics Agency
+DD Form 361s initiated for shipments from DLA stock fund according to paragraph 16–13 (step 3) will be processed
+in step 4 in the same way as the other Army DD Form 361 except for accounting classification shown on the DD Form361. Change the citation shown in DD Form 361 to that of the Defense stock fund (according to DFAS–IN Regulation37–1) 97X4961.5XX, replacing the XX with the proper activity code of the Defense Logistics Center that initiated theshipment. This requirement applies to all DLA transportation discrepancies including those amounting to less than$100 per line item.

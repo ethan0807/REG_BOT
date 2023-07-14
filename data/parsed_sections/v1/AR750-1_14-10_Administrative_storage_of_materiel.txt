@@ -1,0 +1,25 @@
+
+14–10.  Administrative storage of materiel  
+a.  Administrative storage is the placement of materiel in a limited care and preservation status for short 
+periods of time. This applies to MTOE and TDA units. The policy for administrative storage of TDA equip-
+ment is in AR 71  –  32. Procedures for the adm inistrative storage of materiel can be found in DA Pam 
+750  –  1. 
+b.  ACOM, ASCC, and DRU commanders responsible for administrative storage will — 
+(1)  Furnish assistance to commanders as required in carrying out an administrative storage program.  
+(2)  Monitor the status of materiel in administrative storage in their commands.  
+(3)  Designate an installation representative to conduct a command -level review of administrative stor-
+age at 6 month intervals to reassess and revalidate the requirement.  
+(4)  Forwar d results of these reviews, with appropriate recommendations, to the DCS, G  –  4 (Mainte-
+nance Directorate) when circumstances are beyond the capability of the ACOM, ASCC, and DRU com-
+mander to resolve.  
+c.  Equipment in administrative storage will have al l major subsystems exercised as directed by appli-
+cable TMs. Any faults detected will be corrected. The materiel will then be completely reprocessed as di-
+rected by applicable TMs if it is to be returned to administrative storage.  
+d.  Before equipment is placed in administrative storage, it must meet the maintenance standard out-
+lined in paragraph 3  –  3 and DA Pam 750  –  1. 
+e.  Equipment in administrative storage is accounted for in accordance with AR 710  –  2; asset reports 
+are submitted under AR 710  –  3 and materiel condition status reports under AR 220  –  1 and AR 700  –  138. 
+f.  Administrative storage of aircraft will be considered in the same category as short -term storage and 
+accomplished in a ccordance with the applicable TM. In no case will aircraft remain continuously in admin-
+istrative (short -term) storage for more than 45 days. At the end of that time, aircraft will be restored to an 
+FMC status or placed in intermediate storage up to, but not exceeding, 180 days.  

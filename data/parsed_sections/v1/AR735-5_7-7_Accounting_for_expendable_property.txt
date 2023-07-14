@@ -1,0 +1,38 @@
+
+7–7. Accounting for expendable property
+a. Accounting for expendable property before issue to the user is the same as accounting for durable and nonexpen-
+dable property.
+b. Expendable property authorized by an MTOE or TDA and deployable or augmentation property authorized by a
+CTA will be accounted for on property book records, no matter the ARC (including all types of munitions).
+c. All other expendable property is considered, for accounting purposes, to be consumed upon issue; consequently,
+no formal accounting of expendable property is required after issue from the SRA level, to the user level.
+d. Some items, although classified as expendable, are of such a nature as to require additional supply and issue
+controls. Such controls, when needed, will be prescribed by the national item manager. Examples are shown below.
+(1) Expendable items, component assemblies, repair parts, and accessories identified as recoverable or pilferable
+items (see AR 710–2).
+(2) Drugs identified by The Surgeon General (see AR 40–61).(3) Undenatured alcohol and alcoholic liquors (see AR 40–61).(4) Food items at the dining facility level (see AR 30–22).(5) Bulk fuels (see AR 710–2).(6) Subsistence drawn for training (see CTA 50–970 and AR 30–22).(7) When expendable tools are issued to the user, issues will be controlled and responsibility assigned by using hand
+receipt, component hand receipt, tool room, or tool crib procedures (see AR 710–2).
+(a) Expendable components of sets, kits, and outfits (SKO) and end items will be controlled using component hand
+receipts when SKO and/or end items are issued to the user level.
+(b) Expendable hand tools issued by a tool room and/or tool crib become the personal responsibility of the recipient.
+The recipient is responsible for the return of the hand tool(s) to the tool room and/or tool crib.
+(c) When expendable hand tools are issued outside a tool room environment or not as a component of SKO or end
+items, the recipient will acknowledge receipt in writing. Receipt may be a log or other locally developed method.Receipt will be retained for 2 years before being destroyed. These tools will be turned in upon the individual’sdeparture.
+(8) Facilities engineering supplies (see AR 405–45).(9) Radio frequency tags (see AR 710–2).e. Items issued for the purpose of destructive testing and experiments will be accounted for as expendable property.
+These include items that are issued to—
+(1) An Army activity or a Government laboratory for use in tests or experiments that will cause the items to be
+destroyed, made useless, or undergo identity change.
+(2) An Army activity for use as training aids, devices, or displays that will be consumed in training, with the
+understanding that when the items are no longer needed they will be disposed of under current supply procedures.
+f. Private firms likely to become manufacturers of supplies or equipment, or to perform services under a contract
+with the Army, may be issued free samples on approval of procuring activity. Such items will be accounted for as
+expendable property (see DODI 4140.57).
+(1) All items will be credited to the SRA on issue and no further accounting will be required.(2) Written authority for the transfer will be filed with a valid credit voucher. Any of the following is considered a
+valid credit voucher:
+(a) Receipt from a commercial carrier or transportation agency.
+(b) Certificate signed by the accountable officer showing the date and place items were mailed.
+(c) Receipt from an authorized representative of the private firm or organization.
+g. Fabricated items described in paragraph 7–6 f will be accounted for as expendable property. However, a control
+point will be established for fabricated items earmarked for reuse. Before fabricating a new item, a check of the controlpoint for a like item already on-hand will be made.
+Chapter 8
+Deviations From and Waivers to Property Accounting Policy and Procedures

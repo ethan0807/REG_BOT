@@ -1,0 +1,9 @@
+
+13–5.  Interactive Authoring Display Software  
+PMs will use interactive authoring display software ( IADS) to simplif y and expedite maintenance of ETMs 
+and IETMs. The IADS  viewer will be used to support the high functionality requirements of simple and 
+complex systems such as aircraft, ground combat systems and all other Army systems/equipment utilizing 
+ETMs and IETMs. Effective First Quarter, FY24, IADS will be the only  authorized viewer for all ETMs and 
+IETMs.  
+Chapter 14  
+Maintenance Programs  

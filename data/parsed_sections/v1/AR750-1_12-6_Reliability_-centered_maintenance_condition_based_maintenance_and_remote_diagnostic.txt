@@ -1,0 +1,18 @@
+
+12–6.  Reliability -centered maintenance, condition based maintenance, and remote diagnostic 
+assessment  
+a.  All organizations and activities that are responsible to plan for acquisition of equipment used in the 
+medical environment are responsible t o address and comply to the extent possible, with the following ele-
+ments:  
+(1)  Application of the RCM process from inception of the requirement, during acquisition, and develop-
+ment of maintenance support strategies, to procurement, and deployment, leads t o a maintenance pro-
+gram that uses the limited resources of parts and personnel effectively to limit equipment downtime and 
+failure on critical items while allowing tolerable risk on systems that are not as critical.  
+(2)  RCM is the foundation for CBM/ PPMx. The incorporation of diagnostic and prognostic systems of 
+CBM/ PPMx into the equipment creates a shift from performing scheduled services to an analytical pro-
+cess that discloses degradation of product performance before failure.  
+(3)  Research, develop ment, and acquisition is a program and capability that allows remote access, in-
+terrogation and corrective actions to medical devices and equipment via internet protocol or by direct con-
+nection to on -the-ground diagnostic equipment.  
+b.  These capabilities a re described collectively as a single logistics operational environment under the 
+Common Logistics Operating Environment Program.  

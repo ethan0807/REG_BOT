@@ -1,0 +1,16 @@
+
+4–24.  Classified communications security  
+All proposals for cont ract maintenance support of classified COMSEC and/or signals intelligence 
+(SIGINT) and electronic warfare ( EW) equipment must undergo an assessment of risks to national secu-
+rity prior to using commercial maintenance sources. The National Security Agency  (NSA) must conduct 
+this special risk assessment. The proposal, including PWS with additional information identifying the 
+COMSEC and/or SIGINT and EW equipment, density supported, and levels of maintenance to be per-
+formed, should be submitted through DCS, G  –  3/5/7 (DAMO  –  C4T), 400 Army Pentagon, Washington, DC 
+20310  –  0400, to Director, NSA (S  –  04), Fort Meade, MD 20755  –  6000. Classified equipment not under 
+NSA cognizance being considered for maintenance support contracts to contractors other than OEMs will 
+be given an assessment of risk as prescribed above. Approval by HQDA is required prior to contract 
+ 
+award. In the event of approval from NSA and/or HQDA, then the provisions of chapter 4  apply to further 
+processing.  
+Section V  
+Inter -Service Maintenance Support  

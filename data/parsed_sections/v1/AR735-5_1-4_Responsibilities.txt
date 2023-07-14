@@ -1,0 +1,16 @@
+
+1–4. Responsibilities
+a. The Deputy Chief of Staff, G–4 (DCS, G–4) will ensure all detailed property accounting policy and procedures
+developed for specific materials or situations comply with this regulation. The DCS, G–4 is responsible for thedevelopment, supervision, and implementation of automatic identification technology (AIT) applications pertaining toproperty accounting policy and procedures.
+b. Commanders of ACOMs, ASCCs, DRUs, and commanders of U.S. Army Installation Management Command
+(IMCOM) regions authorized to develop specific commodity, or command unique property, accounting policies, andprocedures will ensure they comply with the policies and procedures prescribed by this regulation.
+c. Brigade and battalion commanders and equivalent-level commanders in a table of distribution and allowance
+(TDA) environment will develop and implement oversight management over—
+(1) Financial liability investigations of property loss (see para 13–20 b).
+(2) Damage statements (see para 14–18 b(2)(a)).
+(3) Inventory adjustment reports (see paras 14–34 b).
+d. Commanders at all levels will—
+(1) Ensure compliance with all policies and procedures prescribed by this regulation that apply to their command.(2) Implement a command supply discipline program.(3) Ensure available AIT such as bar code, 2D bar code, optical memory cards, radio frequency identification device
+tags, contact buttons, satellite tracking, or electronic signature capability are fully integrated into all Governmentproperty management and accountability functions (such as, receipt, store, inventory, issue, and ship). AIT utilizationapplies to both formal and informal property accounting.
+e. Developers of standard and unique automated supply systems will ensure all systems contain the essential
+elements of data, and are in compliance with the policies contained herein. Computer-generated supply forms specifiedin prescribed forms section of this regulation must be understood by the supply level using and receiving the forms.Guidance pertaining to the forms approval process is contained in AR 25–30. Computer-generated forms approved bythe proponent will replace or will be used instead of the manually prepared forms.

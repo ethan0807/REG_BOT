@@ -1,0 +1,36 @@
+
+4–7.  Maintenance expenditure limit  
+a.  MEL is the total acceptable one -time cost to repair an end item or reparable component to a fully 
+serviceable condition as prescribe d in the appropriate TM. Current MELs and MEL procedures are listed 
+in DA Pam 750  –  1, the TB 43  –  0002 series, TB 750 -series, and Materiel Master/ Federal Logistics 
+(FEDLOG) or Web Federal Logistics Information System ( WebFLIS). The managing nationa l inventory 
+control point ( NICP) should be contacted if unsure of the current MEL. There may be instances when the 
+MEL for a major end item has changed, and the change has not yet posted in either TB 43  –  0002 series 
+or the TB 750 series.  
+(1)  MEL is t o be used to ensure economic and operational effectiveness of Army maintenance at all 
+levels. Request disposition instructions through the decision support tool ( DST), in accordance with 
+ACOM, ASCC and/or DRU policy, for equipment that exceeds the MEL. Depot -level assistance may be 
+obtained through the logistics assistance office.  
+(2)  Required repairs will not be broken into separate job estimates to bypass prescribed MELs.  
+b.  MEL will be expressed as a percentage of the Army master data file/unit replacement price.  
+(1)  MEL will be reviewed at least annually and updated as required.  
+(2)  MELs will be established for all items except the following:  
+(a)  Materiel procured with non -appropriated funds.  
+(b)  Installed building equipment ( IBE) as defined in AR 420  –  1. 
+(c)  Non-type classified training devices used exclusively by training institutions and schools.  
+(d)  Non-type classified equipment and items of nonstandard materiel that do not require national level 
+materiel management or logistics support.  
+ 
+(e)  Materiel exempt from type classification.  
+(f)  Class V materiel.  
+c.  For mandatory procedures relating to MEL see DA Pam 750  –  1. 
+d.  ACOM, ASCC, and DRU comman ders have one -time approval authority on requests for waiver of 
+published MEL when the required maintenance can be accomplished at field and/or sustainment level 
+maintenance or by local contract.  
+e.  One-time approval authority is limited to a specific model or serial numbered major end item. In ap-
+proving such requests, commanders will ensure the following:  
+(1)  A replacement item is not available by the required delivery date.  
+(2)  Resources are available or can be made available to the request ing organization to do the repairs 
+prior to the required delivery date.  
+(3)  Requesting organizations develop a repair cost estimate and justification for retention.  
+(4)  Requests will not exceed the DA Form 7723 (Maintenance Expenditure Limit ( MEL) Waiv er) ceiling.  

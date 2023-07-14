@@ -1,0 +1,48 @@
+
+14–2.  Army Oil Analysis Program  
+a.  The objectives of the AOAP are to improve OR of Army equipment, enhance safety, detect impend-
+ing component failures, and conserve petroleum resources through application of the on condition oil 
+change ( OCOC) policy. AOAP  monitors lubricants for the presence of contaminants, abrasive part wear, 
+and review of prescribed physical properties and consolidates analytical data in support of diagnostic 
+and/or prognostic maintenance processes.  
+b.  Program policies.  
+(1)  The AOAP PM manages the Army’s oil analysis program. Enrollment in the AOAP is mandatory for 
+all Army aircraft, combat vehicles, watercraft, and locomotives unless the DCS, G  –  4 approves the excep-
+tion. Selected non -aeronautical equipment may be enrolled in the AOAP on a case -by-case basis when 
+resources are available. For a list of equipment and components enrolled in the AOAP, see TB 43  –  0211 
+or the Army Enterprise Portal https://enterprise.armyerp.army.mil . 
+(2)  AOAP daily operations and capabilities will be executed between the laboratory and the customer 
+unit. 
+(3)  Field maintenance units must promote and use OCOC as recommended by the AOAP to the high-
+est exte nt possible. If OCOC is not followed, reasons for not doing so must be provided to the ACOM, 
+ASCC, and DRU for approval and subsequently coordinated with the AOAP Program Management Of-
+fice. OCOC eliminates unnecessary changing of component oil based on a schedule of hard -time inter-
+vals, as currently specified by lubrication order ( LO). The OCOC policy does not replace or modify proce-
+dures for equipment under manufacturer's warranty.  
+c.  ACOMs will — 
+ 
+(1)  Ensure subordinate commands participate in the AOAP.  
+(2)  Coordinate all requirements for lubrication analytical devices and/or instrument procurements with 
+ASC PM AOAP.  
+(3)  Ensure resources are available for the winterization of equipment being trans ferred to geographic 
+regions where temperatures from -25 Fahrenheit to -60 Fahrenheit are likely.  
+(4)  Ensure each organization owning enrolled equipment appoints an AOAP monitor who will ensure 
+that subordinate units — 
+(a)  Implement AOAP procedures with in the command.  
+(b)  Ensure AOAP monitors are trained by the supporting AOAP laboratory staff or through a training 
+program approved by the PM AOAP.  
+(c)  Ensure AOAP enrolled equipment and component oil samples are submitted to the regional oil 
+analys is laboratory.  
+(d)  Ensure personnel are properly trained in AOAP procedures.  
+(e)  Ensure subordinate units record a laboratory -identified deficiency in equipment maintenance rec-
+ords. Units will notify the laboratory, on DA Form 3254  –  R (Oil Analysis Re commendation and Feedback), 
+within 5 days of maintenance action taken.  
+(f)  Ensure units incorporate AOAP processes in local SOPs.  
+(5)  Incorporate QA provisions and technician qualification required by the AOAP PWSs  in the state-
+ment of work used in solicitation documents for contract operation of AOAP laboratories. Contracting of-
+ficers reviewing vendor proposals for AOAP laboratory operation will be required to obtain PM AOAP 
+technical review and approval prior t o acceptance of the proposal.  
+(6)  Sustain the mobile AOAP laboratories upon arrival in the ASCC area of operation based on DCS, 
+G  –  3/5/7 approval of deployment.  
+d.  For AOAP procedures see DA Pam 750  –  8 and DA Pam 738  –  751. Laboratory products an d services 
+are identified in TB 43  –  0211.  

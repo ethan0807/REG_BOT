@@ -1,0 +1,59 @@
+
+15–2. Policy
+Except as indicated below, the following policy applies to ASDAs and to U.S. Joint Munition Command site, arsenals,
+supply depots, maintenance depots, and other storage activities (such as, prepositioned afloat ships). The depot willprepare an DA Form 444 for all losses not resolved by causative research at the ASDA. Table 15–1 gives the criteriafor causative research.
+a. Exceptions to this criteria are as follows:
+(1) Losses of controlled items that require an AR 15–6 investigation.(2) Losses for which negligence or willful misconduct is known or suspected. A DD Form 200 is required in these
+cases.
+(a) For weapons and ammunition (see AR 190–11).
+(b) For COMSEC material (see AR 380–40).
+(3) Losses for which the accountable property officer (ACTPO) believes the DA Form 444 prepared by the depot
+does not adequately explain the loss. In these cases the ACTPO may require a DD Form 200 instead of an DA Form444.
+(a) DA Forms 444 must be prepared by depots for all losses identified by error cause codes 8Y and 8Z, when
+causative research at the ASDAs result in no conclusive findings.
+(b) When losses are equal to, or less than the dollar values specified in table 15–1, the ACTPO may request an DA
+Form 444 from the depot as an exception, if enough justification exists. The ACTPO always has the option ofrequesting a financial liability investigation of property loss if the DA Form 444 does not explain the loss adequately.
+b. The ASDA will prepare an DA Form 444 for all other adjustments that—
+(1) Do not require causative research.
+(2) Result in a conclusive finding from causative research.(3) Result in no conclusive finding from causative research, but are below the dollar value thresholds in table 15–1.c. The approving authority will appoint financial liability officers for financial liability investigations of property
+loss. Within the AMC national supply system the approving authority may require the respective depot commander toappoint a financial liability officer from depot personnel resources. The depot commander may delegate administrativerequirements; however, the depot commander must sign the proper blocks reserved for the appointing authority. Theappointing authority actions on DD Form 200, blocks 13a through 13h, will be taken at the depot.
+d. The commander of the ASDA may designate the Director of Materiel Management, or equivalent as the financial
+liability investigation of property loss approving authority, provided the individual filling the position is an Armyofficer in the grade of colonel or above, or a DA civilian employee in a supervisory position, in the grade of GS–15 orabove. If the Director of Materiel Management does not meet the criteria discussed above, the first individual in thechain of command who qualifies will be the approving authority.
+e. A military officer in the grade of brigadier general or above at the ASDA will act as the appeal authority for
+financial liability investigations of property loss.
+f. To ensure the proper working of the financial liability investigation of property loss system, the depot commander
+will take action including, but not limited to the following:
+(1) Appoint one of the persons cited in paragraph 13–27 as the financial liability officer.(2) The ASDA and depot commanders will ensure complete and accurate entries in the following blocks of DD
+Form 200:
+(a) Block 9. (Circumstances under which property was (X one)).
+(b) Block 15a. (Findings and Recommendation).
+g. Depot commanders will assign a reviewing authority for national assets stored at their depot.
+h. The Director or Deputy Director of Materiel Management at ASDAs will be designated as the DA Form 444
+approving authority.
+i. In all instances when the loss of COMSEC and/or CCI material is discovered, the reporting requirements in AR
+380–40 and TB 380–41 (as applicable) will not be subjected to delays pending the outcome of internal investigations orcausative research as prescribed by this regulation. Such incident or insecurity reporting will be accomplishedimmediately upon discovery of the loss.
+j. Accountability and the ACTPO for assets held at national storage activities will reside at the storage activity; the
+former custodial record at the storage activity will be the accountable record. This accountable record will bemaintained solely by the storage activity. Within AMC, the term “storage activity” refers to Operations SupportCommand storage activities, both CONUS and outside continental United States, to include both Government-ownedand/or Government-operated and Government-owned contractor-operated site and arsenals. It also refers to preposi-tioned afloat ships, each of which is a separate storage activity; to the U.S. Army Communications-ElectronicsCommand Communications Security Logistics Activity storage activity at Tobyhanna Army Depot; and to nationalmaintenance activities, which are performing maintenance functions on ASDA-owned or customer-owned assets.
+k. DLA, other Service, and Army storage activities will conduct causative research based on the criteria in table
+15–1 and investigate all adjustments for which causative research results in no conclusive findings. DLA, other Servicestorage activities, and Army activities storing DLA stocks will use DD Form 200 to document the results of thecausative research and the DD Form 200. The DLA and other Service storage activities will provide copies of eachcompleted DD Form 200 to each of the ASDAs affected by the loss or gain. Preparation of DD Form 200 is explainedin DOD 7000.14–R.
+l. Accountability and the ACTPO for national assets not held at a national storage activity will reside with the
+ASDA. Assets at a contractor for repair, assets on loan, and assets in transit between storage activities (other than onpost) are examples of this category of assets. The asset record maintain by the ASDA will remain the accountablerecord for these assets. This accountable record will be maintained solely by the ASDA. For these assets, the ASDAwill conduct causative research as outlined above using DA Form 444 and DD Form 200.
+Table 15–1
+Criteria for causative research
+Adjustment Causative research required
+Of $5,000, or less. No, unless required below.
+Greater than $5,000, but less than or equal to $16,000, and a unitvariance of 25 percent, or less.Sample, see AR 740–26.
+Greater than $5,000 and a unit variance greater than 25 percent
+(losses only).Yes.
+Of classified and sensitive items with a CIIC of 6, 8, 9, A-H, K, L,
+or O-T regardless of dollar value of item or extended dollar valueof adjustment.Yes.
+Of $2,500 or less for items coded pilferable (that is, a CIIC of 7, I,
+J, M, N, V, W, X, Y, or Z).Sample, see AR 740–26.
+Greater than $16,000. Yes.
+Where fraud, waste, or abuse is known or suspected. (A DD Form
+200 is mandatory).Yes.
+Results of an annual statistical sample physical inventory variance
+are greater than $100.Yes.
+Notes:
+1Sample causative research instead of complete causative research for pilferable item discrepancies with a value from $ .01 to $ 2,500 may be accom-
+plished to serve as a deterrent to fraud, waste, or abuse and to identify systemic inventory and security problems.

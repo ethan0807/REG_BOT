@@ -1,0 +1,14 @@
+
+6–10.  Inspection and testing of crash -damaged components and assemblies  
+a.  All functio nal components and assemblies (such as engines, transmissions, pumps, valves, genera-
+tors, and blades) will be inspected and tested in accordance with the applicable sustainment maintenance 
+work requirement. Components not designed as overhaul items will be  inspected and tested in accord-
+ance with the applicable maintenance manual. An item will either be condemned locally or evacuated to a 
+sustainment maintenance facility according to the recoverability code assigned to the item.  
+b.  All items that are to be locally condemned will require a completed DD Form 1577. This tag will be 
+annotated to reflect that the item has been removed from a crashed aircraft or an aircraft that has been 
+involved in an accident. Mutilation of condemned aeronautical items will be a ccomplished in accordance 
+with TM 1  –  1500  –  328  –  23. 
+c.  All items that are to be evacuated to a sustainment maintenance facility will require a statement on 
+all applicable accompanying documentation, including DD Form 1577  –  2, stating that the item has been 
+removed from a crashed aircraft or an aircraft that has been involved in an accident.  

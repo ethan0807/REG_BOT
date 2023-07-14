@@ -1,0 +1,8 @@
+
+14–19.  Maintenance messages  
+Maintenance messages (maintenance, sustainment, logistics supply, technical, or operational) that are 
+not related to safety can provide new or different pertinent non -safety information (see AR 750  –  6). Prior 
+to publishing, all maintenance advisory messages will be coordinat ed through the appropriate AMC com-
+modity command safety office to ensure their content is not safety related. The only authorized method of 
+informing ACOMs, ASCCs, and DRUs of hazardous equipment conditions is through the Ground Safety 
+Notification Sys tem. 

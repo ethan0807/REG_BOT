@@ -1,0 +1,37 @@
+
+13–4.  Planning, programming, and budgeting  for systems technical support and sustainment 
+systems technical support  
+a.  During the development and production phases of the weapon system life cycle, STS will be 
+planned, programmed, and budgeted for by the PM of the weapon system. STS will be funded with pro-
+curement dollars.  
+b.  Commencing with the first full FY after production ends, STS will transition, with funding, to SSTS 
+and will be planned, pr ogrammed, and budgeted for by the supporting AMC MSC. SSTS will be funded 
+with OMA dollars. STS funding will transition from procurement to OMA concurrent with the transition of 
+programming responsibility from the PM and/or PEO to AMC. The PM, as  the total life cycle systems 
+manager and in collaboration with the AMC, is responsible for presenting all sustainment cost estimates 
+for their systems and providing to DCS, G  –  4 (Maintenance Directorate) for inclusion in the sustainment 
+program evaluat ion group as part of the POM submission.  
+c.  For those weapon systems currently managed by PEOs and/or PMs that are forecasted to go out of 
+production during the POM years, the PEOs and/or PMs will develop weapon system schedules in coordi-
+nation with  the gaining AMC MSC. PMs will develop a process to track and monitor STS costs prior to the 
+system transitioning from production to operations and support so that data can be used as baseline in-
+formation for SSTS projected requirements during the val idation process. For programs being terminated, 
+program termination plans will include all total life cycle considerations with commensurate resourcing re-
+quirements for areas, such as SSTS, PPSS, and all depot maintenance.  
+d.  SSTS requirements will be developed by weapon system and function ( LARs) and/or type of pro-
+gram. The AMC MSCs will validate and certify all SSTS requirements and cost estimates, whether 
+ 
+contractual or organic, prior to submission. Annual HQDA onsite reviews are conducted with MSCs to as-
+sist in the validation process. Supporting documentation used in support of the MSC SSTS requirements 
+validation will be retained for HQDA review. Sup porting documentation will show how the work was quan-
+tified in terms of both workload (such as hours, quantities, and tasks) and associated costs. Examples of 
+supporting documentation include workload and cost projections derived from estimating tools such  as 
+engineering estimates, models, and simulations. The MSC commander will certify in writing the SSTS re-
+quirements for submission to AMC. AMC will compile the MSC data for submission to HQDA in support of 
+the POM each year, and the Commander, AMC or a designated representative will certify in writing the 
+SSTS POM submission. The documentation will include an accounting of the execution of SSTS dollars 
+by spending category against those dollars originally budgeted.  
+e.  The latest DCS, G  –  3/5/7 prioritization guidance for sustainment of fielded equipment will be used, 
+and a priority will be assigned based on the criteria established in the guidance. Funds will be applied in 
+priority order. AMC will provide justification for any deviation. A copy  of the latest prioritization guidance 
+may be obtained from DCS, G  –  3/5/7 (DALO  –  SMM), 500 Army Pentagon, Washington, DC 20310  –  0500.  

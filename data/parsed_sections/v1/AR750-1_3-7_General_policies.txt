@@ -1,0 +1,74 @@
+
+3–7.  General policies  
+a.  An officer, warrant officer, NCO, or civilian equivalent qualified in maintenance management will be 
+appointed as maintenance officer, in writing, at each level of command if not authorized by MTOE/ TDA. 
+Maintenance officers will provide staff supervisio n of materiel maintenance operations within the organi-
+zation.  
+b.  All Army organizations and activities performing maintenance operations will establish and maintain 
+maintenance standard operating procedures ( SOPs) in accordance with DA Pam 750  –  3. 
+c.  Commanders will achieve readiness objectives in AR 700  –  138 and meet the Army maintenance 
+TLRT  –  M and TAT standards and OR rate goals in DA Pam 750  –  1. 
+d.  Maintenance operations will be performed by military personnel in combat or hazardous duty a reas 
+as determined by the combatant commander, except as outlined below. A workforce comprising military 
+personnel, Government employees, and/or contractor maintenance organizations may perform field 
+maintenance operations in garrison and/or sustainment lo cations. In garrison field maintenance and/or 
+sustainment locations, contractors and contracted maintenance services are authorized to supplement 
+manpower shortfalls in MTOE field maintenance organizations when commanders determine that their 
+maintenance capability cannot perform to the required standard. Commanders will not augment mainte-
+nance operations at the expense of Soldier readiness and proficiency in their military occupational spe-
+cialty ( MOS). ACOM, ASCC, and DRU commanders will address contr act maintenance requirements dur-
+ing the planning, programming, and budgeting process as outlined in paragraph 3 –7d. 
+e.  All Army maintenan ce operations will be conducted in accordance with the environmental security 
+provisions of AR 200  –  1 and the underlying Federal, State, local and host nation laws and directives. 
+Commanders will aggressively support environmental protection programs and  policies in their mainte-
+nance and supply operations. Commanders will use the DA standard environmental security AIS for haz-
+ardous materials and hazardous waste management to assist them in complying with Federal, State, and 
+local environmental laws and regulations while accomplishing their maintenance support missions. Com-
+manders desiring exemption to the requirement for use of the Army standard environmental security soft-
+ware must submit requests through their ACOM, ASCC, and DRU to the DCS, G  –  9. 
+f.  Contractor augmentation is authorized during pre/post -deployment, reset, refit/recovery, and to sup-
+port LBE or unit maintained equipment ( UME) while deployed.  
+g.  ACOM, ASCC, and DRU commanders will designate a sustainment maintenance activity for  the 
+cleaning of equipment identified to have evidence of human tissue and body fluids when cleaning require-
+ments exceed organic field maintenance capability as determined by the Brigade commander. This activ-
+ity must have the capability to disassemble and assemble equipment that is returned from field mainte-
+nance units to ensure proper cleaning. The ACOM, ASCC, and DRU commanders will augment the unit 
+and/or activity with appropriate resources (mortuary affairs, preventive medicine teams, and local chap-
+lains), as required. Preventive medicine teams will certify cleaning prior to release of equipment to com-
+batant command forces, other repair facilities, or U.S. customs officials for shipments to CONUS.  
+h.  Commanders will not allow their equipment to be m odified except under the provisions of a valid 
+MWO. The Army’s Critical Safety Item ( CSI) Program is fully described in paragraph 14  –  5 of this regula-
+tion. 
+i.  ACOM, ASCC, and DRU  commanders may authorize the fabrication of repair parts and components 
+based on valid supply requisitions that cannot be obtained through the supply system in time to meet the 
+requester’s required delivery date. Aircraft components that are critical to f light safety, and any other 
+weapon system component designated as a safety related item, are not authorized to be fabricated. Fab-
+rication of parts will not be made for the sole purpose of returning items to stock.  
+j.  Maintenance will be managed at the ser ial number -level of detail or unique item identifier ( UII) in ac-
+cordance with AR 700  –  145 and DA Pam 700  –  145. 
+k.  The maintenance of all end items and class IX repairable items with a maintenance repair code 
+(MRC) of F, H, D, or L will be managed at  the serial number -level of detail unless otherwise authorized by 
+the DCS, G  –  4. 
+l.  Serial numbers for the above items will normally be recorded in maintenance AIS and on data plates 
+permanently affixed to the items and/or in various machine -readable a utomatic identification technology 
+ 
+(AIT) devices and/or media. Examples of these are affixed or etched bar code labels, affixed or etched 
+data matrix labels, and embedded chips.  
+m.  Field commanders will not change the serial number assigned to an item, r egardless of changes in 
+configuration. Under Item Unique Identification ( IUID), serial numbers cannot be changed.  
+n.  At the Sustainment -level in AMC, the generation of serial numbers for manufactured items or as-
+signment of serial numbers during depot -level materiel change operations will be governed by applicable 
+DoD and Army policy and implementing AMC instructions.  
+o.  Serial numbers are mandatory entries in the indicated data fields of maintenance management 
+forms and records at all levels located i n appendix A . 
+p.  TMDE will be calibrated in accordance with TB 43  –  180 and AR 750  –  43. 
+q.  Quality control must be fully integrated into maintenance operations ensuring:  
+(1)  The identification of equipment faults.  
+(2)  Compliance with repair procedures and equipment standards contained in the TMs and equipment -
+specific publications.  
+(3)  The correct code (X, /, -) is entered in the GCSS –Army for the reported fault.  
+r.  Maintenan ce policies, programs, and procedures unique to medical materiel will be maintained ac-
+cording to AR 40  –  61, technical bulletin medical ( TB MED) 750  –  1, and TB MED 750  –  2. 
+s.  Maintenance policies and procedures unique to those non -type classified and  nonstandard items of 
+equipment used to accomplish installation's facilities engineering mission are contained in AR 420  –  1. 
+t.  Maintenance policies and procedures for non -tactical vehicles ( NTVs ) will comply with policy in AR 

@@ -1,0 +1,25 @@
+
+3–3.  The Army maintenance standard  
+a.  The Army has one maintenance standard. This mandatory standard is defined by the TM  –  10 series 
+and TM  –  20 series, and/or in the appropriate or applied technical data plans.  
+b.  Army equipment meets the maintenance standard when the following conditions exist:  
+(1)  The equipment is fully mission capable ( FMC).  
+(2)  All faults are identified following prescribed intervals using the “items to be checked” column of the 
+applicable TM  –  10 series and TM  –  20 series PMCS tables. Aviation faults are determined by using the air-
+craft preventive maintenance inspection and s ervice in accordance with TM 1  –  1500  –  328  –  23. 
+(3)  All repairs, services, and other related work that will correct field -level equipment and/or materiel 
+faults for which the required parts and/or supplies are available have been completed in accordanc e with 
+DA Pam 738  –  751 or DA Pam 750  –  8. 
+(4)  Parts and supplies required to complete the corrective actions, but which are not available in the 
+unit, are on a valid funded requisition in accordance with AR 710  –  2. 
+(5)  Corrective actions that are not authorized at field level by the applicable TM’s MAC must be evacu-
+ated to the next higher level (sustainment) and use appropriate turn -in documentation as specified in AR 
+710  –  2 and DA Pam 710  –  2  –  1 for turn -in to sup ply. 
+(6)  Scheduled services are performed at the service interval required by the applicable TM or ap-
+proved NCOMP. Units are authorized a 10 percent variance when performing scheduled services be-
+cause of competing mission requirements. Procedures to app ly this variance are found in DA Pam 750  –  8 
+for ground equipment and TM 1  –  1500  –  328  –  23 for aviation equipment. Afloat equipment is excluded from 
+this variance requirement and maintained as instructed by TM 38  –  470. 
+(7)  All routine, urgent, and e mergency MWOs are applied to equipment and reported in the MMIS in 
+accordance with AR 750  –  10 and closed out in GCSS –Army. In addition, actions required by one -time 
+SOUMs and emergency safety of flight messages are completed in accordance with AR 75 0  –  6 and AR 

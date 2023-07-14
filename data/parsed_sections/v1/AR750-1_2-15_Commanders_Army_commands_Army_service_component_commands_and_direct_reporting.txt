@@ -1,0 +1,80 @@
+
+2–15.  Commanders, Army commands, Army service component commands, and direct reporting 
+units  
+The commanders of ACOMs, ASCCs, and DRUs will — 
+a.  Ensure that maintenance supports readiness. Commanders at all levels are accountable for the con-
+duct of maintenance operations.  
+b.  Ensure evaluation of maintenance is included in the command inspection  program.  
+c.  Ensure that subordinate commanders comply with the policies in this regulation. Send one copy of 
+any implementing instructions to DCS, G  –  4 (DALO  –  MP), 500 Army Pentagon, Washington, DC 
+20310  –  0500.  
+d.  Supervise maintenance operations at  all levels within command.  
+e.  Establish and supervise training programs for equipment operators, crews, and/or maintenance per-
+sonnel in the conduct of maintenance operations.  
+f.  Provide timely and accurate cost, readiness, and maintenance data to management systems.  
+g.  Acquire and maintain a self -sufficient capability and capacity for unit and maintenance provider sup-
+port of combat, combat support, and CSS elements.  
+h.  Program funds for support of equipment and prioritize any unfinanced requirem ents.  
+i.  Ensure that FLM is performed at the unit level or evacuated to the next level (sustainment) for supply 
+disposition if the initial inspection identifies that the cost of repair exceeds the MEL.  
+j.  Comply with materiel maintenance standards and maintenance -related logistical performance and 
+readiness standards.  
+k.  Coordinate all requirements for TMDE procurement with the PD  –  TMDE in accordance with AR 
+750  –  43. 
+ 
+l.  Establish a warranty control office and/or officer to implement the Army Warranty Program in accord-
+ance with AR 700  –  139. 
+m.  Comply with all local, regional, and national regulations governing the inspection and maintenance 
+requirements for prevention o f pollution from mobile equipment. For more information, see AR 200  –  1. 
+n.  Provide air -traffic control materiel support.  
+o.  Establish, oversee, and ensure compliance with CPC program for assigned equipment in accord-
+ance with AR 750  –  59. 
+p.  Determin e if reimbursement for fabrication services of field or sustainment maintenance activities is 
+authorized.  
+q.  Carry out quality programs under the provisions of AR 702  –  11 for assigned maintenance and cali-
+bration operations.  
+r.  Designate points of conta ct for the CBM/ PPMx, SRA, MWO, AOAP, unique item tracking ( UIT), and 
+maintenance float programs.  
+s.  Appoint in writing as an additional duty an RCF coordinator and/or manager.  
+t.  Establish subordinate RCF managers at the Corp/Expeditionary Sustainment Command -level.  
+u.  Submit RCF nominations annually to AMC for fielded ground equipment (see para 14  –  6). 
+v.  Ensure RCF policy compliance (see para 14  –  6). 
+w.  Conduct RCF supply transactions as written in AR 710  –  2. 
+x.  Ensure Joint technical inspection ( TI) is conducted and signed by a logistics assistance representa-
+tive ( LAR), LRC/ AFSBn representative.  
+y.  Ensure aviation RCF foll ows paragraph 14  –  6 of this regulation.  
+z.  Assist responsible official and AMC LCMCs as required in establishing and conducting SDC projects 
+that are implemented in the ACOM, ASCC, and DRU.  
+aa.  Ensure subordinate commanders with sustainment maintenance missions comply with NMP busi-
+ness procedures when scheduling and executing sustainment maintenance operations.  
+bb.  Ensure that all assigned personnel, including those assigned supply and maintena nce automated 
+systems data entry responsibilities, receive formal technical training appropriate for their duty assign-
+ments.  
+cc.  Ensure that assigned maintenance and supply personnel are used in the MTOE and/or modifica-
+tion tables of distribution and all owances ( MTDA) positions for which they have been requisitioned and 
+trained, including those positions identified with an additional skill identifier ( ASI).  
+dd.  Be responsible for preparing and submitting the depot maintenance workload distribution ( DMWD) 
+requirements report for prior, current, and budget years.  
+ee.  Provide MWO application teams with reasonable access to unit MWO coordinators, equipment, 
+and facilities, in accordance with AR 750  –  10. 
+ff.  Schedule MWO  application teams on unit training calendars.  
+gg.  AMC will implement item unique identification ( IUID) for IMCOM items.  
+hh.  Forecast and request NS  –  E required for training prior to deployment, via operational needs state-
+ment, to the HQDA Army Req uirements and Resourcing Board.  
+ii.  Establish a NS  –  E maintenance and reset point of contact.  
+jj.  Fund AMC for maintenance to be executed on all NS  –  E LBE managed by AMC other than that in 
+the APC category described in this paragraph.  
+kk.  Coordinate with AMC for contract maintenance support, as required.  
+ll.  Conduct maintenance operations in accordance with environmental protection programs and poli-
+cies. 
+mm.  Ensure that any heavy lifting is com plete with a suitable lifting device in accordance with Military 
+Standard ( MIL  –  STD) –1472G.  
+nn.  Review the Army’s approved Master Divestiture List prior to repairing equipment that should be re-
+placed or divested from the Army inventory.  
+oo.  Once the CBM/ PPMx end -to-end network architecture is in place, units will submit system/equip-
+ment -level CBM/ PPMx digital diagnostic data to the national data storage facility through the appropriate 
+Logistics Information System ( LIS). Active ACOMs will submit reports no less than once every 21 days for 
+ground systems and 7 days for aviation systems. The Army Reserve and National Guard will submit 
+PPMx data no less than every 45 days. In the future, as wireless capabilities are developed and fielded, 
+this proce ss may occur via an automated interrogation and reporting process and may be a pull vice a 
+push reporting process.  

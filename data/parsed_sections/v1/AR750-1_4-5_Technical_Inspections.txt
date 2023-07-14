@@ -1,0 +1,23 @@
+
+ 
+4–5.  Technical Inspections  
+a.  A TI will be performed prior to repair, evacuation, or turn -in of unserviceable end items. TIs are to be 
+made by technically qualified individuals assigned to a field -level or sustainment -level maintenance activ-
+ity. Inspections will be performed accordi ng to equipment maintenance and serviceability standards appli-
+cable to the maintenance level performing the repair. The results of TIs will be used to determine and/or 
+verify the following:  
+(1)  Serviceability.  
+(2)  Economic reparability of the item.  
+(3)  Extent of maintenance effort and repair parts required to restore the item to the prescribed service-
+able condition.  
+(4)  If unserviceable items were rendered unserviceable due to other than fair wear and tear.  
+(5)  Estimated cost of damage ( ECOD).  
+(6)  If all applicable MWOs have been applied (applies to items inducted into LBE, RESET, recapitaliza-
+tion, overhaul, rebuild, and life extension programs).  
+b.  An MOS -qualified mechanic trained on the equipment to be inspected can develop the ECOD 
+and/or actual cost of damage. The senior ranking NCO or warrant officer in the maintenance activity 
+and/or repair section will verify all TIs at the level designated in th e Source, Maintenance, and Recovera-
+bility code in accordance with the TM. If the condition code is determined to be H or P, it will be verified 
+using the procedures prescribed in DA Pam 750  –  1. Technical inspectors and maintenance personnel will 
+not mak e any assessment regarding negligence or willful misconduct.  
+c.  For mandatory procedures related to TIs see DA Pam 750  –  1. 

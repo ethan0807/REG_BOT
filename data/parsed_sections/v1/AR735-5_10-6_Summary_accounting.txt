@@ -1,0 +1,6 @@
+
+10–6. Summary accounting
+a. Summary accounting is a simplified inventory accounting procedure that records only the net result of all
+transactions that took place during the posting period. It is designed for use at certain retail level issue functionsinvolving low dollar value items and in self-service operations. It can be in terms of items or dollars, but not both. Itspurpose is to improve supply and financial operations and reduce the workload in supply management and accounting.
+b. Property accounts will be maintained using detail accounting procedures unless specifically exempted by HQDA.
+Each transaction is recorded on the property record and a running balance is maintained. The use of summaryaccounting procedures must be specifically authorized in AR 710–2 or other functional regulation. Procedures forimplementing summary accounting, when authorized by AR 710–2 are contained in DA Pam 710–2–1.

@@ -1,0 +1,68 @@
+
+7–3.  On condition cyclic maintenance  
+a.  General.   On condition cyclic maintenance ( OCCM) is a sustainment level service. This service is 
+required to meet  numerous, vessel specific, federal statutory and regulatory requirements. All Army wa-
+tercraft will undergo OCCM in accordance with the intervals established in DA Pam 750  –  1. The intervals 
+are maximum time intervals. When a deviation of more than 3 months is anticipated, the using unit may 
+request a waiver with justification through the appropriate ACOM, ASCC, and DRU commander to the 
+TACOM LCMC. The equipment status reporting will follow standard EMSR guidelines after the waiver pe-
+riod (90 day s after the service due date) has expired. OCCM is the sustainment -level maintenance that is 
+performed to ensure compliance with international and national maritime regulatory guidance for mini-
+mum safety standards at sea. OCCM consists of a series of ins pections and maintenance service actions 
+that are designed to ensure that a watercraft's structure (internal and external), piping, main and auxiliary 
+engines, electrical installations, lifesaving appliances, fire detecting and extinguishing equipment, pol lu-
+tion prevention equipment, and other equipment is maintained in a suitable, seaworthy, and safe condi-
+tion. TACOM will provide policy and procedures applicable for watercraft inspections and surveys other 
+than operator PMCS. Marine condition surveys are  TIs and written evaluations performed by qualified 
+WIB marine surveyors in accordance with TB 55  –  1900  –  201  –  45/1; Title 46, Code of Federal Regulations 
+(46 CFR); American Bureau of Shipping ( ABS) criteria; and International Convention for Safety o f Life at 
+Sea standards — 
+(1)  A marine condition survey will be performed 180 days prior to the scheduled OCCM cycle. This sur-
+vey will provide the basis for written specifications by which OCCM is accomplished. This will be a 
+dockside inspection. When po ssible, the services of qualified divers will be used to ascertain the condition 
+of the watercraft's hull and appendages below the deep load waterline.  
+(2)  At the time of dry -docking, a dry -dock inspection will be performed to identify additional repair 
+and/or maintenance requirements not observable at the time of the 180 day inspection (dockside).  
+(3)  Scheduled surveys required by the U.S. Coast Guard and the ABS for retention of “load line” certifi-
+cation will be accomplished in accordance with 46 CFR 41  –  69 and TB 55  –  1900  –  201  –  45/1. When such 
+inspections are required, the services of the ABS will be employed.  
+b.  Surveys.   In addition to the 180 day marine condition survey, TACOM LCMC  whenever possible will 
+also arrange an underwater hull survey as defined by TB 55  –  1900  –  201  –  45/1.  
+c.  Inspector qualifications.   Only experienced and qualified technical experts will perform marine condi-
+tion surveys on Army watercraft. This requires the surveyor to be thoroughly familiar with, and capable of 
+interpreting, written standards, Federal laws, rules, and regulations affecting watercraft inspection, com-
+mon watercraft construction, maintenance, and repair procedures. The marine surveyor must also be ca-
+pable of preparing written repair specifications and estimating repair costs (man -hour and materiel costs) 
+for repairs required to return a watercraft to condition code B as defined by AR 725  –  50 to ensure the ves-
+sel is safe, seaworthy, and FMC. 
+d.  Responsibilities.  
+(1)  The WIB is responsible for the performance of all marine condition surveys incident to the repai r 
+and/or overhaul of Army watercraft when the maintenance and/or repair action is to be accomplished at 
+the sustainment level. This includes all marine condition surveys incident to the accomplishment of 
+OCCM as defined by this regulation.  
+(2)  Support ma intenance organizations and activities at the retail level are responsible for performing 
+marine condition surveys incident to the repair of Army watercraft at their level or evacuation by TELS 
+work order to the next highest level.  
+(3)  When qualified mar ine surveyors are not available at support facilities, assistance may be re-
+quested through normal channels to TACOM in accordance with paragraph 7 –2e. 
+e.  Maintenance.   The statement of work to be accomplished during OCCM will vary, depending upon 
+watercraft condition, class of vessel, and other factors. As a minimum, the following maintenance and re-
+pair actions will be accomplished during OCCM:  
+(1)  Bottom cleaning and  painting up to the deep -load waterline in accordance with TB 43  –  0144.  
+(2)  All repairs below the deep -load waterline as identified during dry -dock inspection/underwater hull 
+survey.  
+ 
+(3)  Overhaul, replacement, and/or renewal of all major components iden tified for overhaul at the sus-
+tainment level. The requirements will be determined through diagnostic testing, hours of operation, and 
+inspection of internal components as directed by TACOM LCMC.  
+(4)  All other maintenance and/or repairs identified by the  marine and/or ship surveyor required to affect 
+a permanent change in the watercraft's condition, to ensure the following:  
+(a)  Capability of operating in an unrestricted manner for the purposes intended.  
+(b)  Capability of being maintained and operated in  accordance with all applicable regulations, rules, 
+laws, and policies.  
+(c)  Sustainability of the inherent reliability and maintainability designed and manufactured into the 
+equipment between repair cycles.  
+(d)  Sustainability of acceptable rates of water craft readiness between OCCM cycles.  
+(5)  TM re view and update following vessel maintenance and repair resulting in a permanent change in 
+watercraft condition. All minimum maritime safety inspections required by the ABS; 46 CFR 41  –  69; and 
+International Convention for Safety of Life at Sea to mainta in the load -line documentation in a status.  

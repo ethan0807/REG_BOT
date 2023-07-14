@@ -1,0 +1,9 @@
+
+16–10. Step 3–Free-on-board origin shipments from vendors on a Government bill of lading
+a. Initiate a DD Form 361 when discovering a transportation-type discrepancy in an FOB origin shipment on GBL
+from a—
+(1) Vendor.(2) Fixed-price contractor.(3) Commercial warehouse.b. The DD Form 361 determines the placing of responsibility despite whether—
+(1) The vendor or contractor receives payment for all or part of the article.(2) Acceptance by the Army took place.c. As a result of financial liability investigation action, a decision may be made that the shipper is entitled to
+payment for articles listed on the investigation and payment has not been authorized previously. If so, the contractingofficer will start such actions needed to make payment. Do not use DD Form 200 as documents to support paymentvouchers.
+d. Property accountability for materiel in excess of serviceable articles actually received. When it is determined that
+loss or damage articles are obviously the shipper’s responsibility, procedures in paragraph 16–4, will be used.

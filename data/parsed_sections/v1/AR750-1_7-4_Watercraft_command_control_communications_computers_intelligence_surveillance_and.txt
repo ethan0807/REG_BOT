@@ -1,0 +1,19 @@
+
+7–4.  Watercraft command, control, communications, computers, intelligence, surveillance, and 
+reconnaissance  
+TACOM LCMC, through support agreement with U.S. Army Communications -Electronics Command 
+(CECOM) LCM C, Tactical ( PEO C3T) provides centrally managed and executed sustainment mainte-
+nance support for command, control, communications, computers, intelligence, surveillance, and recon-
+naissance ( C5ISR) subsystems of Army watercraft.  
+a.  All requests for Army  watercraft C5ISR support will be routed through the Mission Command Sup-
+port Center ( MCSC) in accordance with DA Pam 750  –  8. All C5ISR faults which cannot be resolved at the 
+field-level will be reported to the MCSC to facilitate and/or initiate diagn osis and repair.  
+b.  Emergency repairs to C5ISR subsystems otherwise covered under this paragraph may be per-
+formed by lower -level activities in accordance with paragraph 7  –  4; however, all attempts will be made 
+and documented to contact MCSC for remote technical assistance.  
+c.  Parts repair and replacement information from lower -level activities should be provided to the MCSC 
+within 5 business -days to support the centralized  data and configuration management process. All C5ISR 
+maintenance actions will be recorded through GCSS –Army, LIS, or the AMC Enterprise Portal in accord-
+ance with this regulation.  
+Section II  
+Rail Materiel  

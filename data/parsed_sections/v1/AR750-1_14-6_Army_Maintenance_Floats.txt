@@ -1,0 +1,167 @@
+
+14–6.  Army Maintenance Floats  
+a.  Authorized Army maintenance regeneration enablers include RCF and TCX.  
+b.  RCF is a DA authorized quantity of selected class VII and VIII end items with a LIN and national 
+item identificatio n number ( NIIN). The goal of the RCF program is to maintain established readiness lev-
+els at the Corps/Theater levels. RCF requirements are part of the AAO.  
+c.  The system of record for RCF asset accountability is the LMP. RCF assets must be coded as  a 
+readiness float within the system of record maintenance master data file ( MMDF).  
+ 
+d.  AMC will account for RCF assets, not to exceed the established MEL, and issue or exchange floats 
+in the LMP to/from GCSS –Army  in support of requesting unit or depot in accordance with DCS, G  –  3/5/7 
+SRM priorities.  
+e.  When OR is below the Army standard and available RCF assets are not sufficient to mitigate readi-
+ness gaps, AMC may program for funding needed to repair avail able assets to establish seeds for the 
+RCF program.  
+f.  AMC will establish a written agreement with ACOM/ ASCC, as appropriate, to authorize overseas 
+field support maintenance activities (for example: MSC  –  K and TLSC  –  E) to account for, maintain and  is-
+sue RCF assets that are forward positioned within their respective overseas area of responsibilities.  
+g.  Supporting maintenance activities will evacuate approved RCF assets (if available) to requesting 
+units:  
+(1)  CONUS within 10 days, to include tr ansportation requirements.  
+(2)  OCONUS within 30 days, to include transportation requirements.  
+h.  Receiving Corps/ theater unit will ship approved NMC asset to the supporting maintenance activity:  
+(1)  CONUS  within 10 days, to include transportation requirements.  
+(2)  OCONUS within 30 days, to include transportation requirements.  
+i.  Ground equipment RCF assets may be issued to fill higher Army requirements, such as:  
+(1)  Sustainment -level repair replacement.  
+(2)  Planned sustainment repair replacement.  
+(3)  Fill shortages due to RCF transaction.  
+j.  Aviation equipment RCF assets may be issued to fill higher Army requirements, such as:  
+(1)  Phase maintenance replacement.  
+(2)  Attrition replacemen t. 
+(3)  Sustainment -level repair replacement.  
+(4)  Planned sustainment repair replacement.  
+(5)  Test bed aircraft surge requirement.  
+(6)  Training base aircraft surge requirement.  
+k.  RCF assets will not be used to — 
+(1)  Provide a SOR parts (controlled e xchange or cannibalization).  
+(2)  Expand currently assigned missions or set up new operational missions.  
+(3)  Replace items that have been cannibalized.  
+(4)  Satisfy temporary loan requirements.  
+(5)  Set up a peacetime pool of equipment to reconstitute the force.  
+l.  RCF transaction requirements — 
+(1)  Units will request RCF to meet operational requirements through their chain of command.  
+(2)  Units will reimburse gaining support maintenance activity for FLM CLIX parts and labor within 10  
+days of disposition instructions approval.  
+(3)  ACOMs, ASCCs, and/or DRUs will approve all RCF transactions.  
+(4)  Corps/Theater will manage fleets/system OR rates and approve RCF transaction requests that ef-
+fectively mitigate long term Corps/Theater -level readiness gaps in accordance with the induction criteria 
+in paragraph 14 –6l(8). 
+(5)  Joint TIs will be completed within 5 days upon approval.  
+(6)  Joint TIs will be, recorded within the system of re cord and verified by a supporting LAR, 
+LRC/ AFSBn representative.  
+(7)  AMC will take ownership of equipment upon completion of the Joint TI. 
+(8)  RCF Criteria —the below criteria will be considered when approving an RCF transaction:  
+(a)  Sustainment -level maintenance: 1) Identified sustainment -level faults cannot be fixed locally within 
+30 days  2) LCMC approved CVE candidate (not funded)  3) LCMC a pproved Shelf Life Extension Pro-
+gram candidate (not funded)  4) un -economically repairable (repairs exceed life cycle management sus-
+tainment cost)  5) modernization  6) recapitalization.  
+(b)  FLM: 1) corp/theater fleet has averaged below 90 percent goal f or the past 12 months (oldest 
+equipment has induction priority)  2) estimated ship date is over 365 days  3) battle loss/battle damaged  
+4) condition code H.  
+m.  Responsibilities.  
+(1)  The ASA (ALT) — 
+ 
+(a)  In coordination with the combat developer assess whether there is a maintenance float requirement 
+and provide this information to the combat developer. The combat developer will calculate RCF require-
+ments using the formula in table 14  –  1  for new ground acquisition or RCF formula for Aviation programs 
+as part of the requirements process. This will establish the initial RCF component with the overall ap-
+proved AAO. Coordinate with the DCS, G  –  8, DCS, G  –  4 and DCS, G  –  3/5/7 (DAMO  –  AV) to determine the 
+APO quantity associated with RCF quantity.  
+(b)  Request access to the RCF requirements in DCS, G  –  8, Force Development AE2S to facilitate AAO 
+and APO reviews and confirm RCF requirements  by LIN, NIIN, command, UIC, and FY no later than the 
+second quarter of each FY utilizing previous FY data.  
+ 
+Table 14  –  1 
+Repair cycle float and tactical computer exchange authorization formulas  —  Continued  
+Time frame  Formula  
+RCF Formula for Systems - Before Fielding  
+(Used by MATDEVs)  Requirement = (RG x IIQ) x [ MTTR/( MTBF+ MTTR)]  
+RCF Formula for - Nominated Fielded Ground 
+Systems  
+(Used by ACOMs, ASCCs, and DRUs)  Requirement = (RG - annual fleet OR rate) x LIN density  
+RCF Formula for - Fielded Ground Systems  
+(Used by AMC)  Requirement = ( RCT divided by MTBO) x LIN ( IIQ) density  
+RCF Formula for - Aviation Systems (Used by 
+DAMO  –  AV/AMCOM)  
+  Requirement = (FS) + (DR + MR)  
+Note:  
+1 RG = readiness goal from AR 700  –  138. 
+2 For initial computation during acquisition development, MTTR and MTBF is in days.  
+3 The MTBF and MTTR are those operational requirements specified for that system by the CAPDEV, documented in the initial capab ilities document, 
+and included in the product support analysis requirements.  
+4 When these elements are in rounds, hours, miles, or events, they must be converted to days. During development, MTBF and MTTR data will be 
+obtained from the product support an alysis requirements.  
+5 Supported assets and supported LIN on hand exclude RCF assets.  
+6 MTBO = Mean Time Between Overhauls.  
+7 IIQ = Initial Issue Quantity.  
+8 FS = Force Structure: Number of Aviation Battalions with like Mission Design Series Aircraft.  
+9 DR = Depot Repair: Previous 5 -year annual average number of aircraft inducted into Corpus Christi Depot for DLR.  
+10 MR = Modernization Requirements: Next 5 -year annual average number of aircraft projected to be inducted into a modernization program (Rem anu-
+facture (AH64), Recapitalization (UH60, CH47).  
+11 MTTR = mean time to repair.  
+12 MTBF = mean time between failure.  
+13 RCT = repair cycle time.  
+ 
+(2)  The DCS, G  –  3/5/7 will, annually — 
+(a)  Evaluate DCS, G  –  4 proposed AAO RCF adjustments and approve RCF requirements in accord-
+ance with Army priorities and established modernization plan.  
+(b)  Provide approved AAO for execution.  
+(c)  Update MMDF based on DCS, G  –  3/5/7 approved RCF requirements.  
+(3)  DAMO  –  AV will review, v alidate, approve, and centrally manage aircraft RCF requirements to meet 
+the needs of the Army and are accounted for based on evolving distribution priorities. Central manage-
+ment of float aircraft is required due to low density of the population, aircraft  production timelines, DLR 
+timelines, rate of attrition, and evolving operational requirements.  
+(4)  Combat Developer ( PEO/ PM) will — 
+(a)  Determine the RCF maintenance float requirement using the methodology in table 14  –  1 in coordi-
+nation with the MATDEV and coordinate this requirement with DCS, G  –  8; DCS, G  –  4; and DCS, G  –  3/5/7.  
+(b)  RCF requirem ents must be documented in the LCSP and be reviewed and updated every 5 years 
+or sooner if dictated by operational availability and readiness requirements.  
+(5)  The DCS, G  –  4 will, annually — 
+ 
+(a)  Provide oversight of the RCF computation and annual submission process to assess the effective-
+ness of the program and provide any updates based on OR/availability and fleet readiness.  
+(b)  Recommend to DCS, G  –  3/5/7 approval and/or disapproval of RCF requirements.  
+(c)  Validate t he requirements for ground systems that are fielded and in the operations and sustain-
+ment life cycle phase; specifically the DCS, G  –  4 (Sustainment Maintenance Division) at 
+(usarmy.pentagon.hqda -dcs-g-4.mbx.dcs -g44s -mps@mail.mil ). 
+(d)  Validate aviation system RCF requirements; specifically the DCS, G  –  4 (Aviation Maintenance Divi-
+sion), in coordination with DA MO  –  AV. 
+(e)  Validate combat developer RCF requirements for new ground systems acquisitions that have not 
+been fielded; specifically, the G  –  4 Integrated Logistics Support Division, in coordination with the DCS, 
+G  –  8, Synchronization Staff Officers.  
+(6)  The DCS, G  –  8 will — 
+(a)  Evaluate DCS, G  –  4 validated RCF requirements for affordability and determine the APO quantity 
+as appropriate.  
+(b)  Ensure RCF requirements are the same LIN and modernization as supported assets.  
+(c)  Approve RCF requirements and update AE2S with approved requirements.  
+(d)  Validate asset availability, procure assets, and provide disposition of excess to support the ap-
+proved RCF requirements.  
+(7)  AMC wil l— 
+(a)  Review and verify LCMC, ACOM, ASCC and DRU RCF nominations for fielded equipment and cal-
+culate the total RCF requirement using the formula in table 14  –  1 and submit requirements to the DCS, 
+G  –  4 (Sustainment Maintenance Division) to begin the staffing process for the AAO.  
+(b)  Fund second destination transportation requirements.  
+(c)  Account for RCF in accordance with AR 750  –  1. 
+(d)  Coordinate with ACOMs, ASCCs, and DRUs to develop specific RCF sustainment and FLM 
+maintenance criteria for RCF induction.  
+(e)  Maintain accountability of RCF assets in LMP and ensure float transactions are documented in 
+GCSS –Army.  
+(f)  Establish a written agreement with supporting field maintenance activities to account for RCF assets 
+in accordance with the Army maintenance standard in paragraph 3  –  3 and DA Pam 750  –  1.  
+(g)  Ensure depots and supporting field maintenance activities account for RCF assets in accordance 
+with Army maintenance standard in paragraph 3  –  3 and DA Pam 750  –  1.  
+(h)  Ensure RCF is accounted for on the APSR.  
+(i)  Ensure RCF maintenance readiness is separately reported monthly in accordance with AR 
+700  –  138. 
+(j)  Program funding requirements for the sustainment of RCF assets.  
+(8)  Commanders of ACOMs, ASCCs, and DRUs will — 
+(a)  Appoint in writing as an additional duty an RCF coordinator/manager.  
+(b)  Establish subordinate RCF managers at the Corp/ Expeditionary Sustainment Command -level.  
+(c)  Submit RCF nominations 3rd quarter annually to AMC for fielded ground equipment in a ccordance 
+with the formula in table 14  –  1 of this regulation.  
+(d)  Ensure aviation RCF is in accordance with this paragraph.  
+(e)  Ensure RCF policy compliance.  
+(f)  Ensure RCF supply transactions are conducted according to AR 710  –  2. 
+(g)  Ensure Joint TI is conducted and signed by a LAR, LRC/ AFSBn representative.  

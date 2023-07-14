@@ -1,0 +1,20 @@
+
+4–20.  Prohibitions  
+a.  Maintenance by con tract personnel is prohibited when any of the following conditions exist:  
+(1)  The maintenance workload to be performed is necessary for individual MOS skill set proficiency 
+and unit training.  
+(2)  Qualified contract personnel are not available and cannot be trained and provide maintenance sup-
+port when needed.  
+ 
+(3)  Organic resources are available and contract maintenance support will result in higher cost of 
+maintenance support to the Army.  
+(4)  The product or service is available from another DoD c omponent or another Federal department or 
+agency.  
+(5)  Systems operating forward of the Corps rear boundary during Large Scale Combat Operations 
+(LSCO).  
+b.  Approval is required for weapons systems requiring CLS forward of the Corps Rear Boundary. 
+PEOs/ PM/LCMCs responsible for weapon systems operating forward of the Corps rear boundary during 
+Large Scale Combat Operations will request approval in accordance with AR 715  –  9, requiring AMC ap-
+proval.  
+c.  Contractors performing maintenance on COMSEC equi pment must comply with training, certifica-
+tion, and security clearance requirements in accordance with AR 25  –  12. 

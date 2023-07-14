@@ -1,0 +1,13 @@
+
+ 
+8–7.  Controlled cryptographic items  
+a.  CCIs are declassified COMSEC items. Accounting and requisitioned and/or issue d procedures are 
+in AR 710  –  2. 
+b.  CCI end items must be un -keyed prior to storage when not in operational status or when being 
+turned in through channels for maintenance.  
+c.  All COMSEC  equipment, including unclassified items (for example, CCIs), in an inoperable or tam-
+per condition, and containing classified cryptographic key that cannot be destroyed, will be safeguarded, 
+controlled, and protected based on the classification of the key . Under such circumstances, the equip-
+ment must be shipped through CMCS account 5B1099 for service.  
+Section II  
+Army Tactical Intelligence, Electronic Warfare, and Sensors Materiel  

@@ -1,0 +1,6 @@
+
+16–9. Step 3–DD Form 361 shipments on prepaid commercial bill of ladings
+a. “Acceptance at destination” shipments. The Army accepts and pays for only those articles received in a
+serviceable condition; therefore, transportation discrepancies in “FOB destination” shipments made on prepaid commer-cial bills of lading from vendors do not require DD Form 361s to be prepared for DD Form 200 purposes. Furnish aDD Form 361 to the shipper who will settle the transportation discrepancies with the carrier since title does not pass tothe Government until acceptance at destination.
+b. “Acceptance at origin” shipments. Procurement contracts or purchase orders are carried out according to the
+FAR, on an “acceptance at origin” basis for shipment “FOB destination” to an Army installation on prepaid commer-cial bills of lading. When this occurs, the Army accepts title to the property at the shipping contractor’s establishment.Freight charges are paid by the contractor only as a convenience to the Government. When reporting transportationdiscrepancies of this type, prepare a DD Form 361 under the same procedures applicable to shipments moving on FOBorigin on GBL or related transportation document.

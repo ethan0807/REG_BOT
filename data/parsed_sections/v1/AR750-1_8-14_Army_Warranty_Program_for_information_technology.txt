@@ -1,0 +1,21 @@
+
+8–14.  Army Warranty Program for information technology  
+a.  Items for Army use should be acquired with warranties only when the warranty is in the Army’s best 
+interest. The decision must be made case by case. Acquiring commands or activiti es will establish local 
+warranty implementation procedures (see AR 700  –  139).  
+b.  In warranty applications, unit readiness and mission effectiveness will take priority. If the FLM activ-
+ity is not able to get an effective response (within the warranty -specified timeframes), the maintenance 
+activity will contact the acquiring command or activity for resolution. When resolution is not timely enough 
+to meet mission requirements, the maintenance activity commander may authorize repair of the item and 
+will not ify the acquiring command or activity in writing of the necessity to repair the item now and settle 
+any warranty issues later.  
+c.  To the greatest extent possible, IT warranties will be structured to allow onsite or mail -in processes 
+to maintain their war ranties. FRAs are authorized at the AMC LCMC commander’s discretion to facilitate 
+logistics IT repairs by the warranty vendors. FRAs should take action to become OEM certified warranty 
+providers. Field maintenance will be performed on automation syst ems hardware when it does not violate 
+the warranty.  
+ 
+d.  Warranty support, which is contracted for prior to IOC but occurs after IOC, will be counted as depot 
+maintenance and repair when reporting under the 50/50 rule. However, warranty support that is con-
+tracted for and occurs prior to IOC will not be counted as depot maintenance and repair when reporting 
+under the 50/50 rule.  

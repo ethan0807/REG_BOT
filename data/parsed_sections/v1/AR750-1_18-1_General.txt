@@ -1,0 +1,24 @@
+
+18–1.  General  
+a.  Advanced manufacturing refers to new ways to manufacture existing products and the manufacture 
+of new products resulting from advances in technology. Advanced ma nufacturing depends on use and 
+coordination of information, automation, computation, software, sensing, and networking, and making use 
+of cutting -edge materials and emerging capabilities enabled by the physical and biological sciences. Ad-
+vanced manufacturi ng includes, but is not limited to, additive manufacturing (also known as three -dimen-
+sional (3D) printing).  
+b.  The objective of this policy is to promote the Army’s use of additive manufacturing technologies for 
+supporting and improving readiness and enab ling unit capability to solve problems while minimizing risk 
+to Soldiers, mission, and materiel.  
+c.  The guidance in this regulation is for maintenance activities and not intended to apply to other uses 
+the commander may have.  
+d.  Use of additive manufactu ring is applicable for items which authority exists for local fabrication and 
+for items developed through unit innovation.  
+e.  Additive manufacturing refers to manufacturing or fabrication processes that involve the joining of 
+materials to make objects fro m three -dimensional model data, usually layer upon layer. Examples of 
+available additive manufacturing technologies are 3D printing, powder bed fusion, and cold spray.  
+f.  Additive manufacturing technologies provide a unique and flexible expeditionary capa bility for return-
+ing equipment to a mission capable status during BDAR, returning NMC equipment to a ready status, 
+overcoming issues of parts obsolescence or responding to disruptions in the supply system.  
+g.  The policies in this chapter apply to operat ional (field) units and activities.  
+h.  For procedures relating to additive manufacturing see DA Pam 750  –  1 and the Additive Manufactur-
+ing Guidebook.  

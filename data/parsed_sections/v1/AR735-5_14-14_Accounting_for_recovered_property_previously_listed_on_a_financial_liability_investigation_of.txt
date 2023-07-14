@@ -1,0 +1,41 @@
+
+14–14. Accounting for recovered property previously listed on a financial liability investigation of
+property loss
+Often property is found after a DD Form 200 has been initiated to account for its loss. When this occurs, follow the
+procedures listed below:
+a. When the property is recovered before a document or voucher number is assigned to the DD Form 200, the
+initiator will—
+(1) If some, but not all the property is recovered, line through the recovered property identified in blocks 4 through
+8 and initial the entries on all copies. Adjust the grand total in block 8, total cost.
+(2) If all the property is recovered, destroy the document.b. When property is recovered after a document or voucher number has been assigned to the DD Form 200, the
+initiator, the financial liability officer, appointing authority, or the approving authority, as appropriate, will direct theaccountable officer in writing to reestablish accountability for the recovered property in figure 14–5.
+(1) In the Active Army and USAR, the accountable officer will reverse the transaction using the same document or
+voucher number assigned to the DD Form 200.
+(2) In the ARNG, the accountable officer will prepare a DA Form 3161 (Request for Issue or Turn-In), and annotate
+the form as found on installation. A new document or voucher number will be assigned and cross-referenced to the DDForm 200. After posting the accountable records, copies of the DA Form 3161 will be distributed as follows:
+(a) File the original in the accountable officer’s document or voucher supporting file.
+(b) Provide a copy to the USPFO to support adjustment to the equipment status report.
+(c) Attach one copy to the DD Form 200 as an exhibit.
+(3) The accountable officer will respond back by memorandum to the initiator, financial liability officer, or
+approving authority as appropriate when accountability has been reestablished. The accountable officer’s response willbe attached to the DD Form 200 as an exhibit.
+c. When property is recovered after an inquiry and/or investigation number has been assigned by the approving
+authority, the approving authority will forward a memorandum to the accountable officer instructing the accountableofficer to reestablish accountability for the property recovered. The instructions in paragraph b, will apply to the
+accountable officer when reestablishing accountability.
+(1) When some items are recovered, but not all, a copy of the memorandum with accountable officer’s memoran-
+dum will be attached to the DD Form 200 as an exhibit, and the investigation will continue until the DD Form 200 iscompleted.
+(2) When all property is recovered, the memorandum with the accountable officer’s memorandum will be attached
+to the DD Form 200 as an exhibit, and the financial liability investigation of property loss will be cancelled. Thefinancial liability officer will be notified to discontinue the investigation and the original of the DD Form 200 will bemarked “Cancelled” and filed by the approving authority to support the cancellation.
+d. When property is recovered after the approving authority has made a final decision on financial liability, the
+approving authority will reopen the DD Form 200.
+(1) The approving authority will forward a memorandum to the accountable officer instructing the accountable
+officer to reestablish accountability for the recovered property. The instructions in paragraph b will apply to the
+accountable officer when reestablishing accountability. The accountable officer’s response will be attached to thefinancial liability investigation of property loss as an exhibit.
+(2) When an individual(s) has been assessed with financial liability for those items recovered, determine whether the
+individual was assessed the total amount of the loss or 1 month’s base pay as prescribed in paragraph 13–41 b. If the
+individual was assessed the total amount of the loss, the approving authority will forward a memorandum to the
+finance and accounting office requesting the respondent be refunded the amount collected for the recovered property.When the individual was assessed one month’s base pay, refunds of the amount collected for recovered property willnot be made unless the items recovered, reduce the total loss to less than one month’s base pay. The amount refundedwould be the difference between the amount collected and the amount of the adjusted loss (total loss, less the value ofthe recovered property.
+(3) In the event a unit or activity has been inactivated, the approval authority in the chain of command immediately
+above the inactivated unit or activity, and still active, will take the action specified in paragraph (2). The recovered
+property will be turned in as found on installation in accordance with AR 710–2.
+Section III
+Accounting for Other Losses or Damage

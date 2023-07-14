@@ -1,0 +1,25 @@
+
+14–17.  Serialized Item Management Program  
+a.  DoDI  4151.19 establishes a serialized item management ( SIM) program, which tasks the Military 
+Departments and Defense Agencies to — 
+(1)  Identify populations of select items (parts, components, and end items).  
+(2)  Mark each item in each population with a UII. 
+(3)  Generate, collect, and analyze maintenance, logistics, and usage data about each specific item.  
+b.  The overarching goals of the Army SIM is to increase weapons system readiness, reliability, and 
+safety; create life cycle asset visibility; and prov ide a reduction in ownership costs through enhanced, effi-
+cient, and effective weapons system sustainment operations. These goals will be achieved by creating a 
+global, unified supply chain ––one that is capable of projecting, sustaining, maintaining, and re constituting 
+combat power under the full range of operational scenarios ––that performs with complete visibility and 
+control of all relevant assets, equipment, and materiel.  
+c.  This policy applies to all Army activities and directs the development and exec ution of broad -based 
+SIM programs that make data about specific items, unique within their respective total populations, readily 
+available for life cycle management.  
+d.  SIM programs will enable an effective life cycle management of items by identifying populations of 
+select items (parts, components, and end items), requiring all items within these select populations to be 
+ 
+marked with a UII, and enabling the generation, collection and analysis of logistics data about each 
+uniquely identified item.  
+e.  All Army activities will update applicable policy directives, regulations, and pamphlets for which they 
+are the policy proponent. In addition, AIS and related software will be updated as required to implement 
+this policy. To optimize the process, all refere nces to management by serial number will be modified to 
+require and enable management by UII. 

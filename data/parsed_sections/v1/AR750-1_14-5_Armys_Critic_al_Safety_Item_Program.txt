@@ -1,0 +1,68 @@
+
+14–5.  Army’s Critic al Safety Item Program  
+a.  An item will be identified as CSI when failure of that item could result in loss of or serious damage to 
+the aircraft or weapon system, an unacceptable risk of personal injury or loss of life, or an uncommanded 
+engine shutdown t hat jeopardizes safety. Damage sufficient to create a class A accident or a mishap of 
+severity category I constitutes substantial damage. All CSIs  will be considered as flight safety critical air-
+craft parts.  
+b.  CSIs will be purchased or repaired and/or overhauled only from sources approved by AMCOM. The 
+objective is to achieve competition among approved CSI suppliers and their products and to en sure that 
+potentially new CSI suppliers and their products are effectively evaluated prior to delivery of CSIs to the 
+Army.  
+(1)  Unless otherwise authorized by the AMCOM, offers of surplus material of CSIs  will be considered 
+only for procurement provided the AMCOM has approved documentation substantiating the following cri-
+teria:  
+(a)  Government contract QA inspections will be performed on the surplus offers to ensure the criteria 
+are met and all critical characteristics identified on the component drawings, in the solicitation or contract, 
+and in the QA letter of instruction are acceptable.  
+(b)  Supplementary QA provisions may be provided where verification of critical safety characteristics 
+cannot be pe rformed without degradation of the CSI. 
+ 
+(2)  Local purchase of CSIs is prohibited unless justified by unusual and compelling urgency. Local pur-
+chase of CSIs is not authorized unless approved by the AMCOM. When CSIs are procured locally, the 
+buying act ivity will notify the cognizant integrated materiel manager.  
+(3)  Prior to installation of replacement CSIs not drawn from “ready for issue” inventory (for example, 
+CSIs obtained from aircraft recovery sites or other salvage and/or cannibalization activi ties), AMCOM will 
+ensure that all required maintenance actions and configuration changes are in conformance with current 
+fleet technical documentation and that applicable acceptance test procedures have been satisfied.  
+c.  Service depots and other Governm ent organic facilities are authorized to manufacture CSIs in ac-
+cordance with the following:  
+(1)  Alternate source for recurring production.   Depots and other Government facilities are candidates to 
+be alternate sources for routine, repetitive, production lot manufacturing of CSIs provided AMCOM con-
+firms they meet all the requirements established for alternate source qualification.  
+(2)  One-time manufacture.   Depots and other Government fa cilities are authorized to manufacture 
+CSIs in limited quantities on a one -time basis without undergoing the full alternate source qualification 
+process only when AMCOM confirms the following conditions are satisfied.  
+(a)  Execution of all phases of one -time manufacture processing will be done on an emergency basis 
+and will be given high priority.  
+(b)  Quantities in excess of the immediate need may be manufactured where additional items are nec-
+essary for testing (for example, first article, fatigue streng th, other destructive tests, etc.) or the economics 
+of production, part usage, and production processes indicate this is clearly advantageous to the Govern-
+ment. This authority for one -time manufacture will not be used to circumvent alternate source qualifi cation 
+requirements for repeat or routine production. This one -time manufacture requirement does not apply to 
+items produced to support research, development, test, or evaluation. The parts produced in accordance 
+with this process will be coded, tracked, a nd disposed of as military unique CSIs.  
+d.  Modifications of CSIs during installation or repair to make the item fit or function are prohibited un-
+less approved by AMCOM. CSIs that need to be modified to make them fit or function properly will not be 
+installed until the problem has been reported to AMCOM and disposition is provided in accordance with 
+discrepant material review processes.  
+e.  In the repair and/or overhaul of aviation systems and equipment, only conforming CSIs purchased 
+from sources app roved by AMCOM will be used. This is regardless of whether the repair/overhaul is per-
+formed by the Government or a contractor.  
+f.  PQDRs will be submitted, investigated, and tracked where deficiencies are identified or suspected on 
+CSIs. PQDRs will be submitted on CSIs where there is a defect or nonconforming condition detected on 
+new or newly reworked Government -owned products, premature equipment failures, or products in use 
+that do not fulfill their expected purpose, operation, or service because of  deficiencies in design, specifi-
+cation, material, manufacturing, and workmanship. Deficiencies relating to critical characteristics or those 
+that potentially impact safety will be classified as category 1 PQDRs.  
+g.  When CSIs are no longer required by an  Army aviation activity, the CSIs and associated documen-
+tation will be provided to the DLA Disposition Services for disposal as required by DoD 4140.1  –  R and in 
+accordance with DoD 4160.21  –  M. When it is not economically practical to send consumable CSIs to De-
+fense Reutilization and Marketing Service, the Army may dispose of the CSIs in the following ways:  
+(1)  Prior to disposal, CSIs that are defective, nonconforming, have exceeded their life or time/use criti-
+cal limits, or for which there is either no documentation or no reliable documentation regarding the manu-
+facture, acquisition, use, modification, repair, or overhaul, will be mutilated beyond repair. CSIs that con-
+tain military offens ive or defensive capabilities will be demilitarized in accordance with DoD 4160.28  –  M, 
+Volume 1.  
+(2)  Contracts requirement packages for the repair, overhaul or modification of aviation systems, sub-
+systems, or equipment will include requirements for the proper disposal of CSIs.  

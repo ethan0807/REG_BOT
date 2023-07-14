@@ -1,0 +1,10 @@
+
+4–4. Property records
+a. General. A property record is maintained in the real property inventory. The records will be maintained to show
+both the quantity and the dollar value of the on-hand items. Specific procedures are in AR 405–45, DA Pam 405–45,AR 415–28, and DA Pam 415–28. All documents that show the acquisition, issue, or disposition of real property willbe recorded in a voucher register. This register will be retained by the real property accountable officer to supportchanges to real property records, per AR 405–45. Audit trails must be kept-that is, DD Form 1354 (Transfer andAcceptance of DOD Real Property), DA Form 337 (Request for Approval of Disposal of Buildings and Improvements),contracts, work orders, and drawings. Copies of DD Form 1354 will be kept for the life of the facility plus 10 years.
+b. Accounting. The FAO performing the installation’s integrated accounting will maintain the financial control
+accounts in the installation’s general ledger. Summary or detail posting documents will be provided to the FAO by thefacility engineer. As a minimum, the ledger accounts will include land, buildings, structures and linear structures.
+c. Inventory. Real property general property and equipment and stewardship land will be inventoried at least once
+every 5 years. Real property heritage assets will be inventoried at least once every 3 years or upon change of theaccountable officer, whichever comes first per AR 405–45. The results will be reconciled with the accounting records.
+d. Valuation. Real property will be recorded at acquisition cost. When costs are not known, local engineer personnel
+will calculate the original acquisition costs in accordance with procedures in DOD 7000.14–R. The real propertysystem will automatically calculate the depreciation. All capital improvements must be recorded (see AR 405–15).

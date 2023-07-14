@@ -1,0 +1,108 @@
+
+12–3. DD Form 362
+a. This form will be used when—
+(1) Military and civilian employees admit liability and offer cash payment or agree to payroll deduction to settle the
+charge of financial liability.
+(2) Contractor admits liability and offers cash payment.(3) If a military member, the charge does not exceed monthly basic pay, or if a civilian, does not exceed 1/12th an
+annual salary. Contractors admitting liability will pay for the entire loss or damage, no matter the amount.
+(4) There is not a mandatory requirement for either a DD Form 200 or an AR 15–6 investigation per paragraph
+13–3 or paragraph 13–25 of this regulation.
+(5) Civilians will see their human resource service representative for DD Form 2481 (Request for Recovery of Debt
+Due the United States by Salary Offset) for payroll deduction submission (see fig 12–8). The property book office willprocess the DD Form 362 upon receipt of the processed DD Form 2481.
+b. The unit command, the primary hand receipt holder, or the accountable officer will prepare DD Form 362 as
+follows:
+(1) Block 1. Date. Enter the date the document is prepared.
+(2) Block 2. Document and/or voucher number. The PBO or stock record officer enters a document or voucher
+number for lost or destroyed items. Documents or voucher numbers are not assigned for damaged items. Document isposted to the accountable records when document or voucher number is assigned.
+(3) Block 3. Organization. Enter the organization and UIC to which the individual being charged is assigned, or the
+name of the employing agency in the case of a civilian employee.
+(4) Block 4. Station. Enter the name of the installation where the organization is located. The ARNG will enter the
+city and state of where they are located.
+(5) Block 5. Disbursing office collection voucher number. Leave blank, to be completed by the Finance and
+Accounting Office.
+(6) Block 6. Disbursing station symbol number. Leave blank, to be completed by the Finance and Accounting
+Office.
+(7) Block 7. Accounting classification. Leave blank, to be completed by the Finance and Accounting Office.
+(a) Column a. Stock number. Enter the stock number(s) and line item number(s) for the item(s) lost, damaged or
+destroyed. If the item(s) is nonstandard, enter the management control number or nonstandard line item number.
+(b) Column b. Item description. Enter the complete description, and unit cost of the items lost, damaged or
+destroyed. Obtain the unit cost from the current FEDLOG and Army Enterprise Systems Integration Program at thetime of the loss. In cases of damaged property, add “Damage to.” When item(s) RICC 2, A, B, C, or Z listed on thedocument are totally destroyed (no residue to turn in), enter the words “no residue.” After the last item, whendepreciation is allowed, enter “Unit price in column d is the unit cost, less (percentage of depreciation) allowed per thisregulation.”
+(c) Column c. Quantity. Enter the total number of each item lost, damaged, or destroyed.
+(d) Column d. Unit price. Enter the unit cost, less depreciation when authorized by this regulation for items lost or
+destroyed. For items damaged, enter the cost of repair. Depreciation is not allowed for damaged items.
+(e) Column e. Total cost. Enter the value of the unit price multiplied by the quantity for each item on the document.
+(8) Block 8. Type of action. The commander will place an “X” in either—
+(a) Block 8a. Payroll deduction.
+(b) Block 8b. Cash collection, based on the desire of the individual being charged.
+(c) Block 8c. Grand total. Enter the total from column title “total cost.” Include any costs from additional pages, if
+applicable.
+(9) Block 9. Certification of Responsible Individual. Complete blocks d through I as follows:
+(a) Block 9d. Rank and/or Grade. Enter the grade of the individual being charged.
+(b) Block 9e. Name. Enter the full name of the individual being charged.
+(c) Block 9f. Social security number. Enter the social security number (SSN) of the individual being charged. Obtain
+the social security number from the unit or activity personnel roster.
+(d) Block 9g. Cause of Charge. Enter lost, damaged, or destroyed through negligence, as applicable.
+(e) Block 9h. Signature. Individual being charged, signs the document
+(f) Block 9i. Amount. Individual being charged enters the amount being charged (amount from block titled grand
+total) in their own handwriting.
+(10) Block 10. Organization commander.
+(a) Block 10a. Date. The commander enters the date block b is signed.
+(b) Block 10b. Signature block and/or signature. The commander signs above his or her signature block.
+(11) Block 11. Disbursing officer or payroll certifying. Leave blank, to be completed by the Finance and Accounting
+Office.
+c. Figure 12–6 and figure 12–7 depict the flow and distribution of the DD Form 362 from the time of initiation, to
+the final actions by the FAO, and the subsequent return to the initiator.
+(1) The unit commander or activity head presents the DD Form 362 to the individual being charged, to examine the
+document.
+(2) If the individual accepts the charge, they will be given the option of either making a cash payment, or if a
+military member or civilian employee, by settling the charge through payroll deduction.
+(a) If the individual desires to make cash payment, the commander will place an “X” in the space titled “cash
+collection.”
+(b) If the military member or civilian employee desires to settle the charge through payroll deduction, the com-
+mander or activity head will place an “X” in the space titled “payroll deduction.”
+(3) Individuals will show their acceptance by verifying and signing the blocks following immediately below the
+“certificate of responsible individual” and entering in their own handwriting the amount of the charge.
+(4) The unit commander or activity head will complete and sign the blocks immediately below the statement by the
+“organization commander.”
+(5) Document and/or voucher number will be assigned to DD Form 362 by the accountable officer. Post the
+document to the property accounting records, as appropriate, after verification of payment to FAO. Replenishmentrequisition will be submitted, as required.
+(6) Make five copies of the completed form. The unit retains a copy, the person maintaining the document register
+or voucher register will retain a copy, the individual charged retains a copy, and two copies and the original areprovided to the FAO.
+(7) Send the original form and two copies to FAO.(a) If payroll deduction option was checked, DD Form 362 will be forwarded to FAO under a transmittal
+memorandum with receipt acknowledgement requested. When commanders do not receive an acknowledgment ofreceipt within 20 calendar days from the FAO, they will make an initial follow-up to the FAO and continue to followup every 10th working day thereafter, until FAO acknowledges receipt of the DD Form 362.
+(b) When individuals elect to make cash payment, the commander may direct the individual to make payment
+directly to the FAO, or the commander may collect monies from the individual and make payment to the FAO. Whenindividual makes payment to the FAO, they will be required to return the DD Form 362 annotated as a receipt of cashby the FAO within 2 workdays after the commander has approved the transaction. If the individual cannot show proofof payment, the commander will inquire to the FAO to verify receipt of the payment. If FAO has no record ofpayment, a new DD Form 362 will be initiated and processed as a payroll deduction, or a DD Form 200 will beinitiated and the old document canceled. In the ARNG, monies shown on DD Form 362 will be received by the unitcommander and forwarded with the DD Form 362 to the USPFO when processed as a cash collection.
+(c) A copy of DD Form 362 will be provided to the accountable officer or the individual maintaining the document
+register.
+(8) Active Army and/or U.S. Army Reserve. The Active Army will initiate and furnish a DD Form 362 to FAO
+within 5 workdays after the date of discovering the discrepancy. The USAR will accomplish this action within 60 days.For personnel departing the installation on an expiration term of service and/or permanent change of station move andhand carrying a DD Form 362 to the FAO, commanders, PBOs, and accountable officers will not affix clearingsignatures or stamps on any document in accordance with installation SOP to clear the individual until after theindividual returns to them a copy of the DD Form 362 annotated by FAO indicating receipt by the FAO.
+(9) Army National Guard. The ARNG will initiate and forward a DD Form 362 to the USPFO within 45 workdays
+after the date of discovering the discrepancy. For personnel departing the installation on an expiration term of serviceand/or permanent change of station move and hand carrying a DD Form 362 to the USPFO, commanders, PBOs, andaccountable officers will not affix clearing signatures or stamps on their DA Form 137–1 (Unit Clearance Record) andDA Form 137–2 (Installation Clearance Record) until after the individual returns to them a copy of the DD Form 362annotated by the USPFO indicating receipt by the USPFO.
+d. DD Form 362 may be electronically generated. This electronically generated form must contain all the data
+elements and follow the exact format of the existing printed form.
+e. Replacement by cash purchase or accounting for a loss with a DD Form 362 does not constitute a sale of
+Government property. The Government retains title to all property listed on DD Form 362 and all property purchasedas replacements for lost or damaged property per paragraph 2–1 f.
+f. Property listed on DD Form 362 may be recovered before a document or voucher number is assigned. When a
+portion of the items listed is recovered, the commander will line through those items recovered and initial adjacent tothe line through. If all the items listed on the DD Form 362 are recovered before a document or voucher is assigned,destroy the DD Form 362. When property listed on a DD Form 362 is recovered after the collection of theindebtedness, in full or in part, or the charges are reduced due to improper computation, an amendment will be
+prepared. The amendment citing the specific alteration will be attached to the statement of charges as an exhibit. A
+copy of the amendment will be provided to the accountable officer with instructions to reestablish accountability forthe recovered property and then forwarded to the FAO and/or USPFO under a memorandum signed by the commander,directing repayment of the value of the recovered property to the individual, as a “collection erroneously received.”
+Table 12–4
+Methods
+Method of computing collective and individual financial liability when more than one person is changedPerson’s monthly basic pay x actual loss.=Person’s Financial ChargeCombined monthly basic pay of all personsExample: (actual loss=$1,000)
+Person number 1 monthly basic pay=$1,200
+Person number 2 monthly basic pay=$2,400Person number 3 monthly basic pay=$3,600
+Total monthly basic pay of all of the above=$7,200$1,200 (Person Number 1)=.16667 x $1,000=$166.67
+$7,200 (Total Basic Pay)
+$2,400 (Person Number 2)=.33333 x $1,000=$333.33
+$7,200 (Total Basic Pay)
+$3,600 (Person Number 3)=.50000 x $1,000=$500.00
+$7,200 (Total Basic Pay)
+Total financial charge=$1,000.00
+Figure 12–5. Sample DD Form 362
+Figure 12–6. Process flowchart for cash payment and/or purchase from central issue facility and/or self-service supply center
+Figure 12–7. Accounting process for DD Form 362
+Figure 12–8. Sample of DD Form 2481
+Chapter 13
+Financial Liability Investigations of Property Loss
+Section I
+General

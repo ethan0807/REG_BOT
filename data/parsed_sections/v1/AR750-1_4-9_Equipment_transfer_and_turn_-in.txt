@@ -1,0 +1,60 @@
+
+4–9.  Equipment transfer and turn -in 
+a.  All DST directed transfers between ACOMs, ASCCs, and DRUs  must be coordinated and formal-
+ized through a jointly approved lateral transfer document prepared by the losing accountable officer (see 
+AR 710  –  2). Transfers to other DoD military departments or other Government agencies must be ap-
+proved by the applica ble NICP in accordance with AR 710  –  1. Equipment that is transferred between 
+ACOMs, ASCCs, and DRUs, including USAR and ARNG, transferred into the APS, prepared for storage 
+below the national level, and other specified stocks will meet the followi ng requirements:  
+(1)  The maintenance standard as defined in DA Pam 750  –  1. 
+(2)  Scheduled services will be current as of the date of shipment from the losing organization. The cri-
+teria for services are suspended during shipment and will resume upon acce ptance at gaining site.  
+(3)  The results of TM  –  10 series and TM  –  20 series PMCS and preventive maintenance inspection and 
+service acceptance inspections (record copy of DA Form 2404, DA Form 5988  –  E, or DA Form 
+2408  –  13  –  3 (Aircraft Technical Inspection Worksheet)) and other records required by DA Pam 738  –  751 
+and DA Pam 750  –  8 will accompany the equipment.  
+(4)  Gun tubes will have a minimum of 500 rounds of effective full charge remaining when transferred 
+into APS. O n transfers other than into Army war reserve stocks, gun tubes will have a minimum of 75 ef-
+fective full charge rounds remaining.  
+(5)  Winterization of equipment destined for geographic locations where temperatures range from nega-
+tive 25 degrees Fahrenheit to negative 60 degrees Fahrenheit.  
+(6)  Equipment accepted for depot overhaul through the Combat Vehicle Evaluation ( CVE) Program or 
+identified as a depot recapitalization candidate will not be directly transferred between ACOMs, ASCCs, 
+and DRUs.  
+b.  Equipment transfer between ACOMs, ASCCs, and DRUs in unit sets (force package fielding) will 
+meet the requirements listed in paragraph 4 –9a as well as the following — 
+(1)  Requisitions for repair parts with estimat ed delivery dates past the transfer date will be canceled 
+unless the requisition is from previous FY funds. These requisitions will be moved and allowed to come in 
+to prevent de -obligation of prior year funds. Appropriate funds (price from current Materie l Master and/or 
+FEDLOG or WebFLIS) will be transferred to AMC.  
+(2)  Outstanding field and sustainment maintenance requests that cannot be completed prior to transfer 
+will— 
+(a)  Require the gaining and losing ACOMs, ASCCs, and DRUs  to negotiate an acceptable solution 
+such as delayed transfer dates for specific pieces of equipment. Agreement requires concurrence of 
+DCS, G  –  3/5/7.  
+ 
+(b)  Be cancelled. Appropriate funds (current Materiel Master or FEDLOG or WebFLIS price) will be 
+transferred to AMC as outlined in transfer MOA.  
+(3)  ACOMs, ASCCs, DRUs, and/or agencies are responsible for funding temporary duty related to their 
+responsibilities for transfers as outlined in transfer MOA.  
+c.  AMC  responsibilities for unit set transfers between ACOMs, ASCCs, and DRUs include the follow-
+ing: 
+(1)  Serving as an arbitrator for transfers as outlined in paragraph 4 –9a. If AMC  is an active party in the 
+transfer, the DCS, G  –  4 (Maintenance Directorate) will be the arbitrator.  
+(2)  Receiving funds transferred from losing ACOMs, ASCCs, and DRUs as outlined in paragraph 4 –
+9b(2) (b). 
+(3)  Performing corrective actions at the receiving and/or handoff site to ensure equipment is in the 
+same condition as reflected by record copy of acceptance inspection required in paragraphs 4–9a(3)  and 
+4–9a(4) . 
+(4)  Providing total package fielding support to gaining ACOM, ASCC, and DRU.  
+d.  Equipment transferred between ACOMs, ASCCs, and DRUs in other than unit sets will meet the re-
+quirements in paragraph 4 –9b(2)(a) . In addition, equipment will not be transferred until all corrective ac-
+tions requiring parts are completed and field and sustainment maintenance requests are completed.  
+e.  Exceptions to the turn -in policy are — 
+(1)  Aviation equipment transferred between property accounts will conform to the serviceability criteria 
+contained in TM 1  –  1500  –  328  –  23 or the disposition instructions.  
+(2)  Frequently assembled and disassembled  equipment used as training aids (condition code F or 
+less) that requires depot overhaul prior to transfer or reissue.  
+f.  Equipment used for BASOPS or for the original purpose operator and/or crew training that meet the 
+transfer and/or turn -in standard i n accordance with paragraph 4 –9a. 
+g.  For mandatory equipment transfer and turn -in procedures see DA Pam 750  –  1. 

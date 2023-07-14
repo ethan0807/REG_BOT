@@ -1,0 +1,14 @@
+
+95  –  1. 
+(8)  All authorized BII and COEI are present and  serviceable or on a valid supply request. For aircraft, 
+all authorized flyaway items and items listed on the aircraft inventory master guide are present and ser-
+viceable or on a valid supply request.  
+ 
+(9)  All maintenance advisory messages and maintenance i nformation messages providing directives 
+for weapon system software updates are applied to equipment and reported in the MMIS in accordance 
+with AR 750  –  10. 
+c.  The Army maintenance standard applies to all equipment except:  
+(1)  Equipment used as traini ng aids that require frequent disassembly and assembly.  
+(2)  Equipment used in research, development, testing and evaluation.  
+d.  Proper use, care, handling, and conservation of materiel in accordance with applicable technical 
+publication are mandatory.  

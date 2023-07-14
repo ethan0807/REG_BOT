@@ -1,0 +1,58 @@
+
+13–32. Financial liability officer’s findings and recommendations
+a. The financial liability officer will complete block 15b through block 15k in addition to block 15a.
+b. The financial liability officer’s findings and recommendations are entered on DD Form 200, block 15a. A finding
+is a conclusion reached by the financial liability officer during their investigation of the facts and circumstancessurrounding the loss or damage of Government property. Findings are supported by evidence contained on DD Form200, block 9 or in exhibit(s) attached to the DD Form 200. When writing findings, exclude personal speculation,suspicion, or opinion not supported by evidence. Findings are the conclusions, which form the basis for makingrecommendations, and must be factual. The financial liability officer must state the facts in their own words. Findingswill be as complete as possible to enable the reviewers to ascertain relief from, or assessment of, financial liability.
+(1) If the financial liability officer’s findings rely on a self-serving statement in block 9, or in one of the exhibits,
+made by a person who was personally responsible for the property listed on DD Form 200 at the time of the loss, thefinancial liability officer’s findings must explain how that person’s statement is confirmed by other independentlydocumented evidence, if available, or by any other evidence of reliability that the financial liability officer considersrelevant.
+(2) If the financial liability officer’s findings rely on evidence which conflicts with other evidence, the financial
+liability officer must explain how the conflict was resolved.
+c. After recording the findings, the financial liability officer must develop a logical recommendation(s) based on
+their findings as applied against the guidance contained in this regulation.
+d. The financial liability officer will enter the following information in block 15 (see figs 13-2 and 13-7):
+(1) The proximate cause of the loss or damage.(2) The value of the lost or destroyed property listed on the DD Form 200 before the loss or destruction occurred. If
+depreciation is allowed, compute the value of the property as shown in appendix B. Enter the dollar amount of the lossin block 15b.
+(3) For damaged property, use the actual (if available) or the estimated cost of repairs. Enter the dollar amount of
+the cost of repairs in block 15b.
+(4) Enter the disposition, or recommended disposition, of damaged property classified as uneconomically repairable
+in block 15a.
+(5) For property other than Government quarters, and/or furnishings and equipment therein, the financial liability
+officer will state in their findings whether the liability resulted from simple negligence or willful misconduct. When thefinancial liability investigation involves the LDDT to occupant’s assigned Government quarters, and/or Governmentfurnishings and equipment therein, the financial liability officer will determine whether the loss resulted from simplenegligence, gross negligence or willful misconduct on the part of the occupant, or the occupant’s dependents, quests orpets. When simple negligence is determined, the amount of financial liability will not exceed one month’s basic pay orone twelfth of the annual salary for a DOD civilian employee. The occupant will be held financially liable for the fullamount of the LDDT when it is determined to be the result of—
+(a) Gross negligence or willful misconduct of the occupant.
+(b) Gross negligence or intentional misconduct of the dependents, guests or pets, under circumstances where the
+occupant was on notice of the particular risk involved, and failed to exercise available opportunities for preventing orlimiting the damage or loss. In the absence of evidence to the contrary, occupants will be presumed to be on notice ofrisks attending the activities of those whom the occupant invites upon the premises.
+(6) Whether assessment of financial liability is appropriate. If financial liability is being recommended, the financial
+liability officer will enter—
+(a) The name, grade, and social security number of the individual.
+(b) When the LDDT involves Government quarters, and/or furnishings and equipment therein, state whether the
+recommendations are based on a finding of simple negligence, gross negligence, or willful misconduct.
+(c) The amount to be charged the individual (see para 13–41 for liability limits). The total amount of recommended
+charges of financial liability is entered in block 15d. The methodology used for computation of the charges against asingle individual is shown at table 12-3. When collective and individual liability is recommended, that is, when 2 ormore persons are involved, the charges are computed according to table 12–4.
+(d) Whether relief from financial liability is appropriate.
+(e) The amount of the individual’s monthly base pay at the time of the loss. Enter this amount in block 15c. When 2
+or more individuals are recommended for charges of financial liability enter the information called for in blocks 15cand 15d in block 15a, adjacent to respondent’s name and SSN. Enter “see block 15a in blocks 15c and 15d.”
+(f) The amount of the individual’s monthly base pay at the time of the loss. Enter this amount in block 15c. When
+more than one individual is being recommended for charges of financial liability, use an added page that contains theelements of information usually entered in block 15c and block 15d of the individuals being recommended for chargesof financial liability. Write “see added page” in block 15c and block 15d.
+(g) If the individual is within 6 months of their expected termination of service or employment, enter the date the
+individual is expected to terminate their service, or employment.
+(h) Enter the recommended financial liability in block 15d. If more than one individual is being charged, leave this
+block blank and enter the information from block 15c block 15d on an added page (see 13–32 f(5)).
+e. If financial liability is being recommended, the financial liability officer will cause the individual recommended
+for a charge of financial liability to complete block 16a through block 16h. When 2 or more individuals arerecommended for charges of financial liability, enter the data normally placed in block 16a through block 16h theadded page for each individual being recommended for charges of financial liability and attach to the DD Form 200additional information for block 15c and block 15d as follows:
+(1) DD Form 200, block 12b continued, Investigation of Property Loss WAH8AA–14–FA–055, ,
+$63,377.50.
+(2) Monthly basic pay.(a) SSG Flowers - $2,134.
+(b) PFC Clark - $1,872.
+(3) 1/12th annual pay (Mr. Dale Johnson - $5,200).(4) Recommended financial liability.(a) Total basic pay=$9,206.
+(b) SSG Flowers=$2,134/$ 9,206=.23 * $7,634.22=$1,769.65.
+(c) PFC Clark=$1,872/$9,206=.20 * $7,634.22=$1,522.39.
+(d) Mr. Johnson=$5,200/$9,206=.56 *$7,634.00=$4,312.18.
+f. Sample added page layout for DD Form 200 : Memorandum will read DD Form 200, block 16 continued,
+investigation of property loss WAH8AA–14–FA–055, , $63,377.50.
+(1) I have examined the findings and recommendations of the financial liability officer and (check one).(a) Submit the attached statement or objection.
+(b) Do not intend to make such a statement.
+(2) I have been informed of my rights to legal advice. My signature is not an admission of liability.(3) Organization address: 319th Military Intelligence Battalion.(4) Name: Smith, William A.(5) Social security number: XXX–XX–XXX.
+(6) DSN: 543–9876.
+(7) Signature: William A. Smith.(8) Date signed: .
+Section VII
+Actions After Financial Liability Officer’s Recommendation

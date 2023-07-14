@@ -1,0 +1,5 @@
+
+4  –  1.  General  
+a.  Program core requirements are applicable to all CDS delivery systems. Add itional program component requirements 
+are contained in chapter  5 (CDC), chapter  6 (FCC), and chapter  7 (SPS).  
+b.  All CDS delivery systems must meet DOD and Army standards.  

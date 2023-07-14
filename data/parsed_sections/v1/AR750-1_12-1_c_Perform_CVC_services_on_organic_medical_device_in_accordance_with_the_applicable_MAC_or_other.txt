@@ -1,0 +1,23 @@
+
+12  –  1. 
+c.  Perform CVC services on organic medical device in accordance with the applicable MAC or other 
+reference document, for example, manufacturer literature or TB MED 521 and TB MED 750  –  2. 
+d.  Refer to TB 38  –  750  –  2 for instructions to complete manual forms located in appendix A . 
+e.  Only MOS -qualified 68A/670A personnel or industry and/or DoD trained civilians and contractor per-
+sonnel are authorized to perform ma intenance and calibration services on medical devices producing ion-
+izing radiation to verify that the equipment meets performance requirements outlined in the applicable 
+MAC or manufacturer’s literature.  
+(1)  As in accordance with 21 CFR 1020, the manufa cturers of MD that produces ionizing radiation 
+must provide assembly instructions, written maintenance instructions and those maintenance interval 
+schedules required to keep the equipment in compliance with all specific performance criteria.  
+(2)  BES will  perform annual CVC services  on medical devices that produces ionizing radiation in ac-
+cordance with TB MED 750  –  2 and TB MED 521.  
+(3)  Army medical forces BES will also perform CVC service on MD immediately after any unscheduled 
+service that could a ffect the equipment’s overall calibration integrity. This includes repair parts replace-
+ment or certified component exchanges.  
+f.  Defibrillators will be thoroughly evaluated and tested, using defibrillator analyzers in accordance with 
+TB MED 750  –  2, at least semiannually.  
+g.  Scheduled CVC services will be performed on all MD in accordance with the manufacturer’s guid-
+ance or devic e TM. These services will be performed as stated in the applicable MAC and/or manufac-
+turer’s literature prior to patient use. In the event MAC is unavailable or does not specify, CVC services 
+will be performed at the first authorized level of maintenan ce that has the capability and TMDE to do so.  

@@ -1,0 +1,20 @@
+
+3–9.  Army maintenance system components  
+a.  The Army maintenance system will consist of two levels: field maintenance and sustainment mainte-
+nance (see DA Pam 750  –  1). 
+(1)  Field maintenance, also known as on -system maintenance, repairs and returns equipment to the 
+operator or the user.  
+(2)  Sustai nment maintenance, also known as off -system maintenance, primarily repairs and returns 
+equipment and components to the supply system. In times of maintenance transformation or contingency 
+operations, the traditional roles and partnership of all AMC organi zations and SORs may be blended to 
+meet repair requirements.  
+ 
+b.  Maintenance tasks will be performed in accordance with the MAC. Field maintenance organizations 
+are authorized to perform all maintenance tasks coded C, O, and F as outlined in the equipmen t TM MAC 
+when skilled maintainers, required SKOT, TMDE, and other necessary resources are available to perform 
+the maintenance task.  
+c.  Sustainment maintenance organizations are authorized to perform maintenance tasks coded C, O, 
+F, H, L, and D as out lined in the equipment TM MAC when skilled maintainers, required SKOT, TMDE, 
+and other necessary resources are available to perform the maintenance task.  
+d.  Only AMC designated sustainment maintenance activities are authorized to perform the full ran ge of 
+maintenance tasks.  

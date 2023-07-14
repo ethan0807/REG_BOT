@@ -1,0 +1,14 @@
+
+4–1.  General  
+a.  Proper performance of PMCS  by the equipment operator will ensure early detection of faults and 
+need for required maintenance.  
+b.  The MAC specifies tasks that will be performed at each level of maintenance.  
+c.  The economic reparability of unserviceable materiel will be determined  by field units in accordance 
+with paragraph 4  –  5 prior to initiating any repair action to repair the materiel, to ensure the most cost -ef-
+fective use of maintenance resources.  
+d.  Uneconomically reparable materiel wi ll not be evacuated beyond the level authorized to dispose of 
+or reuse the materiel. Disposal of COMSEC equipment through DLA  –  DS channels or at the field mainte-
+nance level is prohibited. All COMSEC equipment must be turned in by user organizations to the support-
+ing retail level SSA and shipped to Tobyhanna Army Depot for disposal in accordance with AR 710  –  2. 
+e.  All actions relative to the inspection, classification, verification, and disposition of uneconomically 
+reparable materiel will be accompl ished in an accurate and timely manner in accordance with AR 710  –  2. 

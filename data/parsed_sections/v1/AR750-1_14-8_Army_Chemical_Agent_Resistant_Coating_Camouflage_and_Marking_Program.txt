@@ -1,0 +1,183 @@
+
+ 
+14–8.  Army Chemical Agent Resistant Coating, Camouflage, and Marking Program  
+a.  CARC refers to a coating system, not a single coating. Application of the CARC system consists of 
+four distinct steps, each of which is critical to the performance of the overall system. The steps are clean-
+ing, pretreating, priming and top coating. Missing a step can result in failure of an entire coating system. 
+Lists of approved elements of the CARC system are in the current revision of MIL  –  DTL  –  53072. The 
+CARC system (or other approved coating system) u sed on equipment protects the underlying materials, 
+often metal, from corrosion as one of its primary functions. Each specification within the CARC system 
+has an approved and validated qualified product database ( QPD). Use only those items validated and 
+listed on the QPD.  
+b.  CARC coating system and/or CPP responsibilities are as follows — 
+(1)  The CG, AMC  is the lead Army organization for providing management and direction of the CARC 
+painting and marking program. AMC, MSCs will ensure that the CARC system requirements are included 
+in all sustainment maintenance. AMC in coordination with DCS, G  –  3/5/7, PEO, and PMs provide appro-
+priate CARC color schemes for new procurement processes.  
+(2)  The CG, AFC provides management and direction for CPP, of Army materiel as follows — 
+(a)  The CCDC Army Research Laboratory ( ARL), Materials and Manufacturin g Sciences Division, Ma-
+terials Development and Transition Branch (FCDD  –  RLW  –  MC), Coatings and Corrosion Team is the tech-
+nical authority for CARC systems. ARL is responsible for researching, developing and maintaining CARC 
+protective coatings, the tes ting and qualification of these products, the technical instruction on paints and 
+painting procedures, providing technical content to the specification and related CARC  documents and 
+the shelf life validation and extension. The ARL, Materials and Manufacturing Sciences Division, which 
+includes the ARL Specifications & Standards Office, is also responsible for developing, writing, managing 
+and maintaining these material  specifications along with the QPD.  
+(b)  Development of camouflage patterns, and color or colors for Army materiel.  
+c.  Policies for painting.  
+(1)  The CARC system is the approved coating for all combat and combat support equipment; tactical 
+vehicles; ai rcraft, including unmanned; and essential GSE and reparable containers such as engine, 
+transmission, and all ammunition containers, including appropriate kits, except as stated in paragraphs 
+14–8c(9)(a)  through 14–8c(9)(f) . 
+(2)  Coatings (paint) will be applied only when the present paint is unserviceable or if directed by 
+HQDA. Vehicles may be completely recoated (repainted) when 25 percent or more of the total vehicle 
+painted area has been determined to be unserviceable by supervisory maintenance personnel. For air-
+craft, repair painting is restoration of a noncompliant coating system to an area equal to or less than 50 
+percent, and c omplete painting is restoration of a noncompliant coating system to an area greater than 50 
+percent.  
+(3)  Repainting for the sole purpose of achieving uniformity or for cosmetic purposes is prohibited.  
+(4)  Tactical equipment designed for single -color CAR C system requirement will be painted with an ap-
+proved color based upon contingency mission environment.  
+(5)  Complete repainting may be performed at field and sustainment levels where Occupational Safety 
+and Health Administration approved facilities are av ailable in accordance with TM 43  –  0139 for GSE and 
+TM 55  –  1500  –  345  –  23 for aircraft. Aircraft complete painting will be performed  at sustainment level. For 
+vehicles, the threshold for complete repainting is 25 percent or more of the total vehicle area deemed un-
+serviceable. Below this threshold, spot painting to repair damaged CARC system and prevent corrosion 
+will be done at the fi eld level.  
+(6)  Spot painting of the coating system to prevent corrosion at the field level using a brush, roller, or 
+spray can (or other approved CARC repair product forms) will be done in accordance with TB 43  –  0242 
+for ground support and TM 1  –  1500  –  345  –  23 for aircraft. Spot painting includes restoration of painted sur-
+faces after repair.  
+(7)  Spot painting of equipment painted with the CARC system will be with CARC system only. The use 
+of any unauthorized, non -CARC system coating on any equipme nt painted with the CARC system is 
+strictly prohibited.  
+(8)  Damaged paint, particularly the primer(s), must be repaired in a timely manner to maintain or re -
+establish corrosion protection. Scratches, chips, or marring of the paint observed during PMCS w ill be re-
+paired at field level to prevent corrosion damage (see TB 43  –  0242  for ground support and TM 
+55  –  1500  –  345  –  23 for aircraft).  
+ 
+(9)  Items that do not require painting will not be painted. For example, items made of fabric, that have 
+anodized, or parkerized surfaces will not be typically painted. Do not paint the following with the CARC 
+system:  
+(a)  Painted items that attain surface temperatures of 400 degrees Fahrenheit and higher, serve a heat -
+conducting function, or serve a functio n of expanding and contracting during operation. Examples are 
+manifolds, turbo chargers, cooling fins, and rubber hoses.  
+(b)  Displacement watercraft that will be subject to prolonged saltwater immersion, such as the logistical 
+support vessel and the landi ng craft utility.  
+(c)  Non-deployable equipment and fixed installation systems such as railroad rolling stock and fixed 
+power generation systems.  
+(d)  Installation/ TDA equipment such as military police cars, non -tactical fire trucks, and buses.  
+(e)  Alumi num transmissions that are enclosed in combat vehicle power pack compartments. However, 
+any ferrous components of the transmission must be protected with CARC or other rust -preventive agent.  
+(f)  Medical equipment.  
+(10)  Environmentally acceptable coating s that do not violate Federal, State, and local laws will be used 
+at all times in accordance with technical data packages provided to depots, arsenals, and contractors.  
+(11)  CARC system -protected surfaces are not to be covered with petroleum or other pro ducts to im-
+prove the appearance of the equipment. Use of these products will reduce the chemical protection pro-
+vided by the CARC system and increase the probability of injury.  
+(12)  Waivers and exceptions for CARC system requirements will be considered o n a case -by-case ba-
+sis and may only be authorized by the exception of authority of this regulation after considering stake-
+holder recommendations and justification. At a minimum, stakeholders should include the Army Corrosion 
+Control Prevention Executive; DCS, G –4’s ARL; CCDC's ARL; and the appropriate centers (for example 
+Ground Vehicle System Center or Aviation and Missile Center) and AMC MSC in their recommendation 
+and justification. Full coordination with stakeholders must be made at least 30 calen dar days prior to any 
+deadline for decision.  
+(a)  The requestor will coordinate the DA Form 5 (Army Staffing Form) with stakeholders who will pro-
+vide concur or non -concur recommendation to AMC and the milestone decision authority ( MDA) for re-
+view and co nsideration.  
+(b)  For equivalency of corrosion protection, the requestor will provide ARL actual data or objective 
+quality evidence by an independent third -party who validates the non -CARC coating(s) as intended to be 
+applied meets, at least, the same le vel of corrosion protection as would be provided by the CARC system 
+components for pretreatments, primers, and topcoats for the same application, with preference given to 
+the highest performing CARC. The data or objective quality evidence will include ou tdoor exposure test-
+ing and the testing required in the latest versions of the applicable CARC system specifications covered 
+by MIL  –  DTL  –  53072 for cleaning, pretreatments, primers and topcoats. For equivalency of critical attrib-
+utes such as chemical agent resistance, spectral reflectance, visual color and gloss the requestor will pro-
+vide a detailed survivability and protection analysis to ensure the assets, assets in nearby vicinity and unit 
+or battalion the asset will be deployed with will n ot be compromised in terms of survivability and protec-
+tion. Analysis will include a percentage of enhancement or vulnerability for requested waiver. This will in-
+clude perception test and similar to ensure zero compromise of all mission assets and rigorous data col-
+lected. Commercial comparisons are not considered valid data.  
+(c)  The 30 day coordination period begins when ARL agrees they have sufficient information to evalu-
+ate whether the proposed coating system can provide corrosion performance equivalency  and data to 
+support dismissal of critical attributes such a such as chemical agent resistance, spectral reflectance, vis-
+ual color and gloss or any element being requested to be exempted. Any decision to accept less than the 
+corrosion performance equivalen cy of CARC or other requirements —such as chemical agent resistance, 
+spectral reflectance, visual color, gloss —will be documented in the Systems Engineering Plan, the Test 
+and Evaluation Master Plan and the LCSP. All supporting rationale and life cycle co st estimates used in 
+making the decision will be provided to ARL upon approval of the waiver and exception.  
+(13)  Waivers or exceptions to CARC system policy for CBRN mission critical systems or CBRN con-
+tamination survivability requirements require a w aiver/change approval from DCS, G  –  3/5/7 in accordance 
+with AR 15  –  41. 
+(14)  Temporary color change will only be approved by AMC (G  –  4) or MDA. This action will be coordi-
+nated with ARL.  
+d.  Policies for CPP.  
+ 
+(1)  CPP is a camouflage designed to i mprove concealment by making materiel blend in with their sur-
+roundings and falsify information about the asset.  
+(2)  CPP may include a single color, such as tan or green, or use a multiple color design as developed 
+by the Ground Vehicle Systems Center and approved by CG, AFC.  
+(3)  CPP is required for all equipment having an area greater than nine square feet on any side.  
+(4)  CPP for new equipment will be specified in the technical data package and will be applied at the 
+time of manufacture.  
+(5)  Camouflage colors must meet requirements for spectral (gloss) and infrared reflectance, in addition 
+to color as established by  CCDC ARL Coatings and Corrosion Team.  
+(6)  When available, CPP will be applied to equipment during depot rebuild/overhaul, product improve-
+ment programs, and recapitalization or refurbishment programs. If the three -color pattern has not been 
+developed, a single color base coat will be applied. Where possible, depots will apply colors that conform 
+to unit contingency missions if requested.  
+(7)  Field and sustainment activities will accomplish CPP of equipment ha ving only a base coat. Pat-
+terns may be obtained from the CCDC Ground Vehicle System Center. If requirements exist that differ 
+from the approved patterns and color scheme, ACOMs, ASCCs, and DRUs must request development of 
+the required pattern and/or co lor scheme thru CCDC Ground Vehicle Systems Center for all ground 
+equipment.  
+(8)  ACOM, ASCC, and DRU commanders are assigned responsibility and authority to camouflage 
+paint equipment with patterns appropriate for contingencies. When a unit has more t han one contingency 
+plan, the CPP for the primary contingency will be used. Priority should be given to early deploying units.  
+(9)  CPP will not be changed for training exercises.  
+(10)  CPP will not be applied to — 
+(a)  Equipment not requiring open -area concealment.  
+(b)  Non-deployable equipment and fixed installation systems.  
+(c)  Equipment that must be painted in accordance with regulation or policy established by other Ser-
+vices or Government agencies.  
+(d)  Rotary and fixed -wing aircraft. However, GSE must have CPP applied in accordance with this regu-
+lation.  
+(e)  Components of systems or items that can be transported in various modes and can be constructed 
+or assembled into a variety of configurations.  
+(f)  Stackable containers used in the Defense Transportation System, except missile containers that are 
+a component of a weapon system.  
+(g)  Canvas covers, tarpaulins, end curtains, seats, and backrests.  
+(11)  Equipment will not be decorated with individual ch aracteristic designs such as caricatures or car-
+toons.  
+(12)  The style, size, and exact location of markings for all Army materiel will be specified in applicable 
+TB 43 –series and other DA technical publications, including technical data packages.  
+(13)  Aviation equipment will be marked according to TM 55  –  1500  –  345  –  23. 
+(14)  Special markings for NTVs are included in AR 58  –  1. 
+(15)  Technical data, where appropriate, will be contained on metal or plastic plates or decals.  
+(16)  The Red Cross insigni a for AMEDD equipment will consist of a red cross composed of four 
+square -shaped arms bordering on a center square of the same size and superimposed on a square white 
+field slightly larger than the cross.  
+(17)  Under tactical conditions, when requirements  for concealment outweigh those for recognition, all 
+conspicuous markings may be obscured or removed by the authority and at the discretion of the major 
+organization commander present. Protective Red Cross markings may be obscured only at the direction 
+of the responsible major tactical commander.  
+(18)  Overseas commanders may deviate from this regulation when host countries require special 
+markings in accordance with international agreements. For aviation, refer to TM 55  –  1500  –  345  –  23. 
+(19)  Before Army materiel is sold or permanently transferred from the jurisdiction of the DA, all Army 
+identification markings will be removed or permanently obliterated by sanding or chipping.  
+(20)  Markings on the exterior of tactical equipment will be appli ed or over -sprayed with materials re-
+sistant to chemical agents.  
+(21)  Safety marking, including hazard warning and caution information, for non -tactical equipment, tac-
+tical equipment not subject to the Army camouflage policy, and equipment at fixed facilit ies will comply 
+ 
+with the provisions of AR 58  –  1. Materiel painted in camouflage requiring hazard warning and caution in-
+formation will have this information applied in a contrasting color.  
+(22)  Tactical equipment in CONUS and OCONUS units and activitie s without an identifiable contin-
+gency mission or plan may maintain equipment in single color CARC that best conforms to the local ter-
+rain to minimize repainting costs without affecting unit readiness:  
+(a)  Equipment with three -color camouflage paint may n ot be repainted in single color CARC for the 
+sole purpose of achieving uniformity.  
+(b)  It is acceptable to have a mix of three and single color vehicles in a unit or activity.  
+(c)  Equipment may be repainted from three color to single color CARC only wh en a qualified field sus-
+tainment or depot maintenance personnel determines 25 percent or more of the total vehicle painted area 
+is unserviceable.  

@@ -1,0 +1,159 @@
+
+15–3. Procedures
+a. Accountable supply distribution activities.(1) ASDAs in accordance with SOP will submit, in writing and within 5 working days after causative research is
+completed, requests for depots to initiate a DA Form 444, DD Form 200, or AR 15–6 investigations. The ASDA willsubmit, with the request, an ASDA transaction history for 2 years along with an ASDA and/or depot transaction historyreconciliation listing or an unresolved discrepancy research list, whichever is applicable. The ACTPO will also includethe following data with the request:
+(a) NSN.
+(b) Description of NSN.
+(c) Unit price.
+(d) Total cost.
+(e) Inventory category code.
+(f) Controlled inventory item code.
+(g) Condition code of loss quantity.
+(h) Adjustment document number.
+(i) Name and grade of the ACTPO.
+(j) ASDA stock record account number.
+(k) Loss quantity.
+(l) Ownership code (ammunition only).
+(2) ASDAs will request depots to reply within 90 days with either a DA Form 444 or a DD Form 200.(3) ASDAs will evaluate depot requests for extensions received by telephone within 5 days of the suspense date and
+grant proper extensions.
+(4) If a depot does not meet the suspense date, the ASDA will send a follow-up to the depot commander. Send a
+copy to Operations Support Command within 5 days after the suspense date.
+(5) If the depot does not reply to the first follow-up, the ASDA will send a second follow-up 20 days after the first
+to Operations Support Command. Send copies to the depot commander and to AMC (AMSDS–SM–SA) for ammo, andDefense Logistics Agency (DLA–OW) for general supplies.
+(6) A depot submits an DA Form 444 or DD Form 200 to an ASDA. The original 90-day suspense period for that
+action ends on its submission of the DA Form 444 or DD Form 200 to the ASDA. In all cases when other actions arerequested by ASDAs, a new suspense period of 60 days for financial liability investigations of property loss and 30days for DA Form 444 will apply, for example, when returning an DA Form 444 or DD Form 200 to the submitter formore action.
+(7) ASDAs will receive DA Form 444 in original and 2 copies from depots and review them for completeness and
+accuracy (see fig 15–1). An ASDA has 30 days to approve an DA Form 444 or return it to the depot for more action.
+If the DA Form 444 is satisfactorily completed, the ACTPO will forward it through the Chief of Distribution and
+Transportation to the Director of Materiel Management for approval. Retain the original of the approved DA Form 444in the approving authority file. Return two copies of the approved DA Form 444 to the ACTPO. Forward one copy tothe depot. Place the other copy in the ASDA completed files. If the ASDA takes exception to any part of the DA Form444, return the DA Form 444 to the depot by cover memorandum for corrective action. Set suspense of 30 days fromthe date of memorandum. If the DA Form 444 remains unacceptable after the second submission, the ASDA mayrequest a DD Form 200.
+(8) ASDAs will receive financial liability investigations of property loss from depots in an original and three copies.
+ASDAs review the DD Form 200 for completeness and accuracy (see fig 15–2). An ASDA has 60 days to approve aDD Form 200 or return it to the depot for more action. If acceptable, forward the DD Form 200 to the ASDAapproving authority for approval. Retain the original of the approved DD Form 200 in the approving authority file.Return three approved copies to the ACTPO. Forward two copies to the depots for their files. Place one copy in ASDAcompleted files. If exception is taken to any part of the DD Form 200, return it to the depot by cover memorandum forcorrective action with a suspense date of 60 days from the date of the memorandum.
+(9) When the DA Form 444 or DD Form 200 indicates one of the following, the ASDA will inquire the accountable
+records to determine if the accountable records have been updated correctly.
+(a) The loss quantity is accounted for. (Erroneous receipt is posted; receipt reversal was not posted at ASDA;
+erroneous denial material was shipped; and the lost material was located in storage.)
+(b) The partial loss quantity has been recovered or accounted for that would reduce dollar value below mandatory
+requirement to initiate an DA Form 444. When records are updated correctly, close case and file it in the completedfile.
+(10) When an DA Form 444 is prepared by a depot or when a DD Form 200 results in no conclusive finding
+because of inadequate accountable records at the ASDA, the commander of the ASDA will certify this in writing. Thiscertification may be delegated to the Director of Materiel Management. Records are considered inadequate when it canbe shown during research that transactions for the item under investigation are missing or unreadable, therebyprecluding a conclusive investigation. File the certification with the research investigation documents to which itapplies (that is, DA Form 444 and DD Form 200).
+(11) The ASDA approving authority will review all approved copies of DD Form 200 received from the DLA or
+other Service storage activity approving authority. The ASDA approving authority will ensure that the level and depthof the investigation were commensurate with the nature and size of the adjustment. If the ASDA approving authority,as owner of the material in question, does not agree with the level of investigation or draws a different conclusion, theywill return the DD Form 200 to the storage activity with a memorandum outlining their concern(s). Further action willbe handled on a case-by-case basis between the approving authorities. If the ASDA approving authority believes areinvestigation is necessary, the storage activity approving authority may request that the ASDA pay for the reinves-tigation. Patterns of seeming superficiality in a storage activity’s investigation will be addressed through commandchannels.
+(12) For assets held at DLA and other Service storage activities, the ASDA will monitor adjustment documents
+received from these activities to determine when the criteria outlined in table 15–1 are exceeded and causative researchresulted in no conclusive findings. For these instances, a DD Form 200 will be forwarded to the ASDA within 45 daysof posting of the adjustment. The ASDA will follow-up with the storage activity on any DD Forms 200 not received.
+(13) Instructions for filling out DA Form 444 are as follows:(a) Supply support activity. Enter name of depot preparing the DA Form 444.
+(b) Materiel category. Leave blank.
+(c) Voucher number. Enter the ASDA document number as it appears on the ASDA memorandum requesting the
+DA Form 444 or as shown on DA Form 444, Part III (4B).
+(d) Total number of items. Leave blank.
+(e) Inventory adjustment report reason. Leave blank.
+(f) Station. Enter ASDA where the accountable records is maintained.
+(g) Count card location. Optional for single manager for conventional ammunition of identify the owner of the lost
+material. Otherwise, leave blank.
+(h) Item. Leave blank.
+(i) Stock number. Self-explanatory.
+(j) Item noun. Self-explanatory.
+(k) Condition. Enter the condition code as stated in the ASDA memorandum requesting the DA Form 444 or as
+shown on DA Form 444, Part III (4B). Enter the unit of issue.
+(l) SEC. Enter the CIIC as stated on the ASDA memorandum requesting the IAR or as shown on DA Form 444,
+Part III (4B).
+(m) Reportable item control code. Leave blank.
+(n) Recorded balance. Leave blank.
+(o) Quantity inventoried. Leave blank.
+(p) Gain. Leave blank.
+(q) Loss. Enter the quantity as stated in ASDA memorandum requesting the IAR or as shown on DA Form 444, Part
+III (4B).
+(r) Unit price. Enter the unit price as stated in ASDA memorandum requesting the IAR or as shown on DA Form
+444, Part III (4B).
+(s) Extended price-again. Enter the unit price as stated in ASDA.
+(t) Extended price-loss. Enter the dollar value of loss.
+(u) Explanation of loss and/or depreciation of research. Describe across the face of the DA Form 444 the research
+action taken by the depot to explain the loss. Attach copies of the depot transaction history and any other documentsused to support the explanation of the loss. Statements such as “previous erroneous count,” “previous offsettingadjustment,” and the like, are not acceptable explanations unless fully supported by documentation. In such caseswhere previous offsetting adjustments and erroneous counts are cited, they must equal the quantitative loss underinvestigation. In all cases, research will cover all area stated in paragraph 15–3b.
+(v) Findings. Enter across the face of the DA Form 444 conclusions made based on the research conducted. If
+reasons for the loss are not known or cannot be determined, it will be so stated.
+(w) Depot authentication. Above the stock record officer block, type the statement recommending approval and the
+depot commander’s or deputy commander’s signature block as shown in figure 15–1. The depot commander or deputywill sign and date here before the DA Form 444 is forwarded to the accountable property officer.
+(x) Stock record officer. The ASDA ACTPO will sign and date this block when the DA Form 444 is received from
+the depot and accepted by the ACTPO.
+(y) Supply support activity commander. The ASDA will strike out “SSA commander” and enter “C, Distribution and
+Transportation Division.” The division chief will sign and date this block.
+(z) Accountable supply distribution activity authentication. The ASDA will type the statement of approval and the
+director’s or deputy director’s signature block as shown in figure 15–1. The director’s or deputy director’s will signand date this block.
+(aa) Asset report copy sent. Leave blank.
+(bb) Inventory adjustment report reviewed. Leave blank.
+(cc) Total dollars-gain. Leave blank.
+(dd) Net dollars. Leave blank.
+b. Depots.(1) Property loss, establish controls to assure the interim and final replies are forwarded to ASDAs by suspense
+dates. If the depot cannot meet the suspense date, the depot will request an extension by telephone from the ASDA, 5days before the suspense date (see paras 15–3 a (2), 15–3 a(6), 15–3 a(7), and 15–3 a(8) for suspense dates).
+(2) Forward the original and two copies of the DA Form 444 or DD Form 200 to the ASDA.(3) To complete research relating to the DA Form 444 or DD Form 200, the depot will obtain transaction history to
+include all current and deleted locations; review the history to decide whether there are erroneous, duplicate, missingtransactions, or depot local adjustments; and review relevant hard copy documents. This will be done as follows:
+(a) For depot local adjustments (Z9L), check inventory files to assure that the correct quantity and condition code
+were posted.
+(b) For denials, check material release order history files to assure material was not shipped.
+(c) Locations check all current and deleted locations.
+(d) Receipts-review hard-copy receipt documents for duplicates; quantity and condition code as posted are correct;
+and weight and cube agree with the weight and cube entries recorded in the depot master data record.
+(e) For adjustments, review hard-copy and document control register on condition code reclassification (DACs) and
+re-identifications (D8J and D9J) to verify correct postings.
+(f) For shipments, review material release order history file to verify correct posting of material release orders; for
+those items shipped on a Government bill of lading (GBL) or other traceable means, verify correctness of weight andcube for shipment. Review the GBL to assure shipment of the material.
+(g) For other owners, assets may be on record for other owners. If so, verify that these recorded assets are correct
+with no adjustments that would have a bearing on the loss.
+(h) For outstanding SF 364s, review SFs 364 to decide whether an outstanding SF 364 has a bearing on the loss.
+(i) For depot maintenance, check the depot maintenance activity to assure missing material is not located there, and
+any transaction to or from the maintenance activity is correctly reflected on the depot’s transaction history.
+(j) For disposal activity, check the disposal activity for missing material.
+(4) An DA Form 444 prepared by a depot may result in no conclusive finding because of inadequate custodial
+records at the depot. If so, the commander of the depot or their deputy will certify this in writing. Records are
+considered inadequate when research shows that transactions for the item under investigation are missing or un-
+readable, thereby preventing a conclusive investigation. File the certification with the research or investigative docu-ments to which it applies (that is, DA Form 444 or DD Form 200).
+(5) Investigation may recover missing material or may account for it. If so, make corrections to the depot custodial
+records as required. Forward a reply by first memorandum to the ASDA to include a copy of the depot transactionhistory showing the corrections have been made. Include an explanation for the discovery. This history will includerecovery or accounting for partial quantities that would reduce the dollar value below the mandatory requirement for anDA Form 444 as stated in table 15–1. In those cases where recovery or accounting for quantities (partial or total)reduce the dollar value below the mandatory requirements for an DA Form 444, depot replies by first memorandumwill constitute closing of the DA Form 444 unless otherwise notified by the ASDA. A partial quantity may berecovered or accounted for and may not reduce the dollar value below the mandatory requirement. If so, continueprocessing the DA Form 444 for the actual loss quantity.
+(6) Investigation may fail to account for the loss. If so, take the following actions:(a) Prepare an DA Form 444, DD Form 200, or AR 15–6 investigation on request from the ASDA. If the ASDA
+requests an DA Form 444, not knowing that negligence or willful misconduct is suspected, the depot commander willinitiate a DD Form 200 instead of an DA Form 444.
+(b) The depot commander will sign both DA Form 444 and DD Form 200 in the proper blocks before submission to
+ASDAs. Note that when blocks 13a through 13h are completed, the words “appointing authority” will be lined out andreplaced with the words “depot commander.”
+(c) When initiating a DD Form 200, forward copy number five to the proper ASDA showing that a DD Form 200
+has been initiated. Forward the original and three copies of the financial liability investigation of property loss to thedepot commander for assigning an inquiry or investigation number from the DD Form 200 register, and appointing afinancial liability officer (when required by the approving authority).
+(7) Appointed financial liability officers will conduct an investigation and document losses as stated in chapter 13.
+They will compile the evidence that substantiates or refutes the statements on DD Form 200, block 9, and attachedexhibits. Financial liability officers will record only facts about the loss. Statements attached as exhibits will be in theform of certificates for military and civilian personnel. The financial liability officer will—
+(a) Obtain statements in the form of certificates or direct quotes of persons mentioned on DD Form 200, block 9, if
+not already attached as exhibits, and any other persons interviewed during the investigation.
+(b) Review evidence presented to assure all transaction postings are correct. Transactions include receipts, issues,
+and adjustments.
+(c) Confirm that receipt postings are correct as to quantity and condition code. Weight and cube recorded on hard-
+copy receipt documents are equal to weight and cube recorded in the depot master data record.
+(d) Assure that all shipment postings have been verified against the material release order history file; the bills of
+lading (BLs) are verified to assure the correct quantity was shipped; and the weight and cube agree with the quantityshipped.
+(e) Verify that NSNs with a CIIC of 2, 3, and 8 were properly reported to security. (Those controlled items that
+require an AR 15–6 investigation are exceptions.) When a weapon is lost, include the serial number in the DD Form200 or AR 15–6 investigation. Verify that a copy of the security investigation is attached to the DD Form 200 as anexhibit.
+(f) Investigate the receiving, storage, inventory, and shipping practices; obtain statements in the form of certificates
+or direct quotes that verify practices met regulatory requirements; and cite the regulations. Include whether or not thesecurity measures are, or were in effect to prevent theft.
+(g) As applicable, check the maintenance, disposal, and quality assurance activities.
+(h) Check other owner transactions, if any, to ensure postings are correct, with no adjustments that would account
+for the loss.
+(i) Decide whether or not the missing item has any commercial application.
+(j) Decide whether or not a person is to be held financially liable.
+(k) Determine who is responsible; normally this is the depot-appointed responsible officer.
+(l) From the above, decide whether negligence or willful misconduct is evident.
+(m) State how the loss occurred. If this cannot be determined, state why.
+(n) If the missing material is found or accounted for, discontinue the investigation. Report the findings through the
+depot commander to the inventory office. The inventory officer will have the depot custodial records corrected asrequired. The office will also advise the applicable ASDA of these findings. Include a copy of the depot transactionhistory showing that corrective action has been taken.
+(o) Make a recommendation based on recorded facts stated in the findings. The recommendation will cover
+accountability, responsibility, and financial liability, as applicable. Do not recommend adjusting records as the recordshave already been adjusted.
+(p) Obtain the signature of the depot commander. Forward the completed financial liability investigations of
+property loss to the applicable ASDA.
+(8) Conduct an AR 15–6 investigation on controlled items according to AR 15–6 (see AR 190–11). An AR 15–6
+investigation may be used instead of a financial liability investigation. In these cases the depot will complete DD Form200, enclose a copy of the AR 15–6 investigation to it, and submit it to the ACTPO at the applicable ASDA. The DDForm 200 will be completed according to figure 15–2 except that—
+(a) Blocks 9 and 15a will not include details on the circumstances and findings. Instead, include a statement in these
+blocks referring to the attached AR 15–6 investigation.
+(b) If no one is recommended for assessment of financially liable, include a statement in block 15a. The statement
+will recommend that the accountable officer be relieved of accountability and not held financially liable.
+(c) The name of the presiding member of the AR 15–6 board of investigation will be recorded on the memorandum
+used to appoint members of the AR 15–6 board, which will be attached to the DD Form 200 as an exhibit.
+Figure 15–1. Sample DA Form 444
+Figure 15–2. Sample DD Form 200
+Figure 15–2. Sample DD Form 200–Continued
+Chapter 16
+Discrepancies Incident to Shipment of Property by Common or Contractor Carrier
+Section I
+Introduction

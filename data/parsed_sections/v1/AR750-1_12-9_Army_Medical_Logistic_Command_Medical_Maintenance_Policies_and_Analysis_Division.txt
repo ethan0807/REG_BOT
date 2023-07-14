@@ -1,0 +1,46 @@
+
+12–9.  Army Medical Logistic Command Medical Maintenance Policies and Analysis Division  
+a.  M2PA provides national -level oversight of maintenance and sustainment functions for Army medical 
+forces. M2PA manages all sustainment repairable items which are composed of items that cannot be re-
+paired at FLM. All sustainment -level reparable items will be repaired to the Army main tenance standard 
+defined in paragraph 3  –  3 and for nonstandard equipment, manufacturers’ literature or documentation de-
+veloped by sustainment organizations.  
+b.  M2PA will — 
+(1)  Enhance responsiveness to sustainment maintenance requirements generated during peacetime, 
+contingency, and wartime conditions by linking all levels of sustainment maintenance under the appropri-
+ate commodity command.  
+(2)  Implement the Army policy of repair as the primary SOS.  
+(3)  Implement the highest published standard as the national standard and the single standard for 
+those items repaired and returned to the supply system.  
+(4)  Optimize workload across existing maintenance capabilities and allows for reductions in capital in-
+vestments to maintenance facilities and TMDE used in maintenance operations.  
+(5)  Develop and maintain a database of maintenance facilities, both organic and contract, and is re-
+sponsible for ensuring minimal redundancy of maintenance capabilities and capac ities. 
+(6)  Ensure all repairs will be demand supported and based on Army requirements.  
+(7)  Consolidate all sustainment maintenance workload in depots, on national maintenance contracts or 
+at FLM activities.  
+c.  M2PA responsibilities — 
+(1)  Develop strategic plans to support class VIII equipment requirements for maintenance that effec-
+tively and efficiently support contingency operations through strategic maintenance points and capabilities 
+that project maintenance subject matter expertise across the continuum of care.  
+(2)  Support the maintenance vision of ensuring 100 percent readiness for field  medical, dental, and 
+veterinary units.  
+(3)  Monitor processes that foster improvements in readiness of medical equipment and materiel issued 
+to TOE medical units to include readiness assessments through SDC, training support, maintenance au-
+tomation deve lopment and special programs implementation.  
+(4)  Manage non -depot repair programs for all class VIII reparable items for the Army.  
+(5)  Maintain visibility of the Army’s sustainment maintenance capabilities and capacities.  
+(6)  Provide input on national m aintenance related to doctrine, strategic direction, and policy docu-
+ments.  
+(7)  Develop and coordinate maintenance management procedures, guidance, and metrics.  
+(8)  Serve as a resource for national maintenance information to ILS processes.  
+(9)  As part of the Integrated Concept Development Team, coordinate maintenance data requirements 
+with logistics automation developers.  
+(10)  Track cost effectiveness and efficienc y of national repair programs.  
+(11)  Maintain databases and/or files.  
+(12)  Ensure Army medical materiel maintenance policies are updated and remain applicable to current 
+field tactical and sustainment business procedures for biomedical systems, technologi es, and equipment.  
+(13)  Ensure medical maintenance management processes fully supports the Army’s Medical Logistics 
+Enterprise.  
+Chapter 13  
+Life Cycle Maintenance Support  

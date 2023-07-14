@@ -1,0 +1,13 @@
+
+16–55. Step 6–Distribution of forms
+a. Distribution of SF 364 for both shipping-type or item (supply) and packaging is in AR 735–11–2.
+b. Exceptions to these distributions are as follows:
+(1) SF 364s related to fielding of force modernization equipment. Mail a copy of all SF 364s related to FME
+fielding to the AMC Packaging, Storage, and Containerization Center (PSCC) (SDSTO–TO Central Repository for SF364s Data), Tobyhanna, PA 18466–5097 for entry into the central repository for SF 364s data. Provide series FMEproject code to the AMC PSCC for entry into the SF 364.
+(2) Defense European and Pacific redistribution activity directed shipments.
+(a) Original and two copies to the ICP and/or item manager indicated in cc: 67–69 of the DD Form 1348–1A (Issue
+Release/Receipt Document).
+(b) Two copies to the receiving and/or reporting activity’s accountable officer.
+(c) Two copies to the shipping activity indicated in DD Form 1348–1A (cc: 4–6).
+(3) Enclosures. Except in instances of missing documentation, the SF 364 must contain a copy of the applicable DD
+Form 1348–1A/DD Form 250/DD Form 1155. Also, submit copies showing the resolution of any related andpreviously submitted DD Form 361s, SF 364, and SF 368 (Product Quality Deficiency Report (PQDR)).

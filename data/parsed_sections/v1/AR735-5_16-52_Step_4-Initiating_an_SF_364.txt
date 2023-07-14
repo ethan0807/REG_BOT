@@ -1,0 +1,49 @@
+
+16–52. Step 4–Initiating an SF 364
+a. General. As stated in paragraph 16–2 d, this section addresses property accountability aspects. It gives procedures
+for use by Army receiving installations and activities to report and adjust item (supply) discrepancies as defined inparagraph 16–7 c. This section also outlines the relationship between SF 364 and DD Form 200 actions.
+(1) When submitted, a SF 364 serves to suspense received overages, shortages and damaged Government property
+until disposed of or taking authorized adjustment action. The SF 364s clearly identify discrepancies and deficienciesinvolving the shipper of materiel (depot or contractor) or initiator of the shipments. Even though SF 364s do notalways result in financial liability investigations of property loss, SF 364 investigations can lead to that requirement asshown below and at table 16–1.
+(2) Discovery of a discrepancy involving the shipper usually occurs when matching the supply documents or making
+an item count after opening shipping cartons in the activity’s receiving area.
+(a) Situation. Shipment received.
+(b) Type of shipment. Parcel post, commercial carrier and military transportation.
+(c) Discrepancy. Comparison of document and tally shows not all items received from shipping activity (that is,
+depot, contractors, manufacturers and vendors). Nonreceipt of parcel post shipments, shipments from vendors, packag-ing and item discrepancies.
+(d) Action by receiving personnel. The receiving personnel will—
+1. Check criteria for preparation of SF 364.
+2. Prepare SF 364 and forward to proper officer (that is, inventory control point (ICP) or inventory manager).
+(3) AMC has delegated responsibility to AMC Packaging, Storage and Containerization Center as the final arbitrator
+for unresolved and contested SF 364s appealed by the requestor.
+(a) Lateral redistributions of major items for intra-ACOM, ASCC, and/or DRU lateral redistributions of major items,
+policies on discrepancy reporting and issue of credit will be established by the applicable ACOM, ASCC, and/or DRU.
+(b) For inter- ACOM, ASCC, and/or DRU lateral redistributions of major items, the losing activity has the
+responsibility for ensuring the items meet TM 10 series and/or TM 20 series standards prior to shipment, per AR750–1. Gaining activities will report discrepancies to the losing activity citing estimated or actual repair costs andrequest reimbursement.
+(4) SF 364 policy for lateral transfers of equipment and/or major items between ACOMs. The losing activities must
+meet TM 10 series and/or TM 20 series standards on all equipment transfers between ACOMs, ASCCs, and/or DRUs,as stated in AR 750–1. Discrepancies are to be reported by the gaining activity directly to the losing activity forresolution SF 364 procedures. An information copy of the SF 364 will be provided to the national level ICP.
+(a) Charges and reimbursement. AR 750–1 lists parts, labor (which includes both civilian and military), material,
+and direct and indirect costs (to include temporary duty costs for technical inspections). These charges are alsoappropriate for reimbursement on SF 364s against equipment transfers between ACOMs, ASCCs, and/or DRUs whenthe equipment does not meet maintenance and equipment standards found in TM 10 series and/or TM 20 series whichis available at the Logistics Information Warehouse (https://www.logsa.army.mil/etms). Reimbursements on such SF364s, as with packaging SF 364s, will be made for actual costs incurred. When operations, maintenance, and Armyfunds are involved, assure that reimbursements are made the same fiscal year the work is performed.
+(b) Parts and labor. To minimize the costs on SF 364s, repair will be done on site whenever possible, using the
+lowest level maintenance activity that has capability and authority to perform the work. Components will be repairedwhen cost effective.
+(c) Exceptions. Exceptions to this policy may be made by agreement between the gaining ACOM, ASCC, and/or
+DRU, and the losing ACOM, ASCC, and/or DRU.
+b. Scope. Report shipping-type (item) discrepancies, packaging discrepancies and discrepancies in parcel post
+shipments.
+c. Reporting discrepancies. If the reporting criteria shown below apply, report a shipping-type item discrepancy by
+submitting a SF 364 (see fig 16–2 for preparation instructions).
+(1) Shipping-type (item) discrepancies. This involves supply discrepancies in shipments from DOD activities (in-
+cluding materiel returns from DOD and FMS customers), GSA supply distribution facilities, and from contractors,manufacturers, or vendors. Reporting criteria applies to the types of discrepancies and dollar values to report. (Reportdiscrepancies in shipments from contractors, manufacturers, or vendors regardless of dollar value.)
+(2) Discrepant shipments to the Defense Logistics Agency Disposition Service Office. When DIC AFX and/or AFZ
+is received, the shipper retains responsibility for—
+(a) Investigating the discrepancy.
+(b) Notifying the local provost marshal and/or security officer for investigation under the provisions of AR 190–30
+(regardless of ownership).
+(c) Preparing and submitting a SF 364 for Army-owned materiel for receiving activities. This exception provides the
+use of the SF 364 as the basis for any inventory adjustments and if necessary, a DD Form 200.
+(3) Packaging discrepancies. The following clarifies damage: Report concealed damage as a shipping-type SF 364
+and indicate on SF 364, block 12 concealed damage; for visible, carrier-caused damage, submit a DD Form 361. Whencarrier liability does not apply on the DD Form 361, submit a shipping-type SF 364 with the DD Form 361 attached asevidence. Questionable situations may require simultaneous submission of both a DD Form 361 and a packaging SF364. Check top block on SF 364 to identify packaging discrepancies.
+(4) Time standards for submitting SF 364. Submit SF 364s within the timeframes stated in your SOP.
+(a) Nonreceipt of parcel post shipment. As added clarification, report non-receipt of parcel post shipments from
+contractors, manufacturers or vendors on a shipping type (item) SF 364 within time frames specified in your SOP. Forshipments from contractors, manufacturers or vendors where shipment status has not been received, report nonreceipton shipping-type (item) SF 364 within the specified timeframe.
+(b) Shipments to Defense Logistics Agency Disposition Service Office. Shipments to Defense Logistics Agency
+Disposition Service Office. Submit SF 364s on shipments of Army owned materiel to DLA Disposition ServiceOffices.
