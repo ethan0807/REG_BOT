@@ -34,8 +34,8 @@ if 'model_name' not in st.session_state:
     st.session_state['model_name'] = []
 
 # Sidebar - let user clear the current conversation
-st.sidebar.title("Sidebar")
-st.sidebar.markdown("Enter a question about the following Army Regulations: AR735-5 Property Management, AR600-8-24 Officer Transfer and Discharge, AR 608-10 Child Development Services, AR750-1 Material Maintenance Management")
+st.sidebar.title("Enter a question about the following Army Regulations:")
+st.sidebar.markdown(" AR735-5 Property Management, AR600-8-24 Officer Transfer and Discharge, AR 608-10 Child Development Services, AR750-1 Material Maintenance Management")
 clear_button = st.sidebar.button("Clear Conversation", key="clear")
 
 # reset everything
