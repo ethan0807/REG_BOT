@@ -25,7 +25,8 @@ def generate_summary_chat(nodes):
 
     for node in nodes:
         text = node.source_text
-        response = chat_engine.chat(text + "\n\nTl;dr")
+        response = chat_engine.chat("Restate the following text more succintly and clearly: " + text)
+        #response = chat_engine.chat(text + "\n\nTl;dr")
         responses.append(response)
         chat_engine.reset()
 
