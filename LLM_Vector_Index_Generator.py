@@ -1,5 +1,5 @@
 import openai
-from llama_index import Document, GPTVectorStoreIndex, SimpleDirectoryReader
+from llama_index import Document, GPTVectorStoreIndex, SimpleDirectoryReader, EmptyIndex
 import Globals
 import os
 import re
@@ -73,5 +73,8 @@ for file_list in text_files:
 
 index = GPTVectorStoreIndex.from_documents(documents)
 
-# save vector index to persistant storage
-index.storage_context.persist(persist_dir=index_path)
+if len(index.storage_context.docstore.docs) == 0:
+    print("The generated index is empty.")
+else:
+    # save vector index to persistant storage
+    index.storage_context.persist(persist_dir=index_path)
