@@ -1,5 +1,6 @@
 fitz==0.0.1.dev2
-langchain==0.0.280
+langchain==0.0.279
+nltk==3.8.1
 llama-index==0.8.17
 openai==0.27.8
 streamlit-chat
