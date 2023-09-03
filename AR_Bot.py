@@ -52,14 +52,14 @@ if clear_button:
 def generate_response(prompt):
     st.session_state['messages'].append({"role": "user", "content": prompt})
 
-    nodes = get_retrieved_nodes(index, prompt, vector_top_k=1)
-    if nodes[0].score < 0.75:
+    nodes_with_score = get_retrieved_nodes(index, prompt, vector_top_k=1)
+    if nodes_with_score[0].score < 0.75:
         response = "I'm sorry, I can't find a good answer to that question. Can you please rephrase it or attempt to be more specific?"
     else:
-        summaries = generate_summary_chat(nodes)
-        reg = nodes[0].extra_info["regulation"]
-        sec_num = nodes[0].extra_info["section_number"]
-        sec_name = nodes[0].extra_info["section_name"]
+        summaries = generate_summary_chat(nodes_with_score)
+        reg = nodes_with_score[0].node.metadata["regulation"]
+        sec_num = nodes_with_score[0].node.metadata["section_number"]
+        sec_name = nodes_with_score[0].node.metadata["section_name"]
         source = f"Source: Regulation {reg}, {sec_num} {sec_name}"
         summaries[0].response += "\n\n" + source
         response = summaries[0].response

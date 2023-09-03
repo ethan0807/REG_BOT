@@ -23,8 +23,8 @@ def generate_summary_chat(nodes):
     logging.basicConfig(stream=sys.stdout, level=logging.INFO)
     logging.getLogger().addHandler(logging.StreamHandler(stream=sys.stdout))
 
-    for node in nodes:
-        text = node.source_text
+    for node_with_score in nodes:
+        text = node_with_score.node.text
         response = chat_engine.chat("Restate the following text more succintly and clearly: " + text)
         #response = chat_engine.chat(text + "\n\nTl;dr")
         responses.append(response)
